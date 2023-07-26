@@ -28,7 +28,7 @@ asciidoc:
     # The downside is that we have to update these attributes whenever we release a new version of a component.
     #
     eforms_latest_version: '1.7.0'
-    epo_latest_version: '3.1.0'
+    epo_latest_version: '4.0.0-rc.1'
     espd_latest_version: '3.2.0'
 
   extensions:
@@ -51,7 +51,7 @@ content:
   ### ePO Documentation
   - url: https://github.com/OP-TED/epo-docs.git
     start_path: /
-    branches: new_main, v3.0.1, v2.0.1, v2.0.0, v1.0.0, wg_corrections, Nicole_refactoring
+    branches: new_main, v4.0.0-rc.1, 3.0.1, v2.0.1, v2.0.0, v1.0.0, wg_corrections, Nicole_refactoring
   
   ###  ESPD
   #- url: https://github.com/OP-TED/espd-docs.git
