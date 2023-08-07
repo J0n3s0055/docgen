@@ -51,7 +51,7 @@ content:
   ### ePO Documentation
   - url: https://github.com/OP-TED/epo-docs.git
     start_path: /
-    branches: new_main, v3.0.1, v4.0.0-rc.1, v2.0.1, v2.0.0, v1.0.0, wg_corrections, Nicole_refactoring
+    branches: new_main, v3.0.1, v2.0.1, v2.0.0, v1.0.0, wg_corrections, Nicole_refactoring
     # v4.0.0-rc.1,
   ###  ESPD
   #- url: https://github.com/OP-TED/espd-docs.git
