@@ -76,7 +76,7 @@ content:
 
 urls:
   latest_version_segment_strategy: redirect:from
-  latest_prerelease_version_segment: next
+  latest_prerelease_version_segment: 3.1.0
   redirect_facility: static
   # html_extension_style: indexify
   latest_version_segment: latest
