@@ -52,6 +52,14 @@ content:
   - url: https://github.com/OP-TED/epo-docs.git
     start_path: /
     branches: main, v*, wg-meetings
+
+  - url: https://github.com/meaningfy-ws/model2owl-docs
+    start_path: docs  
+    branches: main
+
+   - url: https://github.com/OP-TED/model2owl
+    start_path: docs  
+    branches: main  
     # 
   ###  ESPD
   #- url: https://github.com/OP-TED/espd-docs.git
