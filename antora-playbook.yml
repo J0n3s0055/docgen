@@ -57,13 +57,13 @@ content:
   #  start_path: docs  
   #  branches: main
 
-  #- url: https://github.com/OP-TED/ted-rdf-docs
-  #  start_path: docs  
-  #  branches: main
+  - url: https://github.com/OP-TED/ted-rdf-docs
+    start_path: docs/antora 
+    branches: main
     
-   #- url: https://github.com/OP-TED/model2owl
-   # start_path: docs  
-   # branches: main  
+   - url: https://github.com/OP-TED/model2owl
+    start_path: docs  
+    branches: main  
     # 
   ###  ESPD
   #- url: https://github.com/OP-TED/espd-docs.git
