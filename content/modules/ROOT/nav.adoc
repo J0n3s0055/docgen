@@ -1,10 +1,10 @@
 * xref:index.adoc[Home]
 
-* [.separated]#**eForms**#
-* xref:eforms::index.adoc[eForms SDK Docs `{eforms_latest_version}`]
-* xref:eforms:roadmap/index.adoc[SDK Roadmap]
-* xref:eforms:FAQ/index.adoc[eForms FAQ]
-* xref:eforms:preview/index.adoc[eForms Preview environment]
+#* [.separated]#**eForms**#
+#* xref:eforms::index.adoc[eForms SDK Docs `{eforms_latest_version}`]
+#* xref:eforms:roadmap/index.adoc[SDK Roadmap]
+#* xref:eforms:FAQ/index.adoc[eForms FAQ]
+#* xref:eforms:preview/index.adoc[eForms Preview environment]
 
 * [.separated]#**eProcurement Ontology**#
 * xref:EPO::index.adoc[ePO Docs `{epo_latest_version}`]
@@ -14,6 +14,12 @@
 // * xref:rdf-mapping::index.adoc[XML to RDF Mappings]
 // * xref:rdf-conversion::index.adoc[XML to RDF Conversion]
 
-* [.separated]#**ESPD-EDM**#
-* xref:ESPD-EDM::index.adoc[ESPD-EDM Docs `{espd_latest_version}`]
-* xref:espd-ouc::index.adoc[Open User Community Meetings]
+#* [.separated]#**ESPD-EDM**#
+#* xref:ESPD-EDM::index.adoc[ESPD-EDM Docs `{espd_latest_version}`]
+#* xref:espd-ouc::index.adoc[Open User Community Meetings]
+
+* [.separated]#**Model2owl**#
+# xref:model2owl-docs::index.adoc[model2owl Documentation]
+
+* [.separated]#**ted-rdf-docs**#
+# xref:ted-rdf-docs::index.adoc[RDF Documentation]
