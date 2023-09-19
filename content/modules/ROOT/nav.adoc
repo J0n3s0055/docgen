@@ -18,8 +18,14 @@
 #* xref:ESPD-EDM::index.adoc[ESPD-EDM Docs `{espd_latest_version}`]
 #* xref:espd-ouc::index.adoc[Open User Community Meetings]
 
-* [.separated]#**Model2owl**#
+#* [.separated]#**Model2owl**#
 # xref:model2owl-docs::index.adoc[model2owl Documentation]
 
 * [.separated]#**ted-rdf-docs**#
-# xref:ted-rdf-docs::index.adoc[RDF Documentation]
+# xref:ted-rdf-docs::index.adoc[RDF Documentation Public]
+
+* [.separated]#**ted-rdf-docs**#
+# xref:rdf-mappings::index.adoc[RDF Mappings (internal)]
+
+* [.separated]#**ted-rdf-docs**#
+# xref:rdf-conversion::index.adoc[RDF Mappings (internal)]
