@@ -28,4 +28,4 @@ xref:ted-rdf-docs::index.adoc[RDF Documentation Public]
 xref:rdf-mappings::index.adoc[RDF Mappings (internal)]
 
 * [.separated]#**ted-rdf-docs**#
-xref:rdf-conversion::index.adoc[RDF Mappings (internal)]
+xref:rdf-conversion::index.adoc[RDF Conversion (internal)]
