@@ -21,11 +21,11 @@
 * [.separated]#**Model2owl**#
 xref:model2owl-docs::index.adoc[model2owl Documentation]
 
-* [.separated]#**ted-rdf-docs**#
+* [.separated]#**RDF Docs - Public**#
 xref:ted-rdf-docs::index.adoc[RDF Documentation Public]
 
-* [.separated]#**ted-rdf-docs**#
-xref:rdf-mappings::index.adoc[RDF Mappings (internal)]
+* [.separated]#**RDF Mapping - Internal**#
+xref:rdf-mapping::index.adoc[RDF Mappings (internal)]
 
-* [.separated]#**ted-rdf-docs**#
+* [.separated]#**RDF Conversion - Internal**#
 xref:rdf-conversion::index.adoc[RDF Conversion (internal)]
