@@ -53,9 +53,9 @@ content:
     start_path: /
     branches: main, v*, wg-meetings
 
-  - url: https://github.com/meaningfy-ws/model2owl-docs
-    start_path: docs  
-    branches: main
+  #- url: https://github.com/meaningfy-ws/model2owl-docs
+  #  start_path: docs  
+  #  branches: main
 
   - url: https://github.com/OP-TED/model2owl 
     start_path: docs  
