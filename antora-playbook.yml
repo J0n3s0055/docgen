@@ -53,13 +53,13 @@ content:
     start_path: /
     branches: main, v*, wg-meetings
 
-  #- url: https://github.com/meaningfy-ws/model2owl-docs
-  #  start_path: docs  
-  #  branches: main
+  - url: https://github.com/meaningfy-ws/model2owl-docs
+    start_path: docs  
+    branches: main
 
-  #- url: https://github.com/OP-TED/model2owl 
-  #  start_path: docs  
-  #  branches: master
+  - url: https://github.com/OP-TED/model2owl 
+    start_path: docs  
+    branches: master
     
   #- url: https://github.com/OP-TED/ted-rdf-docs
   #  start_path: docs/antora 
@@ -74,11 +74,7 @@ content:
   #  branches: main
   #  start_path: docs/antora    
     
-  # - url: https://github.com/OP-TED/model2owl
-  #  start_path: docs  
-  #  branches: main  
-    # 
-  ###  ESPD
+    ###  ESPD
   #- url: https://github.com/OP-TED/espd-docs.git
   #  start_path: /
   #  branches: v1.0.x, v2.0.x, v2.1.x, v3.0.x, v3.1.x, v3.2.x, wgm-reports
