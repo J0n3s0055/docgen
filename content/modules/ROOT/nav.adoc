@@ -19,7 +19,7 @@
 #* xref:espd-ouc::index.adoc[Open User Community Meetings]
 
 #* [.separated]#**Model2owl**#
-#xref:model2owl-docs::index.adoc[model2owl Documentation]
+#xref:model2owl::index.adoc[model2owl Documentation]
 
 * [.separated]#**RDF Docs - Public**#
 xref:ted-rdf-docs::index.adoc[RDF Documentation Public]
