@@ -21,7 +21,7 @@
 #* [.separated]#**Model2owl**#
 #xref:model2owl::index.adoc[model2owl Documentation]
 
-* [.separated]#**RDF Docs - Public**#
+* [.separated]#**TED Semantic Web Service**#
 xref:ted-rdf-docs::index.adoc[RDF Documentation Public]
 
 * [.separated]#**RDF Mapping - Internal**#
