@@ -34,4 +34,12 @@ The European Single Procurement Document enables accelerated processing of preli
 [.button]
 <<espd-home:ROOT:index.adoc#, Read the docs>>
 ****
+[.tile]
+.TED Semantic Web Service
+****
+SWS blah Blah
+
+<<Semantic Web Service:ROOT:index.adoc#, Read the docs>>
+****
+
 --
