@@ -39,7 +39,7 @@ The European Single Procurement Document enables accelerated processing of preli
 ****
 SWS blah Blah
 
-<<Semantic Web Service:ROOT:index.adoc#, Read the docs>>
+<<SWS:ROOT:index.adoc#, Read the docs>>
 ****
 
 --
