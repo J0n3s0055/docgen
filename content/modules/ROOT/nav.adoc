@@ -15,17 +15,17 @@
 // * xref:rdf-conversion::index.adoc[XML to RDF Conversion]
 
 * [.separated]#**TED Semantic Web Service**#
-* xref:SWS::index.adoc[Ted Semantic Web Service]
+* xref:SWS::index.adoc[TED Semantic Web Service]
 
 * [.separated]#**ESPD-EDM**#
-* xref:ESPD-EDM::index.adoc[ESPD-EDM Docs `{espd_latest_version}`]
+* xref:ESPD-EDM::index.adoc[ESPD-EDM Docs - new page structure `{espd_latest_version}`]
 * xref:espd-ouc::index.adoc[Open User Community Meetings]
 
 #* [.separated]#**Model2owl**#
 #xref:model2owl::index.adoc[model2owl Documentation]
 
 * [.separated]#**RDF Mapping - Internal**#
-* xref:rdf-mapping::index.adoc[RDF Mappings (internal)]
+* xref:rdf-mapping::index.adoc[RDF Mappings (internal - for Review)]
 
 * [.separated]#**RDF Conversion - Internal**#
-* xref:rdf-conversion::index.adoc[RDF Conversion (internal)]
+* xref:rdf-conversion::index.adoc[RDF Conversion (internal - for Review)]
