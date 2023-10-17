@@ -15,7 +15,7 @@
 // * xref:rdf-conversion::index.adoc[XML to RDF Conversion]
 
 * [.separated]#**TED Semantic Web Service**#
-* xref:SWS::index.adoc[TED Semantic Web Service]
+* xref:SWS::index.adoc[TED Semantic Web Service Docs]
 
 * [.separated]#**ESPD-EDM**#
 * xref:espd-home::index.adoc[ESPD-EDM Docs - new page structure `{espd_latest_version}`]
