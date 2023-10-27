@@ -28,8 +28,12 @@
 #* [.separated]#**Model2owl**#
 #xref:model2owl::index.adoc[model2owl Documentation]
 
-* [.separated]#**RDF Mapping - Internal**#
-* xref:rdf-mapping::index.adoc[RDF Mappings (internal - for Review)]
+// * [.separated]#**RDF Mapping - Internal**#
+// * xref:rdf-mapping::index.adoc[RDF Mappings (internal - for Review)]
 
-* [.separated]#**RDF Conversion - Internal**#
-* xref:rdf-conversion::index.adoc[RDF Conversion (internal - for Review)]
+// * [.separated]#**RDF Conversion - Internal**#
+// * xref:rdf-conversion::index.adoc[RDF Conversion (internal - for Review)]
+
+* [.separated]#**TED Bulk Downloads**#
+// * xref:bulk-downloads::index.adoc[TED Bulk Downloads]
+
