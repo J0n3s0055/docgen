@@ -35,5 +35,5 @@
 // * xref:rdf-conversion::index.adoc[RDF Conversion (internal - for Review)]
 
 * [.separated]#**TED Bulk Downloads**#
-// * xref:bulk-downloads::index.adoc[TED Bulk Downloads]
+* xref:bulk-downloads::index.adoc[TED Bulk Downloads]
 
