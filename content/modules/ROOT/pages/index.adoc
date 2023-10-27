@@ -41,5 +41,11 @@ The TED Semantic Web Service converts public procurement notices into RDF format
 
 <<SWS:ROOT:index.adoc#, Read the docs>>
 ****
+[.tile]
+.Downloading TED data
+****
+TED data downloads are available in bulk files in daily or monthly amounts from the xyz repository
 
+<<Bulk-Downloads:ROOT:index.adoc#, Read the docs>>
+****
 --
