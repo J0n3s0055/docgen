@@ -64,7 +64,7 @@ content:
   - url: https://github.com/OP-TED/ted-rdf-docs
     tags: [1.0.1, 1.0.2]
     start_path: docs/antora 
-    branches: main
+    branches: ~, main
 
   #- url: https://github.com/OP-TED/ted-rdf-mapping.git
   #  branches: main
