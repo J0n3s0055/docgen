@@ -42,7 +42,11 @@ content:
   - url: .
     start_path: content
     branches: HEAD
-  
+
+  - url: /Users/paterni/Code/ted-bulkdownload-docs  
+    start_path: /
+    branches: new_main
+    
   ### eForms SDK
   #- url: https://github.com/OP-TED/eforms-docs.git
   #  start_path: /
