@@ -43,6 +43,9 @@ content:
     start_path: content
     branches: HEAD
 
+  - url: users/paterni/Code/ted-bulkdownload-docs  
+    start_path: /
+    branches: new_main, main
 
     
   ### eForms SDK
