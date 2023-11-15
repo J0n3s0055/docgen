@@ -39,7 +39,7 @@ content:
   sources:
 
   ### Local content
- - url: .
+  - url: .
     start_path: content
     branches: HEAD
   
