@@ -40,12 +40,8 @@ content:
 
   ### Local content
   - url: .
-    start_path: content
+    start_path: C:\Users\paterni\Code\ted-bulkdownload-docs
     branches: HEAD
-
-  - url: users/paterni/Code/ted-bulkdownload-docs  
-    start_path: /
-    branches: new_main, main
 
     
   ### eForms SDK
