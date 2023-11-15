@@ -43,7 +43,7 @@ content:
     start_path: content
     branches: HEAD
 
-  - url: /Code/ted-bulkdownload-docs  
+  - url: users/paterni/Code/ted-bulkdownload-docs.git  
     start_path: /
     branches: new_main
     
