@@ -40,8 +40,8 @@ content:
 
   ### Local content
   - url: .
-    start_path: content
-    branches: HEAD
+    start_path: C:\Users\paterni\Code\ted-bulkdownload-docs
+    branches: new_main
   
   ### eForms SDK
   #- url: https://github.com/OP-TED/eforms-docs.git
