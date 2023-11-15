@@ -39,9 +39,9 @@ content:
   sources:
 
   ### Local content
-  - url: .
-    start_path: C:\Users\paterni\Code\ted-bulkdownload-docs
-    branches: new_main
+ - url: .
+    start_path: content
+    branches: HEAD
   
   ### eForms SDK
   #- url: https://github.com/OP-TED/eforms-docs.git
