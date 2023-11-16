@@ -39,9 +39,9 @@ content:
   sources:
 
   ### Local content
-  - url: .
-    start_path:
-    branches: HEAD
+  #- url: .
+   # start_path:
+   # branches: HEAD
 
     
   ### eForms SDK
@@ -67,7 +67,7 @@ content:
     branches: main
 
   - url: https://github.com/OP-TED/ted-bulkdownloads-docs
-    start_path: content
+    start_path: /
     branches: new_main 
 
   #- url: https://github.com/OP-TED/ted-rdf-mapping.git
