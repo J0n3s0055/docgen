@@ -66,9 +66,9 @@ content:
     start_path: docs/antora 
     branches: main
 
-   - url: https://github.com/OP-TED/ted-bulkdownloads-docs
-     start_path: /
-     branches: new_main 
+  - url: https://github.com/OP-TED/ted-bulkdownloads-docs
+    start_path: /
+    branches: new_main 
 
   #- url: https://github.com/OP-TED/ted-rdf-mapping.git
   #  branches: main
