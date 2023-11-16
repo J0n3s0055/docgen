@@ -67,7 +67,7 @@ content:
     branches: main
 
   - url: https://github.com/OP-TED/ted-bulkdownloads-docs
-    start_path: /
+    start_path: content
     branches: new_main 
 
   #- url: https://github.com/OP-TED/ted-rdf-mapping.git
