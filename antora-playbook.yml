@@ -38,10 +38,10 @@ content:
   edit_url: false
   sources:
 
-  ### Local content
-  #- url: .
-   # start_path:
-   # branches: HEAD
+   ### Local content
+  - url: .
+    start_path: content
+    branches: HEAD
 
     
   ### eForms SDK
