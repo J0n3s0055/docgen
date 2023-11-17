@@ -34,6 +34,6 @@
 // * [.separated]#**RDF Conversion - Internal**#
 // * xref:rdf-conversion::index.adoc[RDF Conversion (internal - for Review)]
 
-* [.separated]#**TED Bulk Downloads**#
+* [.separated]#**Downloading TED Notices for Data Reusers**#
 * xref:bulk-download::index.adoc[TED Bulk Download Docs]
 
