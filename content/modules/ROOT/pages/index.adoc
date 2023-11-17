@@ -43,8 +43,7 @@ The TED Semantic Web Service converts public procurement notices into RDF format
 ****
 [.tile]
 .Downloading TED Notices for Data Reusers
-****
-Bulk downloads of notices in xml fomat are offered by the TED Portal; daily or monthly packages are available. Bulk downloads in xml format can be retrieved by query via the Search API. Notices in other file formats can be downloaded via direct links. 
+***The download of TED notices in xml fomat is offered by the TED Portal; daily or monthly packages are available. The download of TED notices in xml format can be retrieved by query via the Search API. TED Notices in other file formats can be downloaded via direct links. 
 
 <<noticedownloads:ROOT:index.adoc#, Read the docs>>
 ****
