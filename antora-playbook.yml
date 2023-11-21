@@ -58,9 +58,9 @@ content:
   #  start_path: docs  
   #  branches: main
 
-  - url: https://github.com/OP-TED/model2owl 
-    start_path: docs  
-    branches: master
+  - url: https://github.com/OP-TED/ted-model2owl-docs
+    start_path: / 
+    branches: main
     
   - url: https://github.com/OP-TED/ted-rdf-docs
     start_path: docs/antora 
