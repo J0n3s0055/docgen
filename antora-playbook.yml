@@ -59,7 +59,7 @@ content:
   #  branches: main
 
   - url: https://github.com/OP-TED/ted-model2owl-docs
-    start_path: / 
+    start_path: docs 
     branches: main
     
   - url: https://github.com/OP-TED/ted-rdf-docs
