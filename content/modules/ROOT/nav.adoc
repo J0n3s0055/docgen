@@ -13,7 +13,7 @@
 * xref:epo-wgm::index.adoc[Working Group Meetings]
 // * xref:rdf-mapping::index.adoc[XML to RDF Mappings]
 // * xref:rdf-conversion::index.adoc[XML to RDF Conversion]
-* xref:m2o-home::index.adoc[model2owl Docs]
+* xref:m2o::index.adoc[model2owl Docs]
 * xref:epo-home::uml2owl_2020.adoc[uml2owl in adoc format]
 * xref:epo-home::umlconv2020.adoc[UML conventions in adoc format]
 
