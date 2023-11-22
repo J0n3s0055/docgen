@@ -26,7 +26,7 @@
 * xref:espd-wgm::index.adoc[Open User Community Meetings]
 
 #* [.separated]#**Model2owl**#
-#xref:model2owl::index.adoc[model2owl Documentation]
+#xref:m2o-home::index.adoc[model2owl Documentation]
 
 // * [.separated]#**RDF Mapping - Internal**#
 // * xref:rdf-mapping::index.adoc[RDF Mappings (internal - for Review)]
