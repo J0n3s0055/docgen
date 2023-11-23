@@ -12,8 +12,8 @@
 
 * [.separated]#**Model2owl**# 
 * xref:m2o-home::index.adoc[model2owl Docs]
-* xref:epo-home::uml2owl_2020.adoc[uml2owl in adoc format]
-* xref:epo-home::umlconv2020.adoc[UML conventions in adoc format]
+// * xref:epo-home::uml2owl_2020.adoc[uml2owl in adoc format]
+// * xref:epo-home::umlconv2020.adoc[UML conventions in adoc format]
 
 * [.separated]#**TED Semantic Web Service**#
 * xref:SWS::index.adoc[TED Semantic Web Service Docs]
