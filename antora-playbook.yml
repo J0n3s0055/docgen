@@ -28,7 +28,7 @@ asciidoc:
     # The downside is that we have to update these attributes whenever we release a new version of a component.
     #
     eforms_latest_version: '1.8.0'
-    epo_latest_version: '3.1.0'
+    epo_latest_version: '4.0.0'
     espd_latest_version: '3.3.0'
 
   extensions:
@@ -64,7 +64,7 @@ content:
     
   - url: https://github.com/OP-TED/ted-rdf-docs.git
     start_path: docs/antora 
-    branches: main
+    branches: sparql
 
   - url: https://github.com/OP-TED/ted-bulkdownloads-docs.git
     start_path: /
