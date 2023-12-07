@@ -28,6 +28,6 @@
 // * [.separated]#**RDF Conversion - Internal**#
 // * xref:rdf-conversion::index.adoc[RDF Conversion (internal - for Review)]
 
-* [.separated]#**Downloading TED Notices for Data Reusers**#
+* [.separated]#**Reusing TED Data **#
 * xref:noticedownloads::index.adoc[Downloading TED Notices Docs]
 
