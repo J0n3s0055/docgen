@@ -10,10 +10,13 @@
 * xref:EPO::index.adoc[ePO Docs `{epo_latest_version}`]
 * xref:epo-wgm::index.adoc[Working Group Meetings]
 
-* [.separated]#**Model2owl**# 
+* [.separated]#**Model2owl-OP**# 
 * xref:m2o-home::index.adoc[model2owl Docs]
 // * xref:epo-home::uml2owl_2020.adoc[uml2owl in adoc format]
 // * xref:epo-home::umlconv2020.adoc[UML conventions in adoc format]
+
+// * [.separated]#**Model2owl-MF**# 
+// * xref:m2o-home::index.adoc[model2owl Docs]
 
 * [.separated]#**TED Semantic Web Service**#
 * xref:SWS::index.adoc[TED Semantic Web Service Docs]
