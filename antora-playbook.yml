@@ -70,9 +70,9 @@ content:
     start_path: docs/antora 
     branches: sparql
 
-  - url: https://github.com/meaningfy-ws/ted-rdf-conversion-pipeline-docs.git
-    start_path: docs/antora 
-    branches: main
+  #- url: https://github.com/meaningfy-ws/ted-rdf-conversion-pipeline-docs.git
+  #  start_path: docs/antora 
+  #  branches: main
   
   - url: https://github.com/OP-TED/ted-bulkdownloads-docs.git
     start_path: /
@@ -82,10 +82,10 @@ content:
   #  branches: main
   #  start_path: docs/antora
 
-  #- url: https://github.com/OP-TED/ted-rdf-conversion-pipeline.git
-  #    # Use local path for testing. Example:
-  #  branches: main
-  #  start_path: docs/antora    
+  - url: https://github.com/OP-TED/ted-rdf-conversion-pipeline.git
+      # Use local path for testing. Example:
+    branches: main
+    start_path: docs/antora    
     
     ###  ESPD
   - url: https://github.com/OP-TED/espd-docs.git
