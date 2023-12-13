@@ -28,8 +28,8 @@
 // * [.separated]#**RDF Mapping - Internal**#
 // * xref:rdf-mapping::index.adoc[RDF Mappings (internal - for Review)]
 
-// * [.separated]#**RDF Conversion - Internal**#
-// * xref:rdf-conversion::index.adoc[RDF Conversion (internal - for Review)]
+* [.separated]#**RDF Conversion - Internal**#
+* xref:rdf-conversion::index.adoc[RDF Conversion (internal - for Review)]
 
 * [.separated]#**Reusing TED Data **#
 * xref:noticedownloads::index.adoc[Downloading TED Notices Docs]
