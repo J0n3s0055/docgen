@@ -100,7 +100,7 @@ content:
   #  branches: main
   #  start_path: docs/antora    
   
- urls:
+urls:
   # latest_version_segment_strategy: redirect:to
   # latest_prerelease_version_segment: next
   redirect_facility: static
