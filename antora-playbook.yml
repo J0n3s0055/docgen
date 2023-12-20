@@ -27,7 +27,7 @@ asciidoc:
     # So, as a workaround, we store the latest version of each component in these site-wide asciidoc attributes.
     # The downside is that we have to update these attributes whenever we release a new version of a component.
     #
-    eforms_latest_version: '1.8.0'
+    eforms_latest_version: '1.10.0'
     epo_latest_version: '4.0.0'
     espd_latest_version: '3.3.0'
 
@@ -53,15 +53,7 @@ content:
   - url: https://github.com/OP-TED/epo-docs.git
     start_path: /
     branches: main, v*, wg-meetings
-
-  #- url: https://github.com/meaningfy-ws/model2owl-docs
-  #  start_path: docs  
-  #  branches: main
-
-  #- url: https://github.com/meaningfy-ws/model2owl-boilerplate.git
-  #  start_path: docs/antora 
-  #  branches: main
-
+    
   - url: https://github.com/OP-TED/ted-model2owl-docs.git
     start_path: / 
     branches: main
@@ -70,29 +62,39 @@ content:
     start_path: docs/antora 
     branches: sparql
 
-  #- url: https://github.com/meaningfy-ws/ted-rdf-conversion-pipeline-docs.git
-  #  start_path: docs/antora 
-  #  branches: main
-  
   - url: https://github.com/OP-TED/ted-bulkdownloads-docs.git
     start_path: /
     branches: new_main 
-
-  #- url: https://github.com/OP-TED/ted-rdf-mapping.git
-  #  branches: main
-  #  start_path: docs/antora
-
-  - url: https://github.com/OP-TED/ted-rdf-conversion-pipeline.git
-      # Use local path for testing. Example:
-    branches: main
-    start_path: docs/antora    
     
-    ###  ESPD
+   ###  ESPD
   - url: https://github.com/OP-TED/espd-docs.git
     start_path: /
     branches: new_v3, new_main, new_wgm, v1.0.x
     # branches: v1.0.x, v2.0.x, v2.1.x, v3.0.x, v3.1.x, v3.2.x, v3.3.x, wgm-reports
-    # branches: v3.0.x
+    
+  
+  #- url: https://github.com/meaningfy-ws/model2owl-docs
+  #  start_path: docs  
+  #  branches: main
+
+  #- url: https://github.com/meaningfy-ws/model2owl-boilerplate.git
+  #  start_path: docs/antora 
+  #  branches: main
+
+  #- url: https://github.com/meaningfy-ws/ted-rdf-conversion-pipeline-docs.git
+  #  start_path: docs/antora 
+  #  branches: main
+  
+  #- url: https://github.com/OP-TED/ted-rdf-mapping.git
+  #  branches: main
+  #  start_path: docs/antora
+
+  #- url: https://github.com/OP-TED/ted-rdf-conversion-pipeline.git
+  #    # Use local path for testing. Example:
+  #  branches: main
+  #  start_path: docs/antora    
+    
+  
   #  
   #  tags:
   # - 2.1.0
