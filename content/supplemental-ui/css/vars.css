@@ -24,6 +24,11 @@
   --color-jet-70: #222;
   --color-jet-80: var(--color-OP-green);
   --color-black: #000;
+  --gs-base-color-eu-blue-5: #F3F6FC;
+  --gs-base-color-eu-blue-20: #CFDAF5;
+  --gs-base-color-link-100: #3366CC;
+  --gs-base-color-eu-blue-140: #082B7A;
+  --gs-base-color-eu-gray-140: #171A22;
   /* fonts */
   --rem-base: 18; /* used to compute rem value from desired pixel value (e.g., calc(18 / var(--rem-base) * 1rem) = 18px) */
   --body-font-size: 1.0625em; /* 17px */
@@ -125,6 +130,14 @@
   --footer-background: var(--color-OP-header-footer-background);
   --footer-font-color: var(--color-gray-70);
   --footer-link-font-color: var(--color-jet-80);
+  --gs-base-spacing-l: 1.5rem;
+  --gs-base-spacing-s: 0.75rem;
+  --gs-base-spacing-2xl: 2.5rem;
+  --gs-base-line-height-l: 1.5;
+  --gs-base-line-height-m: 1.35;
+  --gs-base-font-size-2xl: 1.5rem / 24px;
+  --gs-base-font-size-3xl: 1.75rem / 28px;
+  --gs-base-font-weight-default: Regular 400;
   /* dimensions and positioning */
   --navbar-height: calc(63 / var(--rem-base) * 1rem);
   --toolbar-height: calc(45 / var(--rem-base) * 1rem);
