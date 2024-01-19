@@ -109,7 +109,7 @@ urls:
 
 ui:
   bundle:
-    url: https://github.com/J0n3s0055/j0n3s-antora-eu/releases/download/ui-bundle/eForms-SDK-customisations/ui-bundle.zip
+    url: https://github.com/J0n3s0055/j0n3s-antora-eui/releases/download/ui-bundle/eForms-SDK-customisations/ui-bundle.zip
     snapshot: true
   supplemental_files: ./content/supplemental-ui
   
