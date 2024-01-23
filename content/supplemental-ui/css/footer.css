@@ -1,0 +1,39 @@
+footer.footer {
+  background-color: var(--footer-background);
+  color: var(--footer-font-color);
+  font-size: calc(15 / var(--rem-base) * 1rem);
+  line-height: var(--footer-line-height);
+  padding: 1.5rem;
+}
+
+.footer p {
+  margin: 0;
+  font-family: var(--footer-OP-font-family);
+  font-size: x-small;
+}
+
+.footer a {
+  color: var(--footer-link-font-color);
+}
+
+.footer .columns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+/* .footer .columns div {
+  flex-grow: 1;
+} */
+.footer h3 {
+  font-family: var(--footer-OP-font-family);
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0 0 15px 0;
+}
+
+.footer .logo {
+  margin: 0;
+  height: 48px;
+}
