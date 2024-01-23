@@ -480,7 +480,21 @@ div.qanda > ol > li {
         display: flex;
     }
 
-    .three-columns > * {
-        width: calc(100%/3);
-        padding: 1rem;
+    /* container */
+    .three-columns {
+        display:block;
+    }
+
+    /* columns */
+    .responsive-three-column-grid > * {
+        padding:1rem;
+    }
+
+    /* tablet breakpoint */
+    @media (min-width:768px) {
+        .responsive-three-column-grid {
+            display: grid;
+            grid-auto-rows: 1fr;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
     }
