@@ -475,3 +475,12 @@ div.qanda > ol > li {
         }
 
     }
+
+    .three-columns {
+        display: flex;
+    }
+
+    .three-columns > * {
+        width: calc(100%/3);
+        padding: 1rem;
+    }

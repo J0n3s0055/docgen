@@ -185,10 +185,10 @@
 }
 
 .three-columns {
-    display:flex;
+    display: flex;
 }
 
 .three-columns > * {
-    width:calc(100%/3);
-    padding:1rem
+    width: calc(100%/3);
+    padding: 1rem;
 }
