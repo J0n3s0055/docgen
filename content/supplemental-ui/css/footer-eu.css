@@ -4,6 +4,68 @@
     padding-left: unset;
 }
 
+/* a simple, generic reset to apply a consistent
+   baseline to all elements, and the listed
+   pseudo-elements, on the page: */
+*,
+ ::before,
+ ::after {
+  box-sizing: border-box;
+  font: normal 1rem / 1.5 sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* generic wrapper for the content, entirely irrelevant
+   to the demo's functionality; this is just to give
+   a consistent visual look: */
+.wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2em;
+  margin-block: 2em;
+  margin-inline: auto;
+  width: 500px;
+  height: 100vh;
+}
+
+/* I've switched your background-color to a lighter one
+   to allow visibility of the .container element, and to
+   improve visibility of the child .col elements: */
+.container {
+  display: flex;
+  width: 500px;
+  background-color: #ffa9;
+}
+
+/* I added the 'flex-grow' property to allow the
+   .col elements to expan to fill the available
+   space: */
+.col {
+  padding: 1em;
+  flex-grow: 1;
+}
+
+/* different background-colours for the elements: */
+.col:nth-child(1) {
+  background-color: red;
+}
+
+.col:nth-child(2) {
+  background-color: green;
+}
+
+.col:nth-child(3) {
+  background-color: blue;
+}
+
+/* hiding any empty .col elements; note that these
+   elements must have no content at all, this
+   includes white-space (unfortunately): */
+.col:empty {
+  display: none;
+}
 /**** Variables ****/
 
 /*.footer-eu {
