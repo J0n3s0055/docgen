@@ -86,10 +86,6 @@ div.qanda > ol > li {
     table-layout: fixed;
 }
 
-/**** Theme reset ****/
 
-.site-class-10184.page-class-publication-detail li:not([class]) {
-    padding-left: unset;
-}
 
 
