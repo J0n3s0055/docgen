@@ -62,9 +62,10 @@
 
 /* hiding any empty .col elements; note that these
    elements must have no content at all, this
-   includes white-space (unfortunately):
+   includes white-space (unfortunately): */
+
 .col:empty {
-  display: none;*/
+  display: none;
 }
 /**** Variables ****/
 
