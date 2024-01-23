@@ -23,9 +23,12 @@ footer.footer {
   align-items: flex-start;
 }
 
-/* .footer .columns div {
+.footer .columns div {
   flex-grow: 1;
-} */
+  width: 33%;
+  height: 100px;
+}
+
 .footer h3 {
   font-family: var(--footer-OP-font-family);
   font-size: 15px;
