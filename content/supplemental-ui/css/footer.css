@@ -1,7 +1,8 @@
 footer.footer {
-  background-color: var(--footer-background);
-  color: var(--footer-font-color);
+  background-color: var(--gs-base-color-eu-blue-5);
+  color: var(--gs-base-color-eu-gray-140);
   font-size: calc(15 / var(--rem-base) * 1rem);
+
   line-height: var(--footer-line-height);
   padding: 1.5rem;
 }
