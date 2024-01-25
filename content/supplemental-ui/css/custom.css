@@ -531,3 +531,11 @@ div.qanda > ol > li {
     .ul-footer li-footer {
     margin: 10px;
     }
+
+    .byline-footer {
+    line-height: 1.35 !important;
+    margin-bottom: 0;
+    font-size: 0.917rem !important;
+    font-weight: 300;
+     color: #171A22 !important;
+    }
