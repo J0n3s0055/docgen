@@ -497,13 +497,13 @@ div.qanda > ol > li {
 
     .h3 {
         color: #171A22 !important;
-        padding-bottom: .75rem;
+        padding-bottom: 0.75rem;
         margin-top: 1.5 rem;
         font-size: 1.5rem !important;
-        font-weight: 400 !important;
+        font-weight: 200 !important;
         max-width:unset;
         border-bottom: 1px solid #CFDAF5;
-        margin-bottom:1rem !important;
+        margin-bottom: 1rem !important;
         margin-top: 2.5rem ;important;
         font-size: 1.75rem;
     }
@@ -525,7 +525,7 @@ div.qanda > ol > li {
         font-size: 0.917rem;
         font-weight: 300;
         font-family:Arial, sans-serif !important;
-        padding-bottom: unset;
+
     }
 
     .ul li {
