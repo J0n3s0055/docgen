@@ -518,7 +518,7 @@ div.qanda > ol > li {
 
     .li-footer {
         color: #0E47CB;
-        margin-bottom: 15px 0;
+
         line-height: 1.35 !important;
         text-decoration: none !important;
         text-underline-offset: 0.15em !important;
@@ -537,5 +537,5 @@ div.qanda > ol > li {
     margin-bottom: 0;
     font-size: 0.917rem !important;
     font-weight: 300;
-     color: #171A22 !important;
+    color: #171A22 !important;
     }
