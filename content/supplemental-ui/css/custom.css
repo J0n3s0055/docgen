@@ -508,7 +508,7 @@ div.qanda > ol > li {
         font-size: 1.75rem;
     }
     .ul {
-        list-style: none;
+        list-style-type: none;
         line-height: 1.35 !important;
         text-decoration: none !important;
         text-underline-offset: 0.15em !important;
@@ -526,6 +526,8 @@ div.qanda > ol > li {
         font-weight: 300;
         font-family:Arial, sans-serif !important;
         padding-bottom: unset;
+    }
 
-
+    .ul li {
+    padding: 10px;
     }
