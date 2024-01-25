@@ -519,8 +519,12 @@ div.qanda > ol > li {
     }
 
     .li {
+        color: #0E47CB;
         margin-bottom: 0.75rem;!important;
         line-height: 1.35;!important;
         text-decoration: none!important;
         text-underline-offset: 0.15em!important;
+        font-size: 0.917rem;
+        font-weight: 400;
+        font-family:Arial, sans-serif; !important
     }
