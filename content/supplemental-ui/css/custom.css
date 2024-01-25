@@ -478,7 +478,7 @@ div.qanda > ol > li {
 
 /* container */
     .three-columns {
-        display:block;
+        display:block;background-color:#F3F6FC;  border-bottom: 1px solid #CFDAF5;
     }
 
     /* columns */
@@ -493,4 +493,17 @@ div.qanda > ol > li {
             grid-auto-rows: 1fr;
             grid-template-columns: 1fr 1fr 1fr;
         }
+    }
+
+    .h3 {
+        color: #171A22;!important;
+        padding-bottom: .75rem;
+        margin-top:1.5 rem;
+        font-size: 1.5rem!important;
+        font-weight: 400!important;
+        max-width:unset;
+        border-bottom: 1px solid #CFDAF5;
+        margin-bottom:1rem!important;
+        margin-top: 2.5rem!important;
+        font-size: 1.75rem!important;
     }
