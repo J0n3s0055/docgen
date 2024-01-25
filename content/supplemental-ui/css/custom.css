@@ -514,7 +514,7 @@ div.qanda > ol > li {
         text-decoration: none!important;
         text-underline-offset: 0.15em!important;
         font-weight: 400;
-        font-size: 1rem;
+        font-size: 0.917rem;
         font-family:Arial, sans-serif; !important
     }
 
@@ -527,5 +527,6 @@ div.qanda > ol > li {
         font-size: 0.917rem;
         font-weight: 300;
         font-family:Arial, sans-serif; !important
-        padding: 15px;
+        padding-bottom: unset;
+        line-height: unset;
     }
