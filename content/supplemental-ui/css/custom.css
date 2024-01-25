@@ -478,7 +478,10 @@ div.qanda > ol > li {
 
 /* container */
     .three-columns {
-        display:block;background-color:#F3F6FC;  border-bottom: 1px solid #CFDAF5;
+        display:block;
+        background-color:#F3F6FC;
+        border-bottom: 1px solid #CFDAF5;
+        max-width: 991.5px;
     }
 
     /* columns */
@@ -511,7 +514,7 @@ div.qanda > ol > li {
         list-style-type: none;
         margin: 0;
         padding: 0;
-        line-height: 1.35 !important;
+        line-height: 2rem !important;
         text-decoration: none !important;
         text-underline-offset: 0.15em !important;
         font-size: 0.917rem;
@@ -521,9 +524,9 @@ div.qanda > ol > li {
     .li-footer {
         color: #0E47CB;
         margin-bottom: 3rem 0;
-        line-height: 2 !important;
+        line-height: 2rem !important;
         text-decoration: none !important;
-        text-underline-offset: 0.15em !important;
+        text-underline-offset: 0.15rem !important;
         font-size: 0.917rem;
         font-weight: 300;
         font-family:Arial, sans-serif !important;
