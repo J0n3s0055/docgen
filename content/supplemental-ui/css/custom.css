@@ -509,18 +509,16 @@ div.qanda > ol > li {
     }
     .ul {
         list-style: none;
-        margin-bottom: 1rem !important;
         line-height: 1.35 !important;
         text-decoration: none !important;
         text-underline-offset: 0.15em !important;
-        font-weight: 400;
         font-size: 0.917rem;
         font-family:Arial, sans-serif  !important
     }
 
-    .ul li {
+    .li {
         color: #0E47CB;
-        margin: 10px 0;
+        margin-bottom: 15px 0;
         line-height: 1.35 !important;
         text-decoration: none !important;
         text-underline-offset: 0.15em !important;
@@ -528,5 +526,6 @@ div.qanda > ol > li {
         font-weight: 300;
         font-family:Arial, sans-serif !important;
         padding-bottom: unset;
-        line-height: unset;
+
+
     }
