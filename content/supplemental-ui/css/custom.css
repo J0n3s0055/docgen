@@ -495,7 +495,7 @@ div.qanda > ol > li {
         }
     }
 
-    .h3 {
+    .h3-footer {
         color: #171A22 !important;
         padding-bottom: 0.75rem;
         margin-top: 1.5 rem;
@@ -507,7 +507,7 @@ div.qanda > ol > li {
         margin-top: 2.5rem ;important;
         font-size: 1.75rem;
     }
-    .ul {
+    .ul-footer {
         list-style-type: none;
         line-height: 1.35 !important;
         text-decoration: none !important;
@@ -516,7 +516,7 @@ div.qanda > ol > li {
         font-family:Arial, sans-serif  !important
     }
 
-    .li {
+    .li-footer {
         color: #0E47CB;
         margin-bottom: 15px 0;
         line-height: 1.35 !important;
@@ -528,6 +528,6 @@ div.qanda > ol > li {
 
     }
 
-    .ul li {
-    padding: 10px;
+    .ul-footer li-footer {
+    margin: 10px;
     }
