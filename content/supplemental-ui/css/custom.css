@@ -547,7 +547,7 @@ div.qanda > ol > li {
     }
 
     .icon-tw {
-    background: url('../img/twitter.svg')
+    background: url("../img/twitter.svg")
     height: 20px;
     width: 20px;
     color: #0E47CB;
