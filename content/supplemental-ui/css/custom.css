@@ -551,7 +551,8 @@ div.qanda > ol > li {
     height: 20px;
     width: 20px;
     color: #0E47CB;
-
+    display: inline-block
+    margin-right: 0.35rem
     }
 
     .icon-yt{
@@ -559,5 +560,6 @@ div.qanda > ol > li {
         height: 20px;
         width: 20px;
         color: #0E47CB;
-        display: block;
+        display: inline-block
+        margin-right: 0.35rem
     }
