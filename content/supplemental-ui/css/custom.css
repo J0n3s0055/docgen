@@ -546,6 +546,18 @@ div.qanda > ol > li {
     color: #171A22 !important;
     }
 
-    .i {
+    .icon-tw {
+    background: url('{{{uiRootPath}}}/img/twitter.svg')
+    height: 20px;
+    width: 20px;
     color: #0E47CB;
+    display: block;
+    }
+
+    .icon-yt{
+    background: url('{{{uiRootPath}}}/img/youtube.svg')
+        height: 20px;
+        width: 20px;
+        color: #0E47CB;
+        display: block;
     }
