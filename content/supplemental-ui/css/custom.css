@@ -552,10 +552,20 @@ div.qanda > ol > li {
     height: 18px;
     width: 18px;
     color: #0E47CB;
-    vertical-align: text-bottom;
+    vertical-align: middle;
     display: inline;
-    margin-right: 3rem;
+    margin-right: 0.35rem;
     }
+
+    .icon-footer-2nd {
+        height: 18px;
+        width: 18px;
+        color: #0E47CB;
+        vertical-align: middle;
+        display: inline;
+        margin-right: 0.35rem;
+        margin-left: 2rem;
+        }
 
 /*
     vertical-align: middle;
