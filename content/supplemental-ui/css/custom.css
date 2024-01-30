@@ -552,9 +552,9 @@ div.qanda > ol > li {
     height: 18px;
     width: 18px;
     color: #0E47CB;
-    vertical-align: bottom;
+    vertical-align: middle;
     display: inline;
-    margin-right: 0.35rem;
+    margin-right: 3rem;
     }
 
 /*
