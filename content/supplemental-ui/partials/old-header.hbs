@@ -1,0 +1,27 @@
+{{> header-scripts}}
+<header class="header">
+    <nav class="navbar">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="{{{or site.url (or siteRootUrl siteRootPath)}}}">
+                <img src="{{{uiRootPath}}}/img/ted-logo.svg" class="logo" />
+                <span class="navbar-title">{{site.title}}</span>
+            </a>
+            <button class="navbar-burger" data-target="topbar-nav">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+        <div id="topbar-nav" class="navbar-menu">
+            <div class="navbar-end">
+                <a class="navbar-item" href="{{{or site.url (or siteRootUrl siteRootPath)}}}">Home</a>
+                {{> header-content}}
+                {{#if env.DOCSEARCH_ENABLED}}
+                    <div class="navbar-item search">
+                        <input id="search-input" type="text" placeholder="Search docs">
+                    </div>
+                {{/if}}
+            </div>
+        </div>
+    </nav>
+</header>
