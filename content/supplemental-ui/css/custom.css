@@ -532,6 +532,7 @@ div.qanda > ol > li {
         font-size: 0.917rem;
         font-weight: 300;
         font-family:Arial, sans-serif !important;
+        text
 
     }
 
@@ -551,7 +552,7 @@ div.qanda > ol > li {
     height: 18px;
     width: 18px;
     color: #0E47CB;
-    display: inline-block
+    display: inline
     margin-right: 0.35rem
     }
 
