@@ -25,15 +25,19 @@
     />
     <link rel="stylesheet" href="/styles/ecl-ec.css" media="screen" />
     <link rel="stylesheet" href="/styles/ecl-ec-print.css" media="print" />
+<!-- Start of header -->
+
 
     <!-- black bar top of header with flag and official site verification, automatic script-->
     <script defer src="https://europa.eu/webtools/load.js?globan=1110" type="text/javascript"></script>
 
     <!-- middle header section with EU flag and logo, full words for pc, "EU" for mobile, flexible-->
-    <header class="ecl-site-header" data-ecl-auto-init="SiteHeader">
-        <div class="ecl-site-header__header">
-            <div class="ecl-site-header__container ecl-container">
-                <div class="ecl-site-header__top" data-ecl-site-header-top><a href="/component-library/example#8pwum" class="ecl-link ecl-link--standalone ecl-site-header__logo-link" aria-label="European Union">
+    <header class="dd-header-container">
+        <!-- EU section under black top banner -->
+        <div class="eu-part">
+            <div class="eu-emblem">
+                <!-- see if the flag and logo can be simplified!
+                <div class="eu-emblem-std-en"><a href="/component-library/example#8pwum" class="ecl-link ecl-link--standalone ecl-site-header__logo-link" aria-label="European Union">
                     <picture class="ecl-picture ecl-site-header__picture" title="European Union">
                         <source srcset="static/media/logo-eu--en.81e214d9.svg" media="(min-width: 996px)"><img class="ecl-site-header__logo-image" src="{{{uiRootPath}}}/img/static/media/logo-eu--en.0f8b955e.svg" alt="European Union flag" />
                     </picture>
@@ -49,10 +53,27 @@
                             </form>
                         </div>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
-        <div class="ecl-site-header__banner">
+
+        <!-- grey line between eu part and ted dev docs part-->
+        <div class="sep-frame">
+            <div class="rect-grey">
+                <!--rectangle> -->
+            </div>
+        </div>
+
+        <!-- ted dev docs title section under grey line-->
+        <div class="ted-dd-bar">
+            <div class="ted-dd-text-bar">
+                <div class="text-eu-tenders">EU Tenders
+
+                </div>
+
+            </div>
+        </div>
+       </header>
 </head>
 <!--
 Top section:
