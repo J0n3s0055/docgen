@@ -997,10 +997,24 @@ color: #fff;
 
 
 .eu-emblem-std-text1 {
-    }
+    margin-left: 10px
+       font-family: Arial;
+       font-size: 20px;
+       font-weight: 700;
+       line-height: 32px;
+       letter-spacing: 0em;
+       text-align: left;
+       color: #515560; }
 
 .eu-emblem-std-text2 {
-    }
+     margin-left: 10px
+        font-family: Arial;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #515560;}
 
 .sep-frame {
 width: Fill 1,200px;
@@ -1094,7 +1108,7 @@ padding: 0px, 24px, 0px, 24px;
 }
 
 .text-eu-subtext-label {
-    width: 210px;
+    width: 500px;
     height: 14px;
     font-family: Arial;
     font-size: 14px;
