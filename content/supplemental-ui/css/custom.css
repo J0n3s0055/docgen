@@ -973,8 +973,8 @@ color: #fff;
     Property 1="desktop";
     width: 159px;
     height: 45px;
-    padding: 10px, 0.07px, 0px, 0px;
-
+    padding: 0px, 0.07px, 0px, 0px;
+    margin-left: 10px
     }
 
 .eu-emblem-std-en {
@@ -1018,12 +1018,13 @@ padding: 0px, 24px, 0px, 24px;
 
 .text-eu-tenders {
     font-family: Arial;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 32px;
     letter-spacing: 0em;
     text-align: left;
     color: #515560;
+    margin-left:10px
 }
 
 .eu-part    {
@@ -1066,14 +1067,14 @@ padding: 0px, 24px, 0px, 24px;
     font-family: Arial;
     font-size: 18px;
     font-weight: 700;
-    line-height: 24px;
+    line-height: 18px;
     letter-spacing: 0em;
     text-align: left;
 }
 
 .text-eu-subtext-label {
     width: 210px;
-    height: 18px;
+    height: 14px;
     font-family: Arial;
     font-size: 14px;
     font-weight: 400;
