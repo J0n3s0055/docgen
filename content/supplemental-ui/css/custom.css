@@ -1037,7 +1037,7 @@ padding: 0px, 24px, 0px, 24px;
 
 .eu-emblem-std-en   {
     width: 198px
-    height: 45px
+    height: 17.13px
     top: 5.63px
     left: 77.65px
     padding: 0px, 0px, 0px, 0px
@@ -1048,7 +1048,7 @@ padding: 0px, 24px, 0px, 24px;
 .text-eu-subtext-box    {
     Property 1="Default";
     width: Fill 750px;
-    height: Hug 20px;
+    height: Hug 29px;
     gap: 12px;
 }
 
@@ -1060,7 +1060,7 @@ padding: 0px, 24px, 0px, 24px;
     border: 0px, 0px, 0px, 6px;
     gap: 10px;
     color: #339900;
-    font-weight: bold;
+    linear-gradient(0deg, #F5F5F5, #F5F5F5);
     border-left: 6px solid #339900;
 }
 
