@@ -1061,7 +1061,7 @@ padding: 0px, 24px, 0px, 24px;
     gap: 10px;
     color: #339900;
     linear-gradient(0deg, #F5F5F5, #F5F5F5);
-    border-left: 6px #339900;
+    border-left: 4px solid #339900;
     display:inline-block;
     margin-right:10px;
     font-family: Arial;
