@@ -975,13 +975,13 @@ color: #fff;
     height: 45px;
     padding: 0px, 0.07px, 0px, 0px;
     margin-left: 10px
-
+    display:inline-block;
     }
 
 .eu-emblem-std-en {
     width: 100px;
     height: 60px;
-    display:inline-block;
+
     margin-left: 10px;
     }
 
@@ -1001,7 +1001,7 @@ color: #fff;
 .eu-emblem-std-text1 {
     margin-left: 10px
        font-family: Arial;
-       font-size: 18px;
+       font-size: 14px;
        font-weight: 700;
        line-height: 18px;
        letter-spacing: 0em;
@@ -1013,7 +1013,7 @@ color: #fff;
 .eu-emblem-std-text2 {
      margin-left: 10px
         font-family: Arial;
-        font-size: 18px;
+        font-size: 14px;
         font-weight: 700;
         line-height: 18px;
         letter-spacing: 0em;
