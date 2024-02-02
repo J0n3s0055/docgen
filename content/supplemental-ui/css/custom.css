@@ -979,8 +979,16 @@ color: #fff;
     }
 
 .eu-emblem-std-en {
-    width: 100px;
-    height: 60px;
+     width: 100px;
+     height: 60px;
+     display:inline-block;
+     font-family: Arial;
+     font-size: 14px;
+     font-weight: 700;
+     line-height: 18px;
+     letter-spacing: 0em;
+     text-align: left;
+      color: #515560;
 
     margin-left: 10px;
     }
