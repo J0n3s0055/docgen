@@ -975,12 +975,13 @@ color: #fff;
     height: 45px;
     padding: 0px, 0.07px, 0px, 0px;
     margin-left: 10px
+    display:inline-block;
     }
 
 .eu-emblem-std-en {
     width: 80px;
     height: 45px;
-    display:inline-block;
+
     }
 
 .eu-emblem-std-text {
