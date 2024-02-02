@@ -468,7 +468,7 @@ div.qanda > ol > li {
         }
 
     }
-
+/* New Dev Docs footer css */
 /* container */
     .three-columns {
         display:block;
@@ -702,7 +702,7 @@ color: #fff;
 
 .ted-search__form-control:focus {
 	/* box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
-	outline: 0; */
+	outline: 0;
 	outline-color: #1454B7;
 }
 
@@ -951,6 +951,7 @@ color: #fff;
 		padding: 8px 16px 10px;
 	}
 }
+
 /*TED dev docs header*/
 
 .dd-header-container {
@@ -962,10 +963,10 @@ color: #fff;
 
 .eu-part {
     Property 1="xl";
-    width: Fill (1,200px)
-    height: Hug (45px)
-    padding: 0px, 24px, 0px, 24px
-    justify: space-between
+    width: Fill 1,200px;
+    height: Hug 45px;
+    padding: 0px, 24px, 0px, 24px;
+    justify: space-between;
     }
 
 .eu-emblem {
@@ -973,8 +974,7 @@ color: #fff;
     width: 159px;
     height: 45px;
     padding: 0px, 0.07px, 0px, 0px;
-    // On click
-    // Open link: "https://european-union.europa.eu/index_en";
+
     }
 
 .eu-emblem-std-en {
@@ -997,16 +997,24 @@ padding: 0px, 24px, 0px, 24px;
 
 .ted-dd-bar {
     width: Fill 1,200px;
-    height: Hug ;68px;
+    height: Hug 68px;
     padding: 0px, 24px, 0px, 24px;
     gap: 16px;
 }
 
 .ted-dd-text-bar {
     width: Fill 750px;
-    height: Hug 33px;
-    gap: 4px;
+    height: Hug 68px;
+    gap: 6px;
 }
+
+.ted-dd-text-field {
+   width: Fill 750px;
+   height: Hug 33px;
+   gap: 4px;
+
+    }
+
 
 .text-eu-tenders {
     //styleName: headings lead 1-2 L/3xl - s bold H2;
