@@ -980,6 +980,26 @@ color: #fff;
 .eu-emblem-std-en {
     width: 80px;
     height: 19px;
+    display:inline-block;
+    }
+
+.eu-emblem-std-text {
+    display:inline-block;
+    margin-left: 10px
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #515560;
+}
+
+
+.eu-emblem-std-text1 {
+    }
+
+.eu-emblem-std-text2 {
     }
 
 .sep-frame {
@@ -1024,7 +1044,7 @@ padding: 0px, 24px, 0px, 24px;
     letter-spacing: 0em;
     text-align: left;
     color: #515560;
-    margin-left:10px
+    margin-left:10px;
 }
 
 .eu-part    {
@@ -1070,6 +1090,7 @@ padding: 0px, 24px, 0px, 24px;
     line-height: 18px;
     letter-spacing: 0em;
     text-align: left;
+    margin-left:10px;
 }
 
 .text-eu-subtext-label {
