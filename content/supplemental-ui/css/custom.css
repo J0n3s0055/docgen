@@ -1019,12 +1019,25 @@ padding: 0px, 24px, 0px, 24px;
     color: #515560;
 }
 
+.eu-part    {
+    width: Fill 1,200px;
+    height: Hug 45px;
+    padding: 0px, 24px, 0px, 24px;
+    justify: space-between;
+    }
+
+
+.eu-emblem-std-en   {
+    width: 159px;
+    height: 45px;
+    padding: 0px, 0.07px, 0px, 0px;
+}
+
 .text-eu-subtext-box    {
     Property 1="Default";
     width: Fill 750px;
     height: Hug 29px;
     gap: 12px;
-
 }
 
 .text-eu-subtext-text   {
