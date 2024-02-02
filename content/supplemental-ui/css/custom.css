@@ -1037,8 +1037,9 @@ padding: 0px, 24px, 0px, 24px;
 
 .eu-emblem-std-en   {
     width: 159px;
-    height: 45px;
-    padding: 0px, 0.07px, 0px, 0px;
+    height: Hug 45px;
+    justify: space-between;
+    padding: 0px, 24px, 0px, 24px;
 }
 
 .text-eu-subtext-box    {
