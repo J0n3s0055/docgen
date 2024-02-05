@@ -475,6 +475,7 @@ div.qanda > ol > li {
         background-color:#F3F6FC;
         border-bottom: 1px solid #CFDAF5;
         max-width: 1490px;
+        margin-left:30px;
 
     }
 
@@ -1029,16 +1030,16 @@ color: #fff;
         color: #515560;}
 
 .sep-frame {
-width: Fill 1,200px;
-height: Hug 2px;
-padding: 0px, 24px, 0px, 24px;
+    width: Fill 1,200px;
+    height: Hug 2px;
+    padding: 0px, 24px, 0px, 24px;
 
 }
 
 .rect-grey {
     width: 1152px;
     height: 2px;
-    margin-left:30
+    margin-left:25px;
     background: #CFDAF5;
     }
 
@@ -1071,7 +1072,7 @@ padding: 0px, 24px, 0px, 24px;
     letter-spacing: 0em;
     text-align: left;
     color: #515560;
-    margin-left:30px;
+    margin-left:25px;
     margin-bottom: 6px;
     margin-top: 15px;
     display: block;
@@ -1090,7 +1091,7 @@ padding: 0px, 24px, 0px, 24px;
     /* top: 5.63px
     left: 77.65px
     padding: 24px, 24px, 24px, 24px */
-    margin-left: 30px;
+    margin-left: 25px;
     margin-top: 20px;
     display: inline-block;
 
