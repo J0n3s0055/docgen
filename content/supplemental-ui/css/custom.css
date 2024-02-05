@@ -1090,10 +1090,11 @@ color: #fff;
     width: 161px;
     /* top: 5.63px
     left: 77.65px
-    padding: 24px, 24px, 24px, 24px */
+    padding: 24px, 24px, 24px, 24px
+    display: inline-block;*/
     margin-left: 25px;
     margin-top: 20px;
-    display: inline-block;
+
 
 
 }
