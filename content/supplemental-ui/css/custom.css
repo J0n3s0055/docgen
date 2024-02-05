@@ -1084,11 +1084,12 @@ padding: 0px, 24px, 0px, 24px;
 
 
 .eu-emblem-std-en   {
-    width: 240px
-    height: 17.13px
-    top: 5.63px
+    width: 161px;
+    /* top: 5.63px
     left: 77.65px
-    padding: 24px, 24px, 24px, 24px
+    padding: 24px, 24px, 24px, 24px */
+    margin-left: 10px;
+    margin-top: 10px;
 
 
 }
