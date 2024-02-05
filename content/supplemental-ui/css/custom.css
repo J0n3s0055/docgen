@@ -1112,6 +1112,7 @@ padding: 0px, 24px, 0px, 24px;
     border-left: 4px solid #339900;
     display:inline-block;
     margin-right:10px;
+    margin-bottom:10px;
     font-family: Arial;
     font-size: 18px;
     font-weight: 700;
@@ -1136,12 +1137,13 @@ padding: 0px, 24px, 0px, 24px;
     width: 500px;
     height: 14px;
     font-family: Arial;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 18px;
     letter-spacing: 0em;
     text-align: left;
     color: #515560;
+    margin-bottom:10px;
     display:inline-block;
 }
 
