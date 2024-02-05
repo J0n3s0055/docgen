@@ -987,8 +987,9 @@ color: #fff;
      letter-spacing: 0em;
      text-align: left;
       color: #515560;
-
+    margin-top: 10px;
     margin-left: 10px;
+    margin-bottom: 10px;
     }
 
 .eu-emblem-std-text {
@@ -1070,6 +1071,7 @@ padding: 0px, 24px, 0px, 24px;
     color: #515560;
     margin-left:10px;
     margin-bottom: 6px;
+    margin-top: 15px;
     display: block;
 }
 
