@@ -1038,6 +1038,7 @@ padding: 0px, 24px, 0px, 24px;
 .rect-grey {
     width: 1152px;
     height: 2px;
+    margin-left:30
     background: #CFDAF5;
     }
 
@@ -1070,7 +1071,7 @@ padding: 0px, 24px, 0px, 24px;
     letter-spacing: 0em;
     text-align: left;
     color: #515560;
-    margin-left:10px;
+    margin-left:30px;
     margin-bottom: 6px;
     margin-top: 15px;
     display: block;
@@ -1089,8 +1090,8 @@ padding: 0px, 24px, 0px, 24px;
     /* top: 5.63px
     left: 77.65px
     padding: 24px, 24px, 24px, 24px */
-    margin-left: 10px;
-    margin-top: 10px;
+    margin-left: 30px;
+    margin-top: 20px;
     display: inline-block;
 
 
@@ -1117,7 +1118,7 @@ padding: 0px, 24px, 0px, 24px;
     font-family: Arial;
     letter-spacing: 0em;
     text-align: left;
-    margin-left:10px;
+    margin-left:30px;
     background: #F5F5F5;
     /*border-left: 6px solid #390;*/
     padding: 4px 12px;
