@@ -971,16 +971,16 @@ color: #fff;
 
 .eu-emblem {
     Property 1="desktop";
-    width: 159px;
+    width: 161px;
     height: 45px;
-    padding: 0px, 0.07px, 0px, 0px;
+    padding: 16px, 0px, 16px, 0px;
     margin-left: 10px
     display:inline-block;
     }
 
 .eu-emblem-std-en {
-     width: 250px;
-     height: 60px;
+     width: 161px;
+     height: 45px;
      display:inline-block;
      font-family: Arial;
      font-size: 14px;
@@ -1082,11 +1082,11 @@ padding: 0px, 24px, 0px, 24px;
 
 
 .eu-emblem-std-en   {
-    width: 198px
+    width: 240px
     height: 17.13px
     top: 5.63px
     left: 77.65px
-    padding: 0px, 0px, 0px, 0px
+    padding: 0px, 24px, 0px, 24px
 
 
 }
@@ -1137,3 +1137,17 @@ padding: 0px, 24px, 0px, 24px;
     height: 6px;
     background: #339900;
     }
+
+/* <span class="algolia-autocomplete"><input id="search-input" type="text" placeholder="Search docs" class="ds-input" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-label="search input" aria-owns="algolia-autocomplete-listbox-0" dir="auto" ><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: Arial; font-size: 13.3333px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: normal; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><span class="ds-dropdown-menu" role="listbox" id="algolia-autocomplete-listbox-0" style="position: absolute; top: 100%; z-index: 100; left: 0px; right: auto; display: none;"><div class="ds-dataset-1"></div></span></span>
+.algolia-autocomplete {
+    position: relative;
+    display: inline-block;
+    direction: ltr;
+    }
+
+class="ds-input"
+style="position: relative; vertical-align: top;"
+
+class="ds-dropdown-menu"
+style="position: absolute; top: 100%; z-index: 100; left: 0px; right: auto; display: none;"
+*/
