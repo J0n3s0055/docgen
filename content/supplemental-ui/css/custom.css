@@ -1062,13 +1062,15 @@ padding: 0px, 24px, 0px, 24px;
 
 .text-eu-tenders {
     font-family: Arial;
-    font-size: 20px;
+    font-size: 28px;
     font-weight: 700;
     line-height: 32px;
     letter-spacing: 0em;
     text-align: left;
     color: #515560;
     margin-left:10px;
+    margin-bottom: 6px;
+    display: block;
 }
 
 .eu-part    {
@@ -1084,7 +1086,7 @@ padding: 0px, 24px, 0px, 24px;
     height: 17.13px
     top: 5.63px
     left: 77.65px
-    padding: 0px, 24px, 0px, 24px
+    padding: 24px, 24px, 24px, 24px
 
 
 }
@@ -1100,8 +1102,8 @@ padding: 0px, 24px, 0px, 24px;
     Property 1="default";
     width: Hug 163px;
     height: Hug 29px;
-    padding: 4px, 12px, 4px, 18px;
-    border: 0px, 0px, 0px, 6px;
+    padding: 4px, 12px,;
+
     gap: 10px;
     color: #339900;
     linear-gradient(0deg, #F5F5F5, #F5F5F5);
@@ -1111,10 +1113,21 @@ padding: 0px, 24px, 0px, 24px;
     font-family: Arial;
     font-size: 18px;
     font-weight: 700;
-    line-height: 18px;
+    line-height: 20px;
     letter-spacing: 0em;
     text-align: left;
+
     margin-left:10px;
+
+    background: #F5F5F5;
+    border-left: 6px solid #390;
+    padding: 4px 12px;
+    color: #515560;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    display: inline-block;
+    margin-right: 10px;
 }
 
 .text-eu-subtext-label {
