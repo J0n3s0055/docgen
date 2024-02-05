@@ -1105,26 +1105,19 @@ padding: 0px, 24px, 0px, 24px;
     Property 1="default";
     width: Hug 163px;
     height: Hug 29px;
-    padding: 4px, 12px,;
-
-    gap: 10px;
-    color: #339900;
+        gap: 10px;
+    /*color: #339900;*/
     linear-gradient(0deg, #F5F5F5, #F5F5F5);
     border-left: 4px solid #339900;
     display:inline-block;
     margin-right:10px;
     margin-bottom:10px;
     font-family: Arial;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 20px;
     letter-spacing: 0em;
     text-align: left;
-
     margin-left:10px;
-
     background: #F5F5F5;
-    border-left: 6px solid #390;
+    /*border-left: 6px solid #390;*/
     padding: 4px 12px;
     color: #515560;
     font-size: 18px;
