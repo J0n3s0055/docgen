@@ -1141,14 +1141,14 @@ color: #fff;
     margin-left: 10px;
     }
 
-.navbar-item-search {
+/*.navbar-item-search {
     display: inline-block;
     position: fixed;
     left 1525px;
     top: 25px;
     }
 
-/*.algolia-autocomplete   {
+.algolia-autocomplete   {
     display: inline-block;
     position: fixed;
     left 1525px;
