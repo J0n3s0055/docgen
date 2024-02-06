@@ -86,6 +86,7 @@ div.qanda > ol > li {
     table-layout: fixed;
 }
 
+/* EU fonts updated Feb 2024 */
 :root {
 
     /*** BASE FONTS ****/
@@ -100,7 +101,6 @@ div.qanda > ol > li {
 
 
     /* Font sizes */
-
     --gs-base-font-size-2xs: 0.75rem;
     /* 12px Tiny short text (1 narrow line maximum) for extra fine print. Use in extremely exceptional cases when "xs" does not suffice. */
     --gs-base-font-size-xs: 0.813rem;
@@ -1006,29 +1006,6 @@ color: #fff;
     color: #515560;
 }
 
-
-.eu-emblem-std-text1 {
-    margin-left: 10px
-       font-family: Arial;
-       font-size: 14px;
-       font-weight: 700;
-       line-height: 18px;
-       letter-spacing: 0em;
-       text-align: left;
-       color: #515560;
-
-       }
-
-.eu-emblem-std-text2 {
-     margin-left: 10px
-        font-family: Arial;
-        font-size: 14px;
-        font-weight: 700;
-        line-height: 18px;
-        letter-spacing: 0em;
-        text-align: left;
-        color: #515560;}
-
 .sep-frame {
     width: Fill 1,200px;
     height: Hug 2px;
@@ -1162,6 +1139,13 @@ color: #fff;
     position: sticky;
     top: 0px;
     margin-left: 10px;
+    }
+
+.navbar-item-search {
+    display:
+    position: sticky
+    right 25px;
+    top: 40px;
     }
 
 
