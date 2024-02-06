@@ -1143,9 +1143,9 @@ color: #fff;
 
 .navbar-item-search {
     display: inline-block;
-    position: sticky
-    right 25px;
-    top: 40px;
+    position: fixed;
+    left 1525px;
+    top: 25px;
     }
 
 
