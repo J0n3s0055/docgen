@@ -495,7 +495,7 @@ div.qanda > ol > li {
 
     /* footer */
     .h3-footer {
-        font-family: Arial, sans-serif;
+        font-family:Arial, sans-serif !important;
         color: #171A22 !important;
         padding-bottom: 0.75rem;
         margin-top: 1.5 rem;
@@ -515,7 +515,7 @@ div.qanda > ol > li {
         text-decoration: none !important;
         text-underline-offset: 0.15em !important;
         font-size: 0.917rem;
-        font-family:Arial, sans-serif  !important
+        font-family:Arial, sans-serif !important
     }
 
     .li-footer {
@@ -541,6 +541,7 @@ div.qanda > ol > li {
     font-size: 0.917rem !important;
     font-weight: 300;
     color: #171A22 !important;
+    font-family:Arial, sans-serif !important;
     }
 
     .icon-footer {
