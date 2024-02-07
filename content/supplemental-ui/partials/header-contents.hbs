@@ -1,0 +1,86 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" crossorigin="anonymous"></script>
+<script defer src="https://europa.eu/webtools/load.js?globan=1110" type="text/javascript"></script>
+
+<!-- middle header section with EU flag and logo, full words for pc, "EU" for mobile, flexible-->
+    <div class="dd-header-container">
+       <div class="eu-part">
+            <div class="eu-emblem" style="display: inline-block;">
+                <!-- flag and logo-->
+                <div class="eu-emblem-std-en"><a href="https://european-union.europa.eu/index_en"><img src="https://ted.europa.eu/o/ted2-theme/images/eu/standard/logo-eu--en.svg" width="161"><span></span></a></div>
+
+            </div>
+            <!-- Algolia Search -->
+            <div class="navbar-item search" style="display: inline-block; position: absolute; right: 15px; width:200px; margin-top:20px; margin-bottom 15px; padding 10px;">
+                <span class="algolia-autocomplete" style="direction: ltr;"><input id="search-input" type="text" placeholder="Search the Developer Docs" class="ds-input" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-label="search input" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;">
+                    <pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: Arial; font-size: 13.3333px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: normal; text-indent: 0px; text-rendering: auto; text-transform: none;">
+
+                    </pre>
+                    <span class="ds-dropdown-menu ds-with-1" role="listbox" id="algolia-autocomplete-listbox-0" style="position: absolute; top: 100%; z-index: 100; left: 0px; right: auto; display: none;">
+                        <div class="ds-dataset-1"></div>
+                    </span>
+                </span>
+            </div>
+        </div>
+
+        <!-- grey line between eu part and ted dev docs part-->
+        <div class="sep-frame">
+            <div class="rect-grey"></div>
+        </div>
+
+        <!-- ted dev docs title section under grey line-->
+        <div class="ted-dd-bar">
+            <div class="ted-dd-text-bar">
+                <div class="ted-dd-text-field">
+                    <div class="text-eu-tenders">EU tenders</div>
+                    <div class="text-eu-subtext-text">TED Developer Docs</div>
+                    <div class="text-eu-subtext-label">Documentation for TED developers and eSenders</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- green line between header and body-->
+        <div class="sep-frame">
+            <div class="rect-green"></div>
+        </div>
+    </div>
+
+{{!-- This generates a menu with all available versioned products (antora components) --}}
+<div class="navbar-item has-dropdown is-hoverable">
+    <a class="navbar-link" href="#">Products</a>
+    <div class="navbar-dropdown">
+        {{#each site.components}}
+        {{!-- If the component's version is set to "master", then it is not a versioned component so we don't display it.  --}}
+        {{!-- This is to avoid adding a link to components that do not contain product specific documentation (i.e. the "home" component). --}}
+            {{#if this.versions.[0].version}}
+                {{#if (not (eq this.versions.[0].version "master"))}}
+                    <a class="navbar-item" href="{{{relativize ./url}}}">{{{./title}}}</a>
+                {{/if}}
+            {{/if}}
+        {{/each}}
+    </div>
+</div>
+
+<!--
+<div class="navbar-item has-dropdown is-hoverable">
+    <a class="navbar-link" href="#">Resources</a>
+    <div class="navbar-dropdown">
+         del: <div class="navbar-item"><b>Publications Ofiice</b></div>
+        <a class="navbar-item" href="https://github.com/OP-TED/eForms-SDK">eForms SDK on Github</a>
+        <a class="navbar-item" href="https://simap.ted.europa.eu/web/simap/eforms">eForms on SIMAP</a>
+        <a class="navbar-item" href="https://github.com/eprocurementontology/eprocurementontology">eProcurement
+            Ontology</a>
+        <a class="navbar-item" href="https://github.com/espd/espd-edm">European Single Procurement Document</a>
+        <a class="navbar-item" href="https://op.europa.eu/en/web/eu-vocabularies/e-procurement/tables">eProcurement in
+            EU Vocabularies</a>
+        <hr class="navbar-divider">
+        del: <div class="navbar-item"><b>DG GROW</b></div>
+        <a class="navbar-item" href="https://ec.europa.eu/growth/single-market/public-procurement/digital/eforms_en">About
+            eForms</a>
+        del: <a class="navbar-item" href="https://github.com/eForms/eForms">eForms 2nd consultation</a>
+    </div>
+</div>
+
+<a class="navbar-item" href="https://simap.ted.europa.eu/contact">Helpdesk</a>
+
+-->
+
