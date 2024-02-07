@@ -843,7 +843,7 @@ div.qanda > ol > li {
     width: Hug 163px;
     height: Hug 29px;
         gap: 10px;
-    /*color: #339900;*/
+    color: #339900;
     linear-gradient(0deg, #F5F5F5, #F5F5F5);
     border-left: 4px solid #339900;
     display:inline-block;
