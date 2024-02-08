@@ -471,7 +471,7 @@ div.qanda > ol > li {
 /* New Dev Docs footer css */
 /* container */
     .three-columns {
-        display:block;
+        display:flex;
         background-color:#F3F6FC;
         border-bottom: 1px solid #CFDAF5;
         max-width: 1490px;
