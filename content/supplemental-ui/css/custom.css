@@ -492,17 +492,19 @@ div.qanda > ol > li {
             grid-template-columns: 1fr 1fr 1fr;
         }
     }
-    /* test logo change
-    @media (min-width:768px) {
-        .ted-header__logo-eu {src="https://ted.europa.eu/o/ted2-theme/images/eu/condensed/logo-eu--en.svg"
+    /* test logo change*/
+    @media (min-width:769px) {
+        .ls-footer-logo {
+        src="https://ted.europa.eu/o/ted2-theme/images/eu/condensed/logo-eu--en.svg"
         }
     }
 
     @media (max-width:768px) {
-            .ted-header__logo-eu {src="https://ted.europa.eu/o/ted2-theme/images/eu/standard/logo-eu--en.svg"
+            .ls-footer-logo {
+            src="https://ted.europa.eu/o/ted2-theme/images/eu/standard/logo-eu--en.svg"
             }
         }
-*/
+
     /* footer */
     .h3-footer {
         font-family:Arial, sans-serif !important;
