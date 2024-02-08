@@ -468,14 +468,20 @@ div.qanda > ol > li {
         }
 
     }
-/* New Dev Docs footer css */
+/* New Dev Docs footer css Feb 2024 */
+
+/* footer */
 /* container */
+    .footer {
+           max-width: 1650px;
+           }
+
     .three-columns {
         display:flex;
         background-color:#F3F6FC;
         border-bottom: 1px solid #CFDAF5;
         max-width: 1575px;
-        margin-left:25px;
+
 
     }
 
@@ -505,7 +511,10 @@ div.qanda > ol > li {
             }
         }
 
-    /* footer */
+
+
+
+
     .h3-footer {
         font-family:Arial, sans-serif !important;
         color: #171A22 !important;
@@ -725,7 +734,7 @@ div.qanda > ol > li {
 /*TED dev docs header*/
 
 .dd-header-container {
-    max-width: 1600px;
+    max-width: 1650px;
     height: Hug 213px);
     gap: 16px;
     background: #FFFFFF;
