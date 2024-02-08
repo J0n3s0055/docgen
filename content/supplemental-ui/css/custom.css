@@ -896,28 +896,23 @@ div.qanda > ol > li {
 
 }
 
-<style>
 .text-eu-subtext-text: link {
   color: #339900;
-  background-color: transparent;
   text-decoration: none;
 }
 
 .text-eu-subtext-text: :visited {
   color: pink;
-  background-color: transparent;
   text-decoration: none;
 }
 
 .text-eu-subtext-text: :hover {
   color: red;
-  background-color: transparent;
   text-decoration: underline;
 }
 
 .text-eu-subtext-text: :active {
   color: yellow;
-  background-color: transparent;
   text-decoration: underline;
 }
 
