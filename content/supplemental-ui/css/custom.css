@@ -772,6 +772,18 @@ div.qanda > ol > li {
 
     }
 
+ @media (min-width:769px) {
+        .eu-emblem-std-en {
+        content: url("https://ted.europa.eu/o/ted2-theme/images/eu/standard/logo-eu--en.svg")
+        }
+    }
+
+    @media (max-width:768px) {
+            .eu-emblem-std-en {
+            content: url("https://ted.europa.eu/o/ted2-theme/images/eu/condensed/logo-eu--en.svg")
+            }
+        }
+
 .eu-emblem-std-text {
 
     margin-left: 10px
@@ -863,7 +875,7 @@ div.qanda > ol > li {
     Property 1="default";
     width: Hug 163px;
     height: Hug 29px;
-        gap: 10px;
+    gap: 10px;
     color: #339900;
     linear-gradient(0deg, #F5F5F5, #F5F5F5);
     border-left: 4px solid #339900;
@@ -877,7 +889,7 @@ div.qanda > ol > li {
     background: #F5F5F5;
     /*border-left: 6px solid #390;*/
     padding: 4px 12px;
-    color: #515560;
+    /*color: #515560;*/
     font-size: 18px;
     font-weight: 700;
     line-height: 20px;
