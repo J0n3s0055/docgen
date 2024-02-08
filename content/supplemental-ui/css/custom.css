@@ -501,13 +501,13 @@ div.qanda > ol > li {
     /* test logo change*/
     @media (min-width:769px) {
         .ls-footer-logo {
-        content: url("https://ted.europa.eu/o/ted2-theme/images/eu/condensed/logo-eu--en.svg")
+        content: url("https://ted.europa.eu/o/ted2-theme/images/eu/standard/logo-eu--en.svg")
         }
     }
 
     @media (max-width:768px) {
             .ls-footer-logo {
-            content: url("https://ted.europa.eu/o/ted2-theme/images/eu/standard/logo-eu--en.svg")
+            content: url("https://ted.europa.eu/o/ted2-theme/images/eu/condensed/logo-eu--en.svg")
             }
         }
 
