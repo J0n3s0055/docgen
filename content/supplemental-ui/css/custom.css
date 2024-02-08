@@ -725,7 +725,7 @@ div.qanda > ol > li {
 /*TED dev docs header*/
 
 .dd-header-container {
-    width: Fixed 1575px;
+    max-width: 1600px;
     height: Hug 213px);
     gap: 16px;
     background: #FFFFFF;
@@ -783,7 +783,7 @@ div.qanda > ol > li {
 }
 
 .rect-grey {
-    width: 1575px;
+    width: 1550px;
     height: 2px;
     margin-left:25px;
     background: #CFDAF5;
