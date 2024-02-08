@@ -876,7 +876,6 @@ div.qanda > ol > li {
     width: Hug 163px;
     height: Hug 29px;
     gap: 10px;
-    color: #339900;
     linear-gradient(0deg, #F5F5F5, #F5F5F5);
     border-left: 4px solid #339900;
     display:inline-block;
@@ -894,8 +893,34 @@ div.qanda > ol > li {
     font-weight: 700;
     line-height: 20px;
     display: inline-block;
-    margin-right: 10px;
+
 }
+
+<style>
+.text-eu-subtext-text: link {
+  color: #339900;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.text-eu-subtext-text: :visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.text-eu-subtext-text: :hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.text-eu-subtext-text: :active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 
 .text-eu-subtext-label {
     width: 500px;
