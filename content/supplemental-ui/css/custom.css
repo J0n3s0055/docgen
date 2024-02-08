@@ -474,7 +474,7 @@ div.qanda > ol > li {
         display:flex;
         background-color:#F3F6FC;
         border-bottom: 1px solid #CFDAF5;
-        max-width: 1490px;
+        max-width: 1575px;
         margin-left:25px;
 
     }
@@ -725,7 +725,7 @@ div.qanda > ol > li {
 /*TED dev docs header*/
 
 .dd-header-container {
-    width: Fixed 1,200px;
+    width: Fixed 1575px;
     height: Hug 213px);
     gap: 16px;
     background: #FFFFFF;
@@ -733,7 +733,7 @@ div.qanda > ol > li {
 
 .eu-part {
     Property 1="xl";
-    width: Fill 1,200px;
+    width: Fill 1575px;
     height: Hug 45px;
     padding: 0px, 24px, 0px, 24px;
     justify: space-between;
@@ -776,21 +776,21 @@ div.qanda > ol > li {
 }
 
 .sep-frame {
-    width: Fill 1,200px;
+    width: Fill 1575px;
     height: Hug 2px;
     padding: 0px, 24px, 0px, 24px;
 
 }
 
 .rect-grey {
-    width: 1175px;
+    width: 1575px;
     height: 2px;
     margin-left:25px;
     background: #CFDAF5;
     }
 
 .ted-dd-bar {
-    width: Fill 1,200px;
+    width: Fill 1575px;
     height: Hug 68px;
     padding: 0px, 24px, 0px, 24px;
     gap: 16px;
@@ -825,7 +825,7 @@ div.qanda > ol > li {
 }
 
 .eu-part    {
-    width: Fill 1,200px;
+    width: Fill 1575px;
     height: Hug 45px;
     padding: 0px, 24px, 0px, 24px;
     justify: space-between;
@@ -891,7 +891,7 @@ div.qanda > ol > li {
 }
 
 .rect-green {
-    width: 1200px;
+    width: 1575px;
     height: 6px;
     background: #339900;
     }
