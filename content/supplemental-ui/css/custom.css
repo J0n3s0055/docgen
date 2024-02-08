@@ -951,16 +951,14 @@ div.qanda > ol > li {
     }
 
 /.navbar-item-search {
-    position: absolute;
-    right: 25px;
+    margin-right: 25px;
     width:200px;
-    margin-top:20px;
     margin-bottom 15px;
     padding 10px;
     top: 25px;
     display: inline-block;
-    position: fixed;
-    /*left 1525px;*/
+    position: absolute;
+    *left 1525px;*
     }
 
 
