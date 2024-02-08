@@ -937,9 +937,11 @@ div.qanda > ol > li {
     background: #339900;
     }
 
+
 .toolbar {
     position: sticky;
     top: 0px;
+    max-width: 1600px;
     }
 
 .nav-menu {
@@ -948,19 +950,20 @@ div.qanda > ol > li {
     margin-left: 10px;
     }
 
-/*.navbar-item-search {
+/.navbar-item-search {
+    position: absolute;
+    right: 25px;
+    width:200px;
+    margin-top:20px;
+    margin-bottom 15px;
+    padding 10px;
+    top: 25px;
     display: inline-block;
     position: fixed;
-    left 1525px;
-    top: 25px;
+    /*left 1525px;*/
     }
 
-.algolia-autocomplete   {
-    display: inline-block;
-    position: fixed;
-    left 1525px;
-    top: 25px;
-    } */
+
 
 .eu-emblem  {
     display: inline-block;
