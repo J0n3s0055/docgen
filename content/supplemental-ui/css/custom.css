@@ -888,7 +888,7 @@ div.qanda > ol > li {
     background: #F5F5F5;
     /*border-left: 6px solid #390;*/
     padding: 4px 12px;
-    /*color: #515560;*/
+    color: #515560;
     font-size: 18px;
     font-weight: 700;
     line-height: 20px;
@@ -896,6 +896,7 @@ div.qanda > ol > li {
 
 }
 
+/*
 .text-eu-subtext-text: link {
   color: #339900;
   text-decoration: none;
@@ -915,7 +916,7 @@ div.qanda > ol > li {
   color: yellow;
   text-decoration: underline;
 }
-
+*/
 
 .text-eu-subtext-label {
     width: 500px;
