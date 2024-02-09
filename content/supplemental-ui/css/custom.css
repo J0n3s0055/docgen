@@ -552,6 +552,9 @@ div.qanda > ol > li {
 
     }
 
+    .footer a {
+        color #0E47CB;
+}
     .ul-footer li-footer {
     margin: 30px;
     }
