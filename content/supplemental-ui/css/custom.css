@@ -14,7 +14,7 @@
     background: #ffffff;
     z-index: -1;
     position:sticky;
-    left: 900px;
+    /*left: 900px;*/
     }
 
 .navbar .logo {
@@ -509,7 +509,7 @@ div.qanda > ol > li {
 
     }
 
-     tablet breakpoint
+     /*tablet breakpoint*/
     @media (min-width:769px) {
         .three-columns {
             display: grid;
