@@ -941,6 +941,12 @@ div.qanda > ol > li {
     display:inline-block;
 }
 
+  @media (max-width:768px) {
+            .text-eu-subtext-label {
+            display: none;
+            }
+        }
+
 .rect-green {
     width: 1575px;
     height: 6px;
