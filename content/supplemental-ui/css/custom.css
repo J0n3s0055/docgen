@@ -1,3 +1,11 @@
+
+.body .article {
+    max-width: 1650px;
+    	margin: 0 auto !important;
+    	float: none !important;
+    }
+
+
 .navbar .logo {
     height: 3.5rem !important;
 }
@@ -476,13 +484,16 @@ div.qanda > ol > li {
            max-width: 1650px;
            }
 
+    .footer a {
+            color: #0E47CB;
+    }
+
+
     .three-columns {
         display:flex;
         background-color:#F3F6FC;
         border-bottom: 1px solid #CFDAF5;
         /*max-width: 1575px;*/
-
-
     }
 
     /* columns */
@@ -510,9 +521,6 @@ div.qanda > ol > li {
             content: url("https://ted.europa.eu/o/ted2-theme/images/eu/condensed/logo-eu--en.svg")
             }
         }
-
-
-
 
 
     .h3-footer {
@@ -552,9 +560,7 @@ div.qanda > ol > li {
 
     }
 
-    .footer a {
-        color: #0E47CB;
-}
+
     .ul-footer li-footer {
     margin: 30px;
     }
