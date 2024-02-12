@@ -1,8 +1,8 @@
 
 .body, .globan, .dd-header-container, .footer {
     max-width: 1480px;
-    position: sticky;
-    margin: 0 auto !important;
+    /*position: sticky;
+    margin: 0 auto !important;*/
     float: none !important;
     }
 
