@@ -1,5 +1,5 @@
 
-.body {
+.body, .globan, .dd-header-container, .footer {
     max-width: 1650px;
     	margin: 0 auto !important;
     	float: none !important;
