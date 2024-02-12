@@ -545,7 +545,7 @@ div.qanda > ol > li {
         font-family:Arial, sans-serif !important;
         color: #171A22 !important;
         padding-bottom: 0.75rem;
-        margin-top: 1.5 rem;
+        /*margin-top: 1.5 rem;*/
         font-size: 1.5rem !important;
         font-weight: 200 !important;
         max-width:unset;
