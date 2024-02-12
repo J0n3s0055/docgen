@@ -1,5 +1,5 @@
 
-.body, .globan, .dd-header-container, .footer {
+.body, .globan, .dd-header-container, .footer, .toolbar {
     max-width: 1480px;
     /*position: sticky;
     margin: 0 auto !important;*/
@@ -14,7 +14,7 @@
     background: #ffffff;
     z-index: -1;
     position:sticky;
-    left: 1400px;
+    left: 900px;
     }
 
 .navbar .logo {
@@ -509,8 +509,8 @@ div.qanda > ol > li {
 
     }
 
-    /* tablet breakpoint*/
-    @media (min-width:768px) {
+     tablet breakpoint
+    @media (min-width:769px) {
         .three-columns {
             display: grid;
             grid-auto-rows: 1fr;
@@ -518,7 +518,7 @@ div.qanda > ol > li {
         }
     }
 
-     /*@media (max-width:768px) {
+     @media (max-width:768px) {
             .three-columns {
                 display: grid;
                 grid-auto-rows: 1fr;
@@ -761,7 +761,6 @@ div.qanda > ol > li {
 /*TED dev docs header*/
 
 .dd-header-container {
-    max-width: 1600px;
     height: Hug 213px);
     gap: 16px;
     background: #FFFFFF;
@@ -975,7 +974,7 @@ div.qanda > ol > li {
 .toolbar {
     position: sticky;
     top: 0px;
-    max-width: 1600px;
+
     }
 
 .nav-menu {
