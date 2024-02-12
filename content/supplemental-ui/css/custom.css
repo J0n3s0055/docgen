@@ -6,6 +6,9 @@
     float: none !important;
     }
 
+.globan {
+    margin-left:0px !important;
+    }
 
 .navbar .logo {
     height: 3.5rem !important;
