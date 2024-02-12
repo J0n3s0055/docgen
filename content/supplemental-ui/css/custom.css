@@ -9,6 +9,9 @@
 .globan {
     margin-left:0px !important;
     }
+.algolia-autocomplete .ds-dropdown-menu {
+    background: #ffffff;
+    }
 
 .navbar .logo {
     height: 3.5rem !important;
