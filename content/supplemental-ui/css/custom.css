@@ -510,7 +510,7 @@ div.qanda > ol > li {
     }
 
      tablet breakpoint
-    @media (min-width:769px) {
+    @media (min-width:900px) {
         .three-columns {
             display: grid;
             grid-auto-rows: 1fr;
@@ -518,7 +518,7 @@ div.qanda > ol > li {
         }
     }
 
-     @media (max-width:768px) {
+     @media (max-width:899px) {
             .three-columns {
                 display: grid;
                 grid-auto-rows: 1fr;
