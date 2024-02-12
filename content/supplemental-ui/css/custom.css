@@ -321,7 +321,9 @@ div.qanda > ol > li {
 
     .footer {
         background-color: var(--gs-base-color-eu-blue-5)!important;
-    }
+        display:flex;
+        flex-wrap: wrap;
+        }
 
     #footer #extendedft {
         padding-bottom: unset;
@@ -492,7 +494,7 @@ div.qanda > ol > li {
 /* footer */
 /* container */
     .footer a {
-            color: #0E47CB;
+        colour: #0E47CB;
     }
 
 
