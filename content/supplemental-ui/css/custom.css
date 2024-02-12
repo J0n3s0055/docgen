@@ -521,8 +521,8 @@ div.qanda > ol > li {
      @media screen and (max-width:768px) {
             .three-columns {
                 display: grid;
-                grid-auto-rows: 1fr;
-                grid-template-columns: 1fr;
+                grid-template-rows: 1fr 1fr 1fr;
+                grid-auto-columns: 1fr;
 
             }
         }
