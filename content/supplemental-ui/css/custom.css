@@ -13,7 +13,8 @@
 .algolia-autocomplete .ds-dropdown-menu {
     background: #ffffff;
     z-index: -1;
-    position:relative;
+    position:sticky;
+    left: 1400px;
     }
 
 .navbar .logo {
