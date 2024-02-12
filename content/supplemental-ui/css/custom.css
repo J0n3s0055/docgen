@@ -6,11 +6,14 @@
     float: none !important;
     }
 
-.globan {
+/*.globan {
     margin-left:0px !important;
-    }
+    }*/
+
 .algolia-autocomplete .ds-dropdown-menu {
     background: #ffffff;
+    z-index: -1;
+    position:relative;
     }
 
 .navbar .logo {
