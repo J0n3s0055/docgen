@@ -811,14 +811,14 @@ div.qanda > ol > li {
 }
 
 .sep-frame {
-    width: Fill 1575px;
+    width: Fill 1480px;
     height: Hug 2px;
     padding: 0px, 24px, 0px, 24px;
 
 }
 
 .rect-grey {
-    width: 1550px;
+    width: 1455px;
     height: 2px;
     margin-left:25px;
     background: #CFDAF5;
@@ -953,7 +953,7 @@ div.qanda > ol > li {
         }
 
 .rect-green {
-    width: 1575px;
+    width: 1480px;
     height: 6px;
     background: #339900;
     }
