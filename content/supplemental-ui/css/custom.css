@@ -321,8 +321,6 @@ div.qanda > ol > li {
 
     .footer {
         background-color: var(--gs-base-color-eu-blue-5)!important;
-        display:flex;
-        flex-wrap: wrap;
         }
 
     #footer #extendedft {
@@ -500,6 +498,7 @@ div.qanda > ol > li {
 
     .three-columns {
         display:flex;
+        flex-wrap: wrap;
         background-color:#F3F6FC;
         border-bottom: 1px solid #CFDAF5;
         }
