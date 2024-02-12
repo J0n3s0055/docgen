@@ -1,6 +1,6 @@
 
 .body, .globan, .dd-header-container, .footer {
-    max-width: 1600px;
+    max-width: 1480px;
     	margin: 0 auto !important;
     	float: none !important;
     }
@@ -480,10 +480,6 @@ div.qanda > ol > li {
 
 /* footer */
 /* container */
-    .footer {
-           max-width: 1650px;
-           }
-
     .footer a {
             color: #0E47CB;
     }
@@ -493,15 +489,15 @@ div.qanda > ol > li {
         display:flex;
         background-color:#F3F6FC;
         border-bottom: 1px solid #CFDAF5;
-        /*max-width: 1575px;*/
-    }
+        }
 
     /* columns */
     .three-columns > * {
         padding:1rem;
+
     }
 
-    /* tablet breakpoint */
+    /* tablet breakpoint
     @media (min-width:768px) {
         .three-columns {
             display: grid;
@@ -509,7 +505,7 @@ div.qanda > ol > li {
             grid-template-columns: 1fr 1fr 1fr;
         }
     }
-
+*/
      @media (max-width:768px) {
             .three-columns {
                 display: grid;
