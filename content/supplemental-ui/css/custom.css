@@ -517,7 +517,7 @@ div.qanda > ol > li {
             grid-template-columns: 1fr 1fr 1fr;
         }
     }
-
+/*
      @media screen and (max-width:768px) {
             .three-columns {
                 display: grid;
@@ -526,7 +526,7 @@ div.qanda > ol > li {
 
             }
         }
-
+*/
     /* test logo change*/
     @media (min-width:769px) {
         .ls-footer-logo {
