@@ -104,7 +104,7 @@ div.qanda > ol > li {
     table-layout: fixed;
 }
 
-/* EU fonts updated Feb 2024 */
+/* EU fonts updated Feb 2024 - can go into Vae.css in antora.eui*/
 :root {
 
     /*** BASE FONTS ****/
