@@ -497,7 +497,7 @@ div.qanda > ol > li {
 
     }
 
-    /* tablet breakpoint
+    /* tablet breakpoint*/
     @media (min-width:768px) {
         .three-columns {
             display: grid;
@@ -505,7 +505,7 @@ div.qanda > ol > li {
             grid-template-columns: 1fr 1fr 1fr;
         }
     }
-*/
+
      @media (max-width:768px) {
             .three-columns {
                 display: grid;
