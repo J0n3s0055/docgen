@@ -1004,7 +1004,7 @@ div.qanda > ol > li {
 
  @media (max-width:1079px) {
             .navbar-item-search {
-            position:sticky;
+            position:relative;
             right: 25px;
             }
         }
