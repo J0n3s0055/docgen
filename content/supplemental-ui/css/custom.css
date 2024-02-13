@@ -1020,15 +1020,16 @@ div.qanda > ol > li {
             }
 
         }
-  /*@media (min-width:769px) {
+  @media only screen and (min-width:679px) and (max-width:1479px){
              .navbar-item-search {
              position:fixed;
              display: inline-block;
              right: 25px;
              }
          }
-*/
-@media (min-width:1480px) {
+
+
+  @media (min-width:1480px) {
              .navbar-item-search {
              position:absolute;
              margin-top: 40px;
