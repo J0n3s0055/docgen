@@ -982,7 +982,13 @@ div.qanda > ol > li {
     top: 0px;
     }
 
-.toc.sidebar {
+/*.toc.sidebar {
+    position: sticky;
+    top: 0px;
+    }
+*/
+
+.toc-menu {
     position: sticky;
     top: 0px;
     }
@@ -1006,16 +1012,23 @@ div.qanda > ol > li {
     right 25px;
     } */
 
- @media (max-width:1079px) {
+ @media (max-width:698px) {
             .navbar-item-search {
             position:relative;
-            right: 25px;
+            left: 25px;
             }
         }
- @media (min-width:1080px) {
+ @media (max-width:1479px) {
+             .navbar-item-search {
+             position:sticky;
+             right: 25px;
+             }
+         }
+
+@media (min-width:1480px) {
              .navbar-item-search {
              position:absolute;
-             left: 1430px;
+             right: 25px;
              }
          }
 
