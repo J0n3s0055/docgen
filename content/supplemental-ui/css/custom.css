@@ -1024,7 +1024,7 @@ div.qanda > ol > li {
              .navbar-item-search {
              position: sticky;
              display: inline-block;
-             right: 25px;
+             right: 125px;
              margin-top: 25px;
              }
          }
