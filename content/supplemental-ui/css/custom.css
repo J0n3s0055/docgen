@@ -1015,13 +1015,15 @@ div.qanda > ol > li {
  @media (max-width:768px) {
             .navbar-item-search {
             position:relative;
+            margin-top: 15px;
             left: 25px;
             }
+
         }
   @media (min-width:769px) {
              .navbar-item-search {
-             position:sticky;
-             justify-self: end;
+             position:fixed;
+             display: inline-block;
              right: 25px;
              }
          }
