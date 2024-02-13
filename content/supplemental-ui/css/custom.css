@@ -1012,7 +1012,7 @@ div.qanda > ol > li {
     right 25px;
     } */
 
- @media (max-width:768px) {
+ @media (max-width:678px) {
             .navbar-item-search {
             position:relative;
             margin-top: 15px;
