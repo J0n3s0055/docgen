@@ -1029,7 +1029,7 @@ div.qanda > ol > li {
 @media (min-width:1480px) {
              .navbar-item-search {
              position:absolute;
-             left: 1350px;
+             left: 1000px;
              }
          }
 
