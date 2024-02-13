@@ -1020,14 +1020,14 @@ div.qanda > ol > li {
             }
 
         }
-  @media (min-width:769px) {
+  /*@media (min-width:769px) {
              .navbar-item-search {
              position:fixed;
              display: inline-block;
              right: 25px;
              }
          }
-
+*/
 @media (min-width:1480px) {
              .navbar-item-search {
              position:absolute;
