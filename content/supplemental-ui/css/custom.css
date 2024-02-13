@@ -1022,10 +1022,9 @@ div.qanda > ol > li {
         }
   @media only screen and (min-width:679px) and (max-width:1479px) {
              .navbar-item-search {
-             position: sticky;
+             position: fixed;
              display: inline-block;
-             right: 125px;
-             margin-top: 25px;
+             top: 25px;
              }
          }
 
