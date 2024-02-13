@@ -982,7 +982,7 @@ div.qanda > ol > li {
     top: 0px;
     }
 
-.toc-menu {
+.aside.toc.sidebar {
     position: sticky;
     top: 0px;
     }
