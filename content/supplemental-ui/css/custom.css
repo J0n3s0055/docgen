@@ -1024,7 +1024,8 @@ div.qanda > ol > li {
              .navbar-item-search {
              position: fixed;
              display: inline-block;
-             top: 25px;
+             right: 125px;
+             margin-top: 25px;
              }
          }
 
