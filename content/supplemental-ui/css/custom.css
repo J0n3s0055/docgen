@@ -1012,24 +1012,23 @@ div.qanda > ol > li {
     right 25px;
     } */
 
- @media (max-width:698px) {
+ @media (max-width:768px) {
             .navbar-item-search {
             position:relative;
             left: 25px;
             }
         }
- /* @media (max-width:1479px) {
+  @media (min-width:769px) {
              .navbar-item-search {
              position:sticky;
              display: inline-block;
              right: 25px;
              }
          }
- */
 
 @media (min-width:1480px) {
              .navbar-item-search {
-             position:sticky;
+             position:absolute;
              left: 1400px;
              }
          }
