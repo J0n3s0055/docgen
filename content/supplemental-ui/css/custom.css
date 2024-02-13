@@ -977,7 +977,7 @@ div.qanda > ol > li {
 
     }
 
-.nav {
+.nav .toc-menu{
     position: sticky;
     top: 0px;
     }
@@ -1002,13 +1002,13 @@ div.qanda > ol > li {
     right 25px;
     } */
 
- @media (max-width:1479px) {
+ @media (max-width:1480px) {
             .navbar-item-search {
             position:sticky;
             right: 25px;
             }
         }
- @media (max-width:1480px) {
+ @media (max-width:1479px) {
              .navbar-item-search {
              position:absolute;
              left: 1430px;
