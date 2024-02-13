@@ -1015,7 +1015,7 @@ div.qanda > ol > li {
  @media (max-width:678px) {
             .navbar-item-search {
             position:relative;
-            margin-top: 15px;
+            margin-top: 25px;
             left: 25px;
             }
 
@@ -1023,7 +1023,7 @@ div.qanda > ol > li {
   @media only screen and (min-width:679px) and (max-width:1479px) {
              .navbar-item-search {
              position:fixed;
-             margin-top: 40px;
+             margin-top: 25px;
              display: inline-block;
              right: 25px;
              }
@@ -1033,7 +1033,7 @@ div.qanda > ol > li {
   @media (min-width:1480px) {
              .navbar-item-search {
              position:absolute;
-             margin-top: 40px;
+             margin-top: 25px;
              left: 1300px;
              }
          }
