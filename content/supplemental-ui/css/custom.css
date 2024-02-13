@@ -1018,17 +1018,18 @@ div.qanda > ol > li {
             left: 25px;
             }
         }
- @media (max-width:1479px) {
+ /* @media (max-width:1479px) {
              .navbar-item-search {
              position:sticky;
              display: inline-block;
              right: 25px;
              }
          }
+ */
 
 @media (min-width:1480px) {
              .navbar-item-search {
-             position:absolute;
+             position:sticky;
              left: 1400px;
              }
          }
