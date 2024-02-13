@@ -1021,7 +1021,7 @@ div.qanda > ol > li {
   @media (min-width:769px) {
              .navbar-item-search {
              position:sticky;
-             display: inline-block;
+             justify-self: end;
              right: 25px;
              }
          }
