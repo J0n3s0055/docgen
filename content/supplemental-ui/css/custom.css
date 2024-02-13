@@ -982,16 +982,16 @@ div.qanda > ol > li {
     top: 0px;
     }
 
-/*.toc.sidebar {
+.aside.toc.sidebar {
+    position: sticky;
+    top: 0px;
+    }
+
+/*.toc-menu {
     position: sticky;
     top: 0px;
     }
 */
-
-.toc-menu {
-    position: sticky;
-    top: 0px;
-    }
 /*
 .nav-menu {
     position: sticky;
@@ -1021,6 +1021,7 @@ div.qanda > ol > li {
  @media (max-width:1479px) {
              .navbar-item-search {
              position:sticky;
+             display: inline-block;
              right: 25px;
              }
          }
@@ -1028,7 +1029,7 @@ div.qanda > ol > li {
 @media (min-width:1480px) {
              .navbar-item-search {
              position:absolute;
-             right: 25px;
+             left: 1400px;
              }
          }
 
