@@ -977,11 +977,15 @@ div.qanda > ol > li {
 
     }
 
-.nav .toc-menu {
+.nav {
     position: sticky;
     top: 0px;
     }
 
+.toc-menu {
+    position: sticky;
+    top: 0px;
+    }
 /*
 .nav-menu {
     position: sticky;
