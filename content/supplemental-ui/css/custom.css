@@ -1014,7 +1014,7 @@ div.qanda > ol > li {
 
  @media (max-width:768px) {
             .navbar-item-search {
-            position:relative;
+            position: relative;
             margin-top: 25px;
             left: 25px;
             }
@@ -1024,7 +1024,8 @@ div.qanda > ol > li {
              .navbar-item-search {
              position: fixed;
              display: inline-block;
-             right: 125px;
+             justify-items: centre;
+             left: 25px;
              margin-top: 25px;
              }
              .eu-part {
