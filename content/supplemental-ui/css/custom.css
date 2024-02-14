@@ -1013,7 +1013,7 @@ div.qanda > ol > li {
     } */
 
  @media screen and (max-width:682px) {
-            .navbar-item search {
+            .docs-search {
             position: relative;
             margin-top: 25px;
             right: 25px;
@@ -1021,7 +1021,7 @@ div.qanda > ol > li {
 
         }
   /*@media only screen and (min-width:683px) and (max-width:1479px) {
-             .navbar-item-search {
+             .docs-search {
              /*position: relative;*/
              /*display: inline-block;*/
 
@@ -1030,8 +1030,10 @@ div.qanda > ol > li {
 
 
   @media screen and (min-width:683px) {
-             .navbar-item search {
+             .docs-search {
              position: relative;
+             display: inline-block;
+             right: 25px
              /*left: 715px;*/
              }
          }
