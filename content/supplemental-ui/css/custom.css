@@ -1012,7 +1012,7 @@ div.qanda > ol > li {
     right 25px;
     } */
 
- @media (max-width:768px) {
+ @media (max-width:682px) {
             .navbar-item-search {
             position: relative;
             margin-top: 25px;
@@ -1020,9 +1020,9 @@ div.qanda > ol > li {
             }
 
         }
-  @media only screen and (min-width:769px) and (max-width:1479px) {
+  @media only screen and (min-width:683px) and (max-width:1479px) {
              .navbar-item-search {
-             position: relative;
+             /*position: relative;*/
              /*display: inline-block;*/
              justify-items: centre;
              /*left: 500px;*/
