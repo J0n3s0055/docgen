@@ -1016,7 +1016,7 @@ div.qanda > ol > li {
             .navbar-item-search {
             position: relative;
             margin-top: 25px;
-            left: 25px;
+            right: 25px;
             }
 
         }
