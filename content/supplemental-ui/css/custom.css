@@ -1031,8 +1031,8 @@ div.qanda > ol > li {
 
   @media screen and (min-width:683px) {
              .navbar-item search {
-             position: absolute;
-             left: 715px;
+             position: relative;
+             /*left: 715px;*/
              }
          }
 
