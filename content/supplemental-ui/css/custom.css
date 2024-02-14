@@ -1012,12 +1012,17 @@ div.qanda > ol > li {
     right 25px;
     } */
 
+
+ .search {
+     border-left: none;
+   }
+
  @media screen and (max-width:682px) {
             .docs-search {
+
             position: relative;
             margin-top: 25px;
-           left: 25px;
-            }
+           }
 
         }
   /*@media only screen and (min-width:683px) and (max-width:1479px) {
@@ -1032,7 +1037,7 @@ div.qanda > ol > li {
   @media screen and (min-width:683px) {
              .docs-search {
              position: relative;
-             display: inline-block;
+             display: flex;
              right: 25px
              /*left: 715px;*/
              }
