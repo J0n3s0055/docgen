@@ -1033,10 +1033,10 @@ div.qanda > ol > li {
   @media screen and (min-width:683px) {
              .navbar-item-search {
 
-             position:absolute;
+             position: absolute;
              left: 715px;
              }
-         }*/
+         }
 
 .eu-emblem  {
     display: inline-block;
