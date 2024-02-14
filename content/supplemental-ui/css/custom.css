@@ -1032,10 +1032,9 @@ div.qanda > ol > li {
 */
   @media screen and (min-width:683px) {
              .navbar-item-search {
-              justify-items: centre;
-             /*position:absolute;
-             right: 25px;
-             left: 1250px;
+
+             position:absolute;
+             left: 715px;
              }
          }*/
 
