@@ -1023,10 +1023,10 @@ div.qanda > ol > li {
   @media only screen and (min-width:769px) and (max-width:1479px) {
              .navbar-item-search {
              position: relative;
-             display: inline-block;
+             /*display: inline-block;*/
              justify-items: centre;
-             left: 500px;
-             margin-top: 25px;
+             /*left: 500px;*/
+             /*margin-top: 45px;*/
              }
              .eu-part {
 
@@ -1038,7 +1038,7 @@ div.qanda > ol > li {
              .navbar-item-search {
              position:absolute;
              right: 25px;
-             left: 1300px;
+             left: 1250px;
              }
          }
 
