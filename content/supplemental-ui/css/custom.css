@@ -1012,7 +1012,7 @@ div.qanda > ol > li {
     right 25px;
     } */
 
- @media (max-width:678px) {
+ @media (max-width:768px) {
             .navbar-item-search {
             position:relative;
             margin-top: 25px;
@@ -1020,12 +1020,15 @@ div.qanda > ol > li {
             }
 
         }
-  @media only screen and (min-width:679px) and (max-width:1479px) {
+  @media only screen and (min-width:769px) and (max-width:1479px) {
              .navbar-item-search {
              position: fixed;
              display: inline-block;
              right: 125px;
              margin-top: 25px;
+             }
+             .eu-part {
+             height: 60px;
              }
          }
 
