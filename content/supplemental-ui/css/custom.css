@@ -1,4 +1,4 @@
-
+/*Global Settings*/
 .body, .globan, .dd-header-container, .footer, .toolbar {
     max-width: 1480px;
     /*position: sticky;
@@ -6,17 +6,62 @@
     float: none !important;
     }
 
-/*.globan {
-    margin-left:0px !important;
-    }*/
+/*display EU flag at top inline-block so the search box can also be*/
+.eu-emblem  {
+    display: inline-block;
+    }
 
+/*Algolia Search*/
+
+/*Results dropdown: white background and in-front*/
 .algolia-autocomplete .ds-dropdown-menu {
     background: #ffffff;
     z-index: -1;
     position:sticky;
-    /*left: 900px;*/
     }
 
+/*removes the left-hand border for the search docs*/
+.search {
+     border-left: none;
+   }
+
+/*sets size of search box (not working!)*/
+ .docs-search {
+        height: 30px;
+        width: 200px;
+        margin: 1px;
+
+        }
+
+/*attempt to make search box responsive to screen width*/
+ @media screen and (max-width:682px) {
+        .docs-search {
+        position: relative;
+        /*margin-top: 25px;*/
+            }
+        }
+
+  /*@media only screen and (min-width:683px) and (max-width:1479px) {
+             .docs-search {
+             /*position: relative;*/
+             /*display: inline-block;*/
+
+             /*left: 500px;*/
+             /*margin-top: 45px;*/
+
+
+  @media screen and (min-width:683px) {
+             .docs-search {
+             position: inline-block;
+             display: flex;
+             left: 600px;
+             vertical-align: center;
+             /*left: 715px;*/
+             }
+         }
+
+
+/* old navbar, not sure it is needed*/
 .navbar .logo {
     height: 3.5rem !important;
 }
@@ -105,7 +150,7 @@ div.qanda > ol > li {
     table-layout: fixed;
 }
 
-/* EU fonts updated Feb 2024 - can go into Vae.css in antora.eui*/
+/* EU fonts updated Feb 2024 - can go into Var.css in antora.eui*/
 :root {
 
     /*** BASE FONTS ****/
@@ -316,9 +361,8 @@ div.qanda > ol > li {
         padding-left: unset;
     }
 
-    /**** Variables ****/
 
-
+    /*footer*/
     .footer {
         background-color: var(--gs-base-color-eu-blue-5)!important;
         }
@@ -487,6 +531,7 @@ div.qanda > ol > li {
         }
 
     }
+
 /* New Dev Docs footer css Feb 2024 */
 
 /* footer */
@@ -517,17 +562,8 @@ div.qanda > ol > li {
             grid-template-columns: 1fr 1fr 1fr;
         }
     }
-/*
-     @media screen and (max-width:768px) {
-            .three-columns {
-                display: grid;
-                grid-template-rows: 1fr 1fr 1fr;
-                grid-auto-columns: 1fr;
 
-            }
-        }
-*/
-    /* test logo change*/
+    /* responsive EU logo change*/
     @media (min-width:769px) {
         .ls-footer-logo {
         content: url("https://ted.europa.eu/o/ted2-theme/images/eu/standard/logo-eu--en.svg")
@@ -1013,37 +1049,4 @@ div.qanda > ol > li {
     } */
 
 
- .search {
-     border-left: none;
-   }
 
- @media screen and (max-width:682px) {
-            .docs-search {
-
-            position: relative;
-            margin-top: 25px;
-           }
-
-        }
-  /*@media only screen and (min-width:683px) and (max-width:1479px) {
-             .docs-search {
-             /*position: relative;*/
-             /*display: inline-block;*/
-
-             /*left: 500px;*/
-             /*margin-top: 45px;*/
-
-
-  @media screen and (min-width:683px) {
-             .docs-search {
-             position: relative;
-             display: flex;
-            left: 600px;
-            vertical-align: center;
-             /*left: 715px;*/
-             }
-         }
-
-.eu-emblem  {
-    display: inline-block;
-    }
