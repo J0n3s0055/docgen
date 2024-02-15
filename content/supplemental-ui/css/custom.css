@@ -232,7 +232,7 @@
     top: 0px;
 }
 
-/* old navbar, not sure it is needed*/
+/* old navbar, not sure it is needed
 .navbar .logo {
     height: 3.5rem !important;
 }
@@ -320,12 +320,12 @@ div.qanda > ol > li {
 .doc table.fixed-layout {
     table-layout: fixed;
 }
-/* end of old navbar*/
+end of old navbar*/
 
 
 /* New Dev Docs footer css Feb 2024 */
-/*New header css Feb 2024 */
-/* footer */
+
+/* footer links EU blue*/
 /* container */
     .footer a {
         color: #0E47CB;
@@ -367,7 +367,6 @@ div.qanda > ol > li {
             }
         }
 
-
     .h3-footer {
         font-family:Arial, sans-serif !important;
         color: #171A22 !important;
@@ -381,6 +380,7 @@ div.qanda > ol > li {
         margin-top: 1.5rem !important;
         font-size: 1.75rem;
     }
+
     .ul-footer {
         list-style-type: none;
         margin: 0;
