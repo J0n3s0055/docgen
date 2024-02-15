@@ -232,7 +232,7 @@
     top: 0px;
 }
 
-/* old navbar, not sure it is needed
+/* old navbar, some is needed*/
 .navbar .logo {
     height: 3.5rem !important;
 }
@@ -320,7 +320,7 @@ div.qanda > ol > li {
 .doc table.fixed-layout {
     table-layout: fixed;
 }
-end of old navbar*/
+end of old navbar
 
 
 /* New Dev Docs footer css Feb 2024 */
