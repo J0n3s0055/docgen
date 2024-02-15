@@ -1,4 +1,4 @@
-/*Global Settings*/
+/*Global screen max-width*/
 .body, .globan, .dd-header-container, .footer, .toolbar {
     max-width: 1480px;
     /*position: sticky;
@@ -71,12 +71,12 @@
 
 /*sets size of search box (not working!)*/
  .docs-search {
-        height: 30px;
-        width: 200px;
+        height: 50px;
+        width: 300px;
         margin: 1px;
  }
 
-/*attempt to make search box responsive to screen width*/
+/*Search box responsive to screen width*/
  @media screen and (max-width:682px) {
         .docs-search {
         position: relative;
@@ -84,12 +84,7 @@
         }
  }
 
-  /*@media only screen and (min-width:683px) and (max-width:1479px) {
-        .docs-search {
-        }
-}
-*/
-  @media screen and (min-width:683px) {
+ @media screen and (min-width:683px) {
              .docs-search {
              display: flex;
              position: relative;
@@ -101,9 +96,7 @@
              margin-top: 20px;
              margin-right:15px;
              }
-  }
-
-
+ }
 
 /*Horizontal bar container, grey and green header section separator rectangles*/
 .sep-frame {
