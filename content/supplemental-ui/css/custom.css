@@ -327,10 +327,6 @@ end of old navbar
 
 /* footer links EU blue*/
 /* container */
-    .footer a {
-        color: #0E47CB;
-    }
-
 
     .three-columns {
         display:flex;
@@ -584,6 +580,7 @@ end of old navbar
 	}
 }
 
+/*footer link colour=blue, leave this at the bottom*/
  .footer a {
         color: #0E47CB;
     }
