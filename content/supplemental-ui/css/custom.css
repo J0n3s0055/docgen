@@ -584,6 +584,11 @@ end of old navbar
 	}
 }
 
+ /*.footer a {
+        color: #0E47CB;
+    }
+    */
+
 /* EU fonts updated Feb 2024 - can go into Var.css in antora.eui*/
 :root {
 
