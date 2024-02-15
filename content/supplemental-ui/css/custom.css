@@ -77,7 +77,7 @@
  }
 
 /*Search box responsive to screen width*/
- @media screen and (max-width:682px) {
+ @media screen and (max-width:768px) {
         .docs-search {
         position: relative;
         margin-bottom: 12px;
@@ -85,7 +85,7 @@
         }
  }
 
- @media screen and (min-width:683px) {
+ @media screen and (min-width:769px) {
              .docs-search {
              display: flex;
              position: relative;
