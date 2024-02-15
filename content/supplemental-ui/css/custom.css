@@ -80,6 +80,7 @@
  @media screen and (max-width:682px) {
         .docs-search {
         position: relative;
+        margin-bottom: 12px;
         }
  }
 
@@ -97,6 +98,8 @@
              -webkit-box-align: center;
              flex: none;
              align-items: center;
+             margin-top: 20px;
+             margin-right:15px;
              }
   }
 
