@@ -6,10 +6,52 @@
     float: none !important;
     }
 
+
+/*New TED dev docs header css Feb 2024 */
+.dd-header-container {
+    height: Hug 213px);
+    gap: 16px;
+    background: #FFFFFF;
+    }
+
+/* Top line of header: EU logo and search*/
+.eu-part {
+    Property 1="xl";
+    width: Fill 1575px;
+    height: Hug 45px;
+    padding: 0px, 24px, 0px, 24px;
+    justify: space-between;
+    }
+
 /*display EU flag at top inline-block so the search box can also be*/
-.eu-emblem  {
+.eu-emblem {
+    Property 1="desktop";
+    width: 161px;
+    height: 45px;
+    padding: 16px, 0px, 16px, 0px;
+    margin-left: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     display: inline-block;
     }
+
+/*Flag image*/
+.eu-emblem-std-en   {
+    width: 161px;
+ }
+
+/*flag image swap on screen width*/
+ @media (min-width:769px) {
+        .eu-emblem-std-en {
+        content: url("https://ted.europa.eu/o/ted2-theme/images/eu/standard/logo-eu--en.svg")
+        }
+ }
+
+ @media (max-width:768px) {
+        .eu-emblem-std-en {
+        content: url("https://ted.europa.eu/o/ted2-theme/images/eu/condensed/logo-eu--en.svg")
+        }
+ }
 
 /*Algolia Search*/
 
@@ -23,32 +65,26 @@
 /*removes the left-hand border for the search docs*/
 .search {
      border-left: none;
-   }
+}
 
 /*sets size of search box (not working!)*/
  .docs-search {
         height: 30px;
         width: 200px;
         margin: 1px;
-
-        }
+ }
 
 /*attempt to make search box responsive to screen width*/
  @media screen and (max-width:682px) {
         .docs-search {
         position: relative;
-        /*margin-top: 25px;*/
-            }
         }
+ }
 
   /*@media only screen and (min-width:683px) and (max-width:1479px) {
-             .docs-search {
-             /*position: relative;*/
-             /*display: inline-block;*/
-
-             /*left: 500px;*/
-             /*margin-top: 45px;*/
-
+        .docs-search {
+        }
+}
 
   @media screen and (min-width:683px) {
              .docs-search {
@@ -56,10 +92,143 @@
              display: flex;
              left: 600px;
              vertical-align: center;
-             /*left: 715px;*/
              }
-         }
+  }
 
+*/
+
+/*Horizontal bar container, grey and green*/
+.sep-frame {
+    width: Fill 1480px;
+    height: Hug 2px;
+    padding: 0px, 24px, 0px, 24px;
+}
+
+/*Horizontal grey bar*/
+.rect-grey {
+    width: 1455px;
+    height: 2px;
+    margin-left:25px;
+    background: #CFDAF5;
+}
+
+/*Second line of header containing "EU Tenders text*/
+.ted-dd-bar {
+    width: Fill 1575px;
+    height: Hug 68px;
+    padding: 0px, 24px, 0px, 24px;
+    gap: 16px;
+}
+
+.ted-dd-text-bar {
+    width: Fill 750px;
+    height: Hug 68px;
+    gap: 6px;
+}
+
+.ted-dd-text-field {
+   width: Fill 750px;
+   height: Hug 33px;
+   gap: 4px;
+}
+
+.text-eu-tenders {
+    font-family: Arial;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #515560;
+    margin-left:25px;
+    margin-bottom: 6px;
+    margin-top: 15px;
+    display: block;
+}
+
+
+/* formatting of "TED developer Docs" container*/
+.text-eu-subtext-box    {
+    Property 1="Default";
+    width: Fill 750px;
+    height: Hug 29px;
+    gap: 12px;
+}
+
+/* formatting of "TED developer Docs" text*/
+.text-eu-subtext-text   {
+    Property 1="default";
+    width: Hug 163px;
+    height: Hug 29px;
+    gap: 10px;
+    linear-gradient(0deg, #F5F5F5, #F5F5F5);
+    border-left: 4px solid #339900;
+    display:inline-block;
+    margin-right:10px;
+    margin-bottom:10px;
+    font-family: Arial;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left:25px;
+    background: #F5F5F5;
+    /*border-left: 6px solid #390;*/
+    padding: 4px 12px;
+    color: #515560;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    display: inline-block;
+}
+
+/* formatting of "Documentation for TED developers and eSenders" text*/
+.text-eu-subtext-label {
+    width: 500px;
+    height: 14px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #515560;
+    margin-bottom:10px;
+    display:inline-block;
+}
+
+/* "Documentation for TED developers and eSenders" hidden on small width screens*/
+  @media (max-width:768px) {
+            .text-eu-subtext-label {
+            display: none;
+            }
+        }
+
+/*green line below header*/
+.rect-green {
+    width: 1480px;
+    height: 6px;
+    background: #339900;
+    }
+/*End of Header*/
+
+/*Body*/
+
+/* makes toolbar not move down with scroll*/
+.toolbar {
+    position: sticky;
+    top: 0px;
+}
+
+/* makes left-hand nav container (menu) not move down with scroll*/
+.nav {
+    position: sticky;
+    top: 0px;
+}
+
+/* makes right-hand page contents container not move down with scroll*/
+.aside.toc.sidebar {
+    position: sticky;
+    top: 0px;
+}
 
 /* old navbar, not sure it is needed*/
 .navbar .logo {
@@ -148,6 +317,269 @@ div.qanda > ol > li {
 
 .doc table.fixed-layout {
     table-layout: fixed;
+}
+/* end of old navbar*/
+
+
+/* New Dev Docs footer css Feb 2024 */
+/*New header css Feb 2024 */
+/* footer */
+/* container */
+    .footer a {
+        color: #0E47CB;
+    }
+
+
+    .three-columns {
+        display:flex;
+        flex-wrap: wrap;
+        background-color:#F3F6FC;
+        border-bottom: 1px solid #CFDAF5;
+        }
+
+    /* columns */
+    .three-columns > * {
+        padding:1rem;
+
+    }
+
+     /*tablet breakpoint*/
+    @media screen and (min-width:769px) {
+        .three-columns {
+            display: grid;
+            grid-auto-rows: 1fr;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+    }
+
+    /* responsive EU logo change*/
+    @media (min-width:769px) {
+        .ls-footer-logo {
+        content: url("https://ted.europa.eu/o/ted2-theme/images/eu/standard/logo-eu--en.svg")
+        }
+    }
+
+    @media (max-width:768px) {
+            .ls-footer-logo {
+            content: url("https://ted.europa.eu/o/ted2-theme/images/eu/condensed/logo-eu--en.svg")
+            }
+        }
+
+
+    .h3-footer {
+        font-family:Arial, sans-serif !important;
+        color: #171A22 !important;
+        padding-bottom: 0.75rem;
+        /*margin-top: 1.5 rem;*/
+        font-size: 1.5rem !important;
+        font-weight: 200 !important;
+        max-width:unset;
+        border-bottom: 1px solid #CFDAF5;
+        margin-bottom: 1rem !important;
+        margin-top: 1.5rem !important;
+        font-size: 1.75rem;
+    }
+    .ul-footer {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        line-height: 2rem !important;
+        text-decoration: none !important;
+        text-underline-offset: 0.15em !important;
+        font-size: 0.917rem;
+        font-family:Arial, sans-serif !important
+    }
+
+    .li-footer {
+        color: #0E47CB;
+        margin-bottom: 3rem 0;
+        line-height: 2rem !important;
+        text-decoration: none !important;
+        text-underline-offset: 0.15rem !important;
+        font-size: 0.917rem;
+        font-weight: 300;
+        font-family:Arial, sans-serif !important;
+        text
+
+    }
+
+    .ul-footer li-footer {
+    margin: 30px;
+    }
+
+    .byline-footer {
+    line-height: 1.35 !important;
+    margin-bottom: 0;
+    font-size: 0.917rem !important;
+    font-weight: 300;
+    color: #171A22 !important;
+    font-family:Arial, sans-serif !important;
+    }
+
+    .icon-footer {
+    height: 18px;
+    width: 18px;
+    color: #0E47CB;
+    vertical-align: middle;
+    display: inline;
+    margin-right: 0.35rem;
+    }
+
+    .icon-footer-2nd {
+        height: 18px;
+        width: 18px;
+        color: #0E47CB;
+        vertical-align: middle;
+        display: inline;
+        margin-right: 0.35rem;
+        margin-left: 2rem;
+        }
+
+
+
+
+/* options mobile */
+.ted-search__options-mobile {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.ted-search__options-mobile-dropdown {
+	position: relative;
+}
+
+.ted-search__options-mobile-dropdown-toggle {
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: bold;
+	text-decoration-line: underline;
+	color: #3366CC;
+}
+
+.ted-search__options-mobile-dropdown-menu {
+	background: #FFFFFF;
+	box-shadow: 1px 3px 12px rgb(0 0 0 / 40%);
+	border-radius: 3px;
+	max-width: unset;
+	padding: 24px 20px;
+	overflow: unset;
+}
+
+.ted-search__options-mobile-dropdown-menu::after {
+	content: unset;
+}
+
+.ted-search__options-mobile-button {
+	font-size: 14px;
+	line-height: 20px;
+	border-radius: 3px;
+	display: block;
+	padding: 10px 20px;
+	border: none;
+	margin-bottom: 16px;
+	white-space: nowrap;
+}
+
+.ted-search__options-mobile-button--color {
+	font-weight: bold;
+	background: #3D6ECF;
+	color: #FFFFFF;
+}
+
+.ted-search__options-mobile-button--naked {
+	background: #FFFFFF;
+	color: #444444;
+	border: 1px solid #949494;
+	margin: 0;
+}
+
+.ted-search__options-mobile-button--naked::after {
+    display: inline-block;
+    margin-left: 9px;
+    vertical-align: middle;
+    content: "";
+    border-top: 6px solid;
+    border-right: 5px solid transparent;
+    border-bottom: 0;
+    border-left: 5px solid transparent;
+}
+
+.dropdown-test {
+	position: relative;
+}
+
+.dropdown-menu-test {
+	padding: 15px 0;
+	margin-top: 1px;
+	background: #FFFFFF;
+	box-shadow: 1px 3px 12px rgb(0 0 0 / 40%);
+	border: none;
+	border-radius: 3px;
+	max-width: unset;
+}
+.ted-search__dropdown-menu-mobile {
+	display: none;
+	position: absolute;
+	top: 41px;
+	right: 0;
+}
+
+.ted-search__dropdown-menu-mobile.show {
+	display: block;
+}
+
+@media (max-width: 968px) {
+	.ted-search__text {
+		flex: 1 0 100%;
+	}
+
+	.ted-search__options-desktop > .ted-search__button-options:nth-child(2) {
+    margin-left: 0;
+	}
+}
+
+
+@media (max-width: 768px) {
+	.ted-search__form-control {
+		border-left: 1px solid #949494;
+		border-top-left-radius: 3px;
+		border-bottom-left-radius: 3px;
+		padding-left: 15px;
+	}
+
+	.ted-search__button-search {
+		padding: 8px 11px;
+	}
+}
+</style>
+
+ <style>.has-edit-mode-menu .ted-search__wrapper .d-lg-none {
+    display: block!important;
+}
+
+.lfr-has-simulation-panel .ted-search__wrapper .d-lg-none {
+    display: none!important;
+}
+
+.ted-search .container {
+	background: #FFF;
+	padding: 16px 24px;
+}
+
+.ted-search__wrapper {
+	background: #F5F5F5;
+	padding: 20px;
+}
+
+@media (max-width: 575px) {
+	.ted-search .container {
+		background: #F5F5F5;
+		padding: 0;
+	}
+
+	.ted-search__wrapper {
+		padding: 8px 16px 10px;
+	}
 }
 
 /* EU fonts updated Feb 2024 - can go into Var.css in antora.eui*/
@@ -531,522 +963,5 @@ div.qanda > ol > li {
         }
 
     }
-
-/* New Dev Docs footer css Feb 2024 */
-
-/* footer */
-/* container */
-    .footer a {
-        color: #0E47CB;
-    }
-
-
-    .three-columns {
-        display:flex;
-        flex-wrap: wrap;
-        background-color:#F3F6FC;
-        border-bottom: 1px solid #CFDAF5;
-        }
-
-    /* columns */
-    .three-columns > * {
-        padding:1rem;
-
-    }
-
-     /*tablet breakpoint*/
-    @media screen and (min-width:769px) {
-        .three-columns {
-            display: grid;
-            grid-auto-rows: 1fr;
-            grid-template-columns: 1fr 1fr 1fr;
-        }
-    }
-
-    /* responsive EU logo change*/
-    @media (min-width:769px) {
-        .ls-footer-logo {
-        content: url("https://ted.europa.eu/o/ted2-theme/images/eu/standard/logo-eu--en.svg")
-        }
-    }
-
-    @media (max-width:768px) {
-            .ls-footer-logo {
-            content: url("https://ted.europa.eu/o/ted2-theme/images/eu/condensed/logo-eu--en.svg")
-            }
-        }
-
-
-    .h3-footer {
-        font-family:Arial, sans-serif !important;
-        color: #171A22 !important;
-        padding-bottom: 0.75rem;
-        /*margin-top: 1.5 rem;*/
-        font-size: 1.5rem !important;
-        font-weight: 200 !important;
-        max-width:unset;
-        border-bottom: 1px solid #CFDAF5;
-        margin-bottom: 1rem !important;
-        margin-top: 1.5rem !important;
-        font-size: 1.75rem;
-    }
-    .ul-footer {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        line-height: 2rem !important;
-        text-decoration: none !important;
-        text-underline-offset: 0.15em !important;
-        font-size: 0.917rem;
-        font-family:Arial, sans-serif !important
-    }
-
-    .li-footer {
-        color: #0E47CB;
-        margin-bottom: 3rem 0;
-        line-height: 2rem !important;
-        text-decoration: none !important;
-        text-underline-offset: 0.15rem !important;
-        font-size: 0.917rem;
-        font-weight: 300;
-        font-family:Arial, sans-serif !important;
-        text
-
-    }
-
-
-    .ul-footer li-footer {
-    margin: 30px;
-    }
-
-    .byline-footer {
-    line-height: 1.35 !important;
-    margin-bottom: 0;
-    font-size: 0.917rem !important;
-    font-weight: 300;
-    color: #171A22 !important;
-    font-family:Arial, sans-serif !important;
-    }
-
-    .icon-footer {
-    height: 18px;
-    width: 18px;
-    color: #0E47CB;
-    vertical-align: middle;
-    display: inline;
-    margin-right: 0.35rem;
-    }
-
-    .icon-footer-2nd {
-        height: 18px;
-        width: 18px;
-        color: #0E47CB;
-        vertical-align: middle;
-        display: inline;
-        margin-right: 0.35rem;
-        margin-left: 2rem;
-        }
-
-
-/*New header css Feb 2024 */
-
-/* options mobile */
-.ted-search__options-mobile {
-	display: flex;
-	justify-content: flex-end;
-}
-
-.ted-search__options-mobile-dropdown {
-	position: relative;
-}
-
-.ted-search__options-mobile-dropdown-toggle {
-	font-size: 14px;
-	line-height: 20px;
-	font-weight: bold;
-	text-decoration-line: underline;
-	color: #3366CC;
-}
-
-.ted-search__options-mobile-dropdown-menu {
-	background: #FFFFFF;
-	box-shadow: 1px 3px 12px rgb(0 0 0 / 40%);
-	border-radius: 3px;
-	max-width: unset;
-	padding: 24px 20px;
-	overflow: unset;
-}
-
-.ted-search__options-mobile-dropdown-menu::after {
-	content: unset;
-}
-
-.ted-search__options-mobile-button {
-	font-size: 14px;
-	line-height: 20px;
-	border-radius: 3px;
-	display: block;
-	padding: 10px 20px;
-	border: none;
-	margin-bottom: 16px;
-	white-space: nowrap;
-}
-
-.ted-search__options-mobile-button--color {
-	font-weight: bold;
-	background: #3D6ECF;
-	color: #FFFFFF;
-}
-
-.ted-search__options-mobile-button--naked {
-	background: #FFFFFF;
-	color: #444444;
-	border: 1px solid #949494;
-	margin: 0;
-}
-
-.ted-search__options-mobile-button--naked::after {
-    display: inline-block;
-    margin-left: 9px;
-    vertical-align: middle;
-    content: "";
-    border-top: 6px solid;
-    border-right: 5px solid transparent;
-    border-bottom: 0;
-    border-left: 5px solid transparent;
-}
-
-.dropdown-test {
-	position: relative;
-}
-
-.dropdown-menu-test {
-	padding: 15px 0;
-	margin-top: 1px;
-	background: #FFFFFF;
-	box-shadow: 1px 3px 12px rgb(0 0 0 / 40%);
-	border: none;
-	border-radius: 3px;
-	max-width: unset;
-}
-.ted-search__dropdown-menu-mobile {
-	display: none;
-	position: absolute;
-	top: 41px;
-	right: 0;
-}
-
-.ted-search__dropdown-menu-mobile.show {
-	display: block;
-}
-
-@media (max-width: 968px) {
-	.ted-search__text {
-		flex: 1 0 100%;
-	}
-
-	.ted-search__options-desktop > .ted-search__button-options:nth-child(2) {
-    margin-left: 0;
-	}
-}
-
-
-@media (max-width: 768px) {
-	.ted-search__form-control {
-		border-left: 1px solid #949494;
-		border-top-left-radius: 3px;
-		border-bottom-left-radius: 3px;
-		padding-left: 15px;
-	}
-
-	.ted-search__button-search {
-		padding: 8px 11px;
-	}
-}
-</style>
-
- <style>.has-edit-mode-menu .ted-search__wrapper .d-lg-none {
-    display: block!important;
-}
-
-.lfr-has-simulation-panel .ted-search__wrapper .d-lg-none {
-    display: none!important;
-}
-
-.ted-search .container {
-	background: #FFF;
-	padding: 16px 24px;
-}
-
-.ted-search__wrapper {
-	background: #F5F5F5;
-	padding: 20px;
-}
-
-@media (max-width: 575px) {
-	.ted-search .container {
-		background: #F5F5F5;
-		padding: 0;
-	}
-
-	.ted-search__wrapper {
-		padding: 8px 16px 10px;
-	}
-}
-
-/*TED dev docs header*/
-
-.dd-header-container {
-    height: Hug 213px);
-    gap: 16px;
-    background: #FFFFFF;
-    }
-
-.eu-part {
-    Property 1="xl";
-    width: Fill 1575px;
-    height: Hug 45px;
-    padding: 0px, 24px, 0px, 24px;
-    justify: space-between;
-    }
-
-.eu-emblem {
-    Property 1="desktop";
-    width: 161px;
-    height: 45px;
-    padding: 16px, 0px, 16px, 0px;
-    margin-left: 10px
-    display: inline-block;
-    }
-
-.eu-emblem-std-en {
-     display:inline-block;
-     font-family: Arial;
-     font-size: 14px;
-     font-weight: 700;
-     line-height: 18px;
-     letter-spacing: 0em;
-     text-align: left;
-      color: #515560;
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-
-    }
-
- @media (min-width:769px) {
-        .eu-emblem-std-en {
-        content: url("https://ted.europa.eu/o/ted2-theme/images/eu/standard/logo-eu--en.svg")
-        }
-    }
-
-    @media (max-width:768px) {
-            .eu-emblem-std-en {
-            content: url("https://ted.europa.eu/o/ted2-theme/images/eu/condensed/logo-eu--en.svg")
-            }
-        }
-
-.eu-emblem-std-text {
-
-    margin-left: 10px
-    font-family: Arial;
-    font-size: 14px;
-    font-weight: 700;
-    line-height: 18px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #515560;
-}
-
-.sep-frame {
-    width: Fill 1480px;
-    height: Hug 2px;
-    padding: 0px, 24px, 0px, 24px;
-
-}
-
-.rect-grey {
-    width: 1455px;
-    height: 2px;
-    margin-left:25px;
-    background: #CFDAF5;
-    }
-
-.ted-dd-bar {
-    width: Fill 1575px;
-    height: Hug 68px;
-    padding: 0px, 24px, 0px, 24px;
-    gap: 16px;
-}
-
-.ted-dd-text-bar {
-    width: Fill 750px;
-    height: Hug 68px;
-    gap: 6px;
-}
-
-.ted-dd-text-field {
-   width: Fill 750px;
-   height: Hug 33px;
-   gap: 4px;
-
-    }
-
-
-.text-eu-tenders {
-    font-family: Arial;
-    font-size: 28px;
-    font-weight: 700;
-    line-height: 32px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #515560;
-    margin-left:25px;
-    margin-bottom: 6px;
-    margin-top: 15px;
-    display: block;
-}
-
-.eu-part    {
-    width: Fill 1575px;
-    height: Hug 45px;
-    padding: 0px, 24px, 0px, 24px;
-    justify: space-between;
-    }
-
-
-.eu-emblem-std-en   {
-    width: 161px;
-    /* top: 5.63px
-    left: 77.65px
-    padding: 24px, 24px, 24px, 24px
-    display: inline-block;*/
-    margin-left: 25px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-.text-eu-subtext-box    {
-    Property 1="Default";
-    width: Fill 750px;
-    height: Hug 29px;
-    gap: 12px;
-}
-
-.text-eu-subtext-text   {
-    Property 1="default";
-    width: Hug 163px;
-    height: Hug 29px;
-    gap: 10px;
-    linear-gradient(0deg, #F5F5F5, #F5F5F5);
-    border-left: 4px solid #339900;
-    display:inline-block;
-    margin-right:10px;
-    margin-bottom:10px;
-    font-family: Arial;
-    letter-spacing: 0em;
-    text-align: left;
-    margin-left:25px;
-    background: #F5F5F5;
-    /*border-left: 6px solid #390;*/
-    padding: 4px 12px;
-    color: #515560;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 20px;
-    display: inline-block;
-
-}
-
-/*
-.text-eu-subtext-text: link {
-  color: #339900;
-  text-decoration: none;
-}
-
-.text-eu-subtext-text: :visited {
-  color: pink;
-  text-decoration: none;
-}
-
-.text-eu-subtext-text: :hover {
-  color: red;
-  text-decoration: underline;
-}
-
-.text-eu-subtext-text: :active {
-  color: yellow;
-  text-decoration: underline;
-}
-*/
-
-.text-eu-subtext-label {
-    width: 500px;
-    height: 14px;
-    font-family: Arial;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 18px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #515560;
-    margin-bottom:10px;
-    display:inline-block;
-}
-
-  @media (max-width:768px) {
-            .text-eu-subtext-label {
-            display: none;
-            }
-        }
-
-.rect-green {
-    width: 1480px;
-    height: 6px;
-    background: #339900;
-    }
-
-
-.toolbar {
-    position: sticky;
-    top: 0px;
-
-    }
-
-.nav {
-    position: sticky;
-    top: 0px;
-    }
-
-.aside.toc.sidebar {
-    position: sticky;
-    top: 0px;
-    }
-
-/*.toc-menu {
-    position: sticky;
-    top: 0px;
-    }
-*/
-/*
-.nav-menu {
-    position: sticky;
-    top: 0px;
-    margin-left: 10px;
-    }
-
-*/
-
-/*.navbar-item-search {
-    margin-right: 25px;
-    width:200px;
-    margin-bottom 15px;
-    padding 10px;
-    top: 25px;
-    display: inline-block;
-    position: absolute;
-    right 25px;
-    } */
-
 
 
