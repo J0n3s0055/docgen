@@ -1038,7 +1038,8 @@ div.qanda > ol > li {
              .docs-search {
              position: relative;
              display: flex;
-            left: 225px;
+            left: 600px;
+            vertical-align: center;
              /*left: 715px;*/
              }
          }
