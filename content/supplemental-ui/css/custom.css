@@ -20,7 +20,9 @@
     width: Fill 1575px;
     height: Hug 45px;
     padding: 0px, 24px, 0px, 24px;
-    justify: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
     }
 
 /*display EU flag at top inline-block so the search box can also be*/
@@ -37,7 +39,7 @@
 
 /*Flag image*/
 .eu-emblem-std-en   {
-    width: 161px;
+    height: 45px;
  }
 
 /*flag image swap on screen width*/
@@ -85,19 +87,22 @@
         .docs-search {
         }
 }
-
+*/
   @media screen and (min-width:683px) {
              .docs-search {
-             position: inline-block;
              display: flex;
-             left: 600px;
-             vertical-align: center;
+             position: relative;
+             -webkit-box-flex: 0;
+             -ms-flex: none;
+             -webkit-box-align: center;
+             flex: none;
+             align-items: center;
              }
   }
 
-*/
 
-/*Horizontal bar container, grey and green*/
+
+/*Horizontal bar container, grey and green header section separator rectangles*/
 .sep-frame {
     width: Fill 1480px;
     height: Hug 2px;
