@@ -175,7 +175,6 @@
     display: block;
 }
 
-
 /* formatting of "TED developer Docs" container*/
 .text-eu-subtext-box    {
     Property 1="Default";
@@ -207,6 +206,12 @@
     font-weight: 700;
     line-height: 20px;
     display: inline-block;
+}
+
+.header-logo-DD {
+    border-left: none;
+    display: inline-block;
+    margin-left:25px;
 }
 
 /* formatting of "Documentation for TED developers and eSenders" text*/
