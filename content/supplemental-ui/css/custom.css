@@ -1,4 +1,4 @@
-/*Global screen max-width*/
+/*global screen max-width*/
 .body, .globan, .dd-header-container, .footer, .toolbar .sep-frame{
     max-width: 1480px;
     /*position: sticky;
@@ -85,19 +85,46 @@
         }
  }
 
+/*mid-range if needed (if global screen max-width removed for all horizontal elements):
+@media only screen and (min-width: 500px) and (max-width: 1480px) {
+	.docs-search {
+         display: flex;
+         position: relative;
+         -webkit-box-flex: 0;
+         -ms-flex: none;
+         -webkit-box-align: center;
+         flex: none;
+         align-items: center;
+         margin-top: 20px;
+         margin-right:15px;
+    }
+}
+*/
+
  @media screen and (min-width:500px) {
-             .docs-search {
-             display: flex;
-             position: relative;
-             -webkit-box-flex: 0;
-             -ms-flex: none;
-             -webkit-box-align: center;
-             flex: none;
-             align-items: center;
-             margin-top: 20px;
-             margin-right:15px;
-             }
+         .docs-search {
+         display: flex;
+         position: relative;
+         -webkit-box-flex: 0;
+         -ms-flex: none;
+         -webkit-box-align: center;
+         flex: none;
+         align-items: center;
+         margin-top: 20px;
+         margin-right:15px;
+         }
  }
+
+ /* max @media to use if mid-range needed:
+ @media screen and (min-width:1481px) {
+        .docs-search {
+        position: absolute;
+        margin-top: 20px;
+        margin-right:15px;
+        left:1080px;
+        }
+ }
+ */
 
 /*Horizontal bar container, grey and green header section separator rectangles*/
 .sep-frame {
