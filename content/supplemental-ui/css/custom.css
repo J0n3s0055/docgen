@@ -77,7 +77,7 @@
 }
 
 /*sets size of search box (not working!)*/
- .docs-search {
+ .docs-search, algolia-autocomplete {
         height: 40px;
         width: 640px;
         margin: 1px;
