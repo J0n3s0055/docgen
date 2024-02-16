@@ -57,13 +57,6 @@
 
 /*Algolia Search*/
 
-/*search box size*/
-
-.docs-search .algolia-autocomplete {
-    width: 100%;
-    height: 100%;
-
-}
 /*Results dropdown: white background and in-front*/
 .algolia-autocomplete .ds-dropdown-menu {
     background: #ffffff;
@@ -77,12 +70,11 @@
 }
 
 /*sets size of search box (not working!)*/
- .docs-search, algolia-autocomplete {
-        height: 40px;
-        width: 640px;
+ .docs-search {
+        height: 50px;
+        width: 300px;
         margin: 1px;
  }
-
 
 /*Search box responsive to screen width*/
  @media screen and (max-width:499px) {
