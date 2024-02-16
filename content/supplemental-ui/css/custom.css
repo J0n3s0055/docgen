@@ -58,9 +58,11 @@
 /*Algolia Search*/
 
 /*search box size*/
-.algolia-autocomplete {
-width: 640px;
-height: 40px;
+
+.search-input {
+    width: 640px;
+    height: 40px;
+
 }
 /*Results dropdown: white background and in-front*/
 .algolia-autocomplete .ds-dropdown-menu {
