@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="edited playbook &amp; publish_site.yml" />
+    <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="edited FOLDER: - was build">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708199082752</updated>
-      <workItem from="1708199084608" duration="1432000" />
+      <workItem from="1708199084608" duration="5900000" />
     </task>
     <task id="LOCAL-00001" summary="edited playbook, index,adoc">
       <created>1708199964002</created>
@@ -51,7 +54,119 @@
       <option name="project" value="LOCAL" />
       <updated>1708200526335</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="edited playbook &amp; publish_site.yml">
+      <created>1708200671737</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708200671737</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edited playbook">
+      <created>1708200787856</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708200787856</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edited playbook - ui bundle path">
+      <created>1708200990045</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708200990045</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edited FOLDER: - was build/site">
+      <created>1708201538328</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708201538328</updated>
+    </task>
+    <task id="LOCAL-00007" summary="edited FOLDER: - was build">
+      <created>1708201667737</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708201667737</updated>
+    </task>
+    <task id="LOCAL-00008" summary="edited FOLDER: - was build">
+      <created>1708201784298</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708201784298</updated>
+    </task>
+    <task id="LOCAL-00009" summary="edited FOLDER: - was build">
+      <created>1708201961111</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708201961111</updated>
+    </task>
+    <task id="LOCAL-00010" summary="edited FOLDER: - was build">
+      <created>1708202447169</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708202447169</updated>
+    </task>
+    <task id="LOCAL-00011" summary="edited FOLDER: - was build">
+      <created>1708202586900</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708202586900</updated>
+    </task>
+    <task id="LOCAL-00012" summary="edited FOLDER: - was build">
+      <created>1708202682281</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708202682281</updated>
+    </task>
+    <task id="LOCAL-00013" summary="edited FOLDER: - was build">
+      <created>1708202798118</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708202798118</updated>
+    </task>
+    <task id="LOCAL-00014" summary="edited FOLDER: - was build">
+      <created>1708202857760</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708202857760</updated>
+    </task>
+    <task id="LOCAL-00015" summary="edited FOLDER: - was build">
+      <created>1708203692545</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708203692545</updated>
+    </task>
+    <task id="LOCAL-00016" summary="edited FOLDER: - was build">
+      <created>1708203774031</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708203774031</updated>
+    </task>
+    <task id="LOCAL-00017" summary="edited FOLDER: - was build">
+      <created>1708204023098</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708204023098</updated>
+    </task>
+    <task id="LOCAL-00018" summary="edited FOLDER: - was build">
+      <created>1708204179532</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1708204179532</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,6 +175,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edited playbook, index,adoc" />
     <MESSAGE value="edited playbook &amp; publish_site.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited playbook &amp; publish_site.yml" />
+    <MESSAGE value="edited playbook" />
+    <MESSAGE value="edited playbook - ui bundle path" />
+    <MESSAGE value="edited FOLDER: - was build/site" />
+    <MESSAGE value="edited FOLDER: - was build" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited FOLDER: - was build" />
   </component>
 </project>
