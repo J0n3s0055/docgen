@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="edited FOLDER: - was build">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/antora-playbook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/antora-playbook.yml" afterDir="false" />
-    </list>
+    <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="edited FOLDER: - was build" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708199082752</updated>
       <workItem from="1708199084608" duration="7377000" />
-      <workItem from="1708206560324" duration="665000" />
+      <workItem from="1708206560324" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="edited playbook, index,adoc">
       <created>1708199964002</created>
@@ -258,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708207230564</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="edited FOLDER: - was build">
+      <created>1708207485165</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1708207485165</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
