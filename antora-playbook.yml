@@ -6,10 +6,10 @@ site:
 antora:
   extensions:
     - id: render-apidocs
-    # require: ./lib/apidoc/apidoc-antora-extension
-    #  openapi-generator:
-    #    config: config/openapi-generator/asciidoc.yaml
-    #    templates: templates/openapi-generator/asciidoc
+      require: ./lib/apidoc/apidoc-antora-extension
+      openapi-generator:
+      config: config/openapi-generator/asciidoc.yaml
+      templates: templates/openapi-generator/asciidoc
     #- id: lunr-search
     #  require: ./lib/lunr/lunr-antora-extension
     #  enabled: false
@@ -32,7 +32,7 @@ asciidoc:
     #espd_latest_version: '3.3.0'
 
   extensions:
-  - ./lib/apidoc/apidoc-asciidoc-extension
+    - ./lib/apidoc/apidoc-asciidoc-extension
 
 content:
   edit_url: false
@@ -114,7 +114,7 @@ ui:
     url: https://github.com/J0n3s0055/antora-ui-default/build/ui-bundle.zip
 
     snapshot: true
-  supplemental_files: ./content/supplemental-ui
+    supplemental_files: ./content/supplemental-ui
 
 git:
   fetch_concurrency: 1
