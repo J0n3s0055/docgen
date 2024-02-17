@@ -13,7 +13,7 @@ antora:
     #- id: lunr-search
     #  require: ./lib/lunr/lunr-antora-extension
     #  enabled: false
-
+    #
 asciidoc:
   attributes:
     ### Component's Latest Version
