@@ -1,50 +1,50 @@
-= Documentation for TED developers and eSenders
+= Documentation
 
 [.tile-container]
 --
 
 [.tile]
-.eForms SDK
+.Tile1
 ****
-eForms is the new notification standard for public procurement procedures in the EU. The eForms SDK is a collection of resources, models and schemas providing the foundation for building eForms applications.
+Blurb
 
-<<eforms:ROOT:index.adoc#, Read the docs>>
-****
-
-[.tile]
-.TED API
-****
-TED API is a collection of public interfaces allowing 3rd party applications to validate and submit eForms notices, publish tender documents, and search the TED archives.
-
-<<api:ROOT:index.adoc#, Read the docs>>
+#<<eforms:ROOT:index.adoc#, Read the docs>>
 ****
 
 [.tile]
-.eProcurement Ontology
+.Tile2
 ****
-The eProcurement Ontology provides the formal, semantic foundation for the creation and reuse of linked open data in the domain of public procurement in the EU.
+Blurb
 
-<<EPO:ROOT:index.adoc#, Read the docs>>
+#<<api:ROOT:index.adoc#, Read the docs>>
+****
+
+[.tile]
+.Tile3
+****
+Blurb
+
+#<<EPO:ROOT:index.adoc#, Read the docs>>
 ****
 [.tile]
-.ESPD EDM
+.Tile4
 ****
-The European Single Procurement Document enables accelerated processing of preliminary evidence in EU public procurement. The ESPD EDM enables applications to integrate with national ESPD service providers.
+Blurb
 
-<<espd-home:ROOT:index.adoc#, Read the docs>>
+#<<espd-home:ROOT:index.adoc#, Read the docs>>
 ****
 [.tile]
-.TED Semantic Web Service
+.Tile5
 ****
-The TED Semantic Web Service converts public procurement notices into RDF format and publishes them in the CELLAR repository, making them searchable through CELLAR’s SPARQL endpoint.
+Blurb
 
-<<SWS:ROOT:index.adoc#, Read the docs>>
+#<<SWS:ROOT:index.adoc#, Read the docs>>
 ****
 [.tile]
-.Reusing TED Data 
+.Tile6
 ****
-Learn how to download data on TED award notices in various formats via the TED Portal, Search API or direct links. Daily or monthly packages are available.
+Blurb
 
-<<noticedownloads:ROOT:index.adoc#, Read the docs>>
+#<<noticedownloads:ROOT:index.adoc#, Read the docs>>
 ****
 --
