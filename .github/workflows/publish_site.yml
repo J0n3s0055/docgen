@@ -39,6 +39,6 @@ jobs:
         with:
           # ACCESS_TOKEN: # optional
           TOKEN: "${{ github.token}}"
-          FOLDER: dist
+          FOLDER: 'dist'
           BRANCH: 'gh-pages'
           COMMIT-MESSAGE: "[CI] Publish Documentation for ${{ github.sha }}"

@@ -64,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708199082752</updated>
       <workItem from="1708199084608" duration="7377000" />
-      <workItem from="1708206560324" duration="1010000" />
+      <workItem from="1708206560324" duration="1445000" />
     </task>
     <task id="LOCAL-00001" summary="edited playbook, index,adoc">
       <created>1708199964002</created>
@@ -262,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708207485165</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="edited FOLDER: - was build">
+      <created>1708208011513</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1708208011513</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
