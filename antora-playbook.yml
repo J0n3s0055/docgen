@@ -1,120 +1,25 @@
 site:
-  title: Project Documentation
-  url: https://LuxTechWriting.com
-  start_page: home::index.adoc
-
-antora:
-  extensions:
-    - id: render-apidocs
-      require: ./lib/apidoc/apidoc-antora-extension
-      openapi-generator:
-      config: config/openapi-generator/asciidoc.yaml
-      templates: templates/openapi-generator/asciidoc
-    #- id: lunr-search
-    #  require: ./lib/lunr/lunr-antora-extension
-    #  enabled: false
-    #
+  title: Antora Demo Site
+  # the 404 page and sitemap files only get generated when the url property is set
+  url: https://antora.gitlab.io/demo/docs-site
+  start_page: component-b::index.adoc
+content:
+  sources:
+    - url: https://gitlab.com/antora/demo/demo-component-a.git
+      branches: HEAD
+      # setting edit_url to false disables the Edit this Page link for any page that originates from this repository
+      # the same thing can be achieved by adding empty credentials (i.e., @) in front of the domain in the URL
+      edit_url: false
+    - url: https://gitlab.com/antora/demo/demo-component-b.git
+      branches: [main, v2.0, v1.0]
+      start_path: docs
 asciidoc:
   attributes:
-    ### Component's Latest Version
-    #
-    # We want to know the latest version of each component so we can create a redirect for the latest version.
-    # Such a redirect would be useful for users that want to bookmark a link to the latest documentation for a component.
-    # For example, we would be able to provide a link of the form: https://docs.ted.europa.eu/eforms/latest.
-    # It is also nice to be able to indicate a component's version in the main navigation panel (modules/ROOT/nav.adoc).
-    #
-    # However, we do not currently have any other way to determine the latest version of a component outside a page in the component itself.
-    # So, as a workaround, we store the latest version of each component in these site-wide asciidoc attributes.
-    # The downside is that we have to update these attributes whenever we release a new version of a component.
-    #
-    #eforms_latest_version: '1.10.0'
-    #epo_latest_version: '4.0.0'
-    #espd_latest_version: '3.3.0'
-
-  extensions:
-    - ./lib/apidoc/apidoc-asciidoc-extension
-
-content:
-  edit_url: false
-  sources:
-
-   ### Local content
-  - url: .
-    start_path: content
-    branches: HEAD
-
-
-  ### eForms SDK
-  #- url: https://github.com/OP-TED/eforms-docs.git
-  #  start_path: /
-  #  branches: 1.7.x, 1.7.x-generated, 1.6.x, 1.6.x-generated, 1.5.x, 1.5.x-generated, 1.4.x, 1.4.x-generated, 1.3.x, 1.3.x-generated, 1.2.x, 1.2.x-generated, 1.1.x, 1.1.x-generated, 1.0.x, 1.0.x-generated, main # The "main" branch contains the eForms FAQ and RoadMap
-
-  ### TED API
-  #- url: https://github.com/OP-TED/tedapi-docs.git
-  #  start_path: /
-  #  branches: main # The "main" branch contains unversioned content.
-
-  ### ePO Documentation
-  #- url: https://github.com/OP-TED/epo-docs.git
-  #  start_path: /
-  #  branches: new_main, v*, wg-meetings
-
-  ### model2owl OP
-  #- url: https://github.com/OP-TED/ted-model2owl-docs.git
-  #  start_path: /
-  #  branches: main
-    # includes boilerplate
-
-  ### SWS
-  #- url: https://github.com/OP-TED/ted-rdf-docs.git
-  #  start_path: docs/antora
-  #  branches: sparql
-
-  ### Bulk Downloads
-  #- url: https://github.com/OP-TED/ted-bulkdownloads-docs.git
-  #  start_path: /
-   # branches: new_main
-
-  ###  ESPD
-  #- url: https://github.com/OP-TED/espd-docs.git
-  #  start_path: /
-  #  branches: v2.0.x, new_v3, new_main, new_wgm, bus, tech
-    # branches: v1.0.x, v2.0.x, v2.1.x, v3.0.x, v3.1.x, v3.2.x, v3.3.x, wgm-reports
-
-  ### Meaningfy model2owl
-  - url: https://github.com/meaningfy-ws/model2owl-docs
-    start_path: docs
-    branches: main
-
-  ### Meaningfy model2owl rdf pipeline
-  #- url: https://github.com/meaningfy-ws/ted-rdf-conversion-pipeline-docs.git
-  #  start_path: docs/antora
-  #  branches: main
-
-  #- url: https://github.com/OP-TED/ted-rdf-mapping.git
-  #  branches: main
-  #  start_path: docs/antora
-
-  #- url: https://github.com/OP-TED/ted-rdf-conversion-pipeline.git
-  #  Use local path for testing. Example:
-  #  branches: main
-  #  start_path: docs/antora
-
-urls:
-  # latest_version_segment_strategy: redirect:to
-  # latest_prerelease_version_segment: next
-  redirect_facility: static
-  # html_extension_style: indexify
-  latest_version_segment: latest
-
+    experimental: ''
+    idprefix: ''
+    idseparator: '-'
+    page-pagination: ''
 ui:
   bundle:
-    # url: https://github.com/OP-TED/antora-eui/releases/download/ui-bundle/eForms-SDK-customisations/ui-bundle.zip
-    # url: https://github.com/J0n3s0055/j0n3s-antora-eui/releases/download/ui-bundle/eForms-SDK-customisations/ui-bundle.zip
-    # url: https://github.com/J0n3s0055/antora-ui-default/blob/main/build/ui-bundle.zip
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
-  supplemental_files: ./content/supplemental-ui
-
-git:
-  fetch_concurrency: 1
