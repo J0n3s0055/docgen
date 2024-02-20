@@ -1,36 +1,23 @@
 * xref:index.adoc[Home]
 
-#* [.separated]#**eForms**#
-#* xref:eforms::index.adoc[eForms SDK Docs `{eforms_latest_version}`]
-#* xref:eforms:roadmap/index.adoc[SDK Roadmap]
-#* xref:eforms:FAQ/index.adoc[eForms FAQ]
-#* xref:eforms:preview/index.adoc[eForms Preview environment]
+* [.separated]#**About**#
+* xref:bout::blurb.adoc[Who I am]
+* xref:about::cv.adoc[Curriculum Vitae]
+* xref:about::experiencetravel.adoc[Experience and Travel]
+* xref:about::workavailability.adoc[Work & Availability]
+* xref:about::contact.adoc[Contact]
 
-* [.separated]#**eProcurement Ontology**#
-* xref:EPO::index.adoc[ePO Docs `{epo_latest_version}`]
-* xref:epo-wgm::index.adoc[Working Group Meetings]
 
-* [.separated]#**Model2owl-OP**# 
-* xref:m2o-home::index.adoc[model2owl Docs]
-// * xref:epo-home::uml2owl_2020.adoc[uml2owl in adoc format]
-// * xref:epo-home::umlconv2020.adoc[UML conventions in adoc format]
+* [.separated]#**Portfolio**#
+* xref:Learning::index.adoc[Online Learning Resource]
+* xref:portfolio::instructions.adoc[Instructions]
+* Link[Documentation Projects]
+* Link [YouTube Channel]
 
-// * [.separated]#**Model2owl-MF**# 
-// * xref:ROOT::index.adoc[model2owl Docs]
+* xref:portfolio::somethingelse.adoc[Something Else]
 
-* [.separated]#**TED Semantic Web Service**#
-* xref:SWS::index.adoc[TED Semantic Web Service Docs]
+* [.separated]#**Blog**#
+* xref:blog::index.adoc[Reflective Writing]
 
-* [.separated]#**ESPD-EDM**#
-* xref:espd-home::index.adoc[ESPD-EDM Docs - new page structure `{espd_latest_version}`]
-* xref:espd-wgm::index.adoc[Open User Community Meetings]
 
-// * [.separated]#**RDF Mapping - Internal**#
-// * xref:rdf-mapping::index.adoc[RDF Mappings (internal - for Review)]
-
-* [.separated]#**RDF Conversion - Internal**#
-* xref:ted-sws::index.adoc[RDF Conversion (internal - for Review)]
-
-* [.separated]#**Reusing TED Data **#
-* xref:noticedownloads::index.adoc[Downloading TED Notices Docs]
 
