@@ -1,7 +1,7 @@
 * xref:index.adoc[Home]
 
 * [.separated]#**About**#
-* xref:bout::blurb.adoc[Who I am]
+* xref:about::blurb.adoc[Who I am]
 * xref:about::cv.adoc[Curriculum Vitae]
 * xref:about::experiencetravel.adoc[Experience and Travel]
 * xref:about::workavailability.adoc[Work & Availability]
