@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="Trying default playbook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/modules/ROOT/nav.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/ROOT/nav.adoc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <updated>1708199082752</updated>
       <workItem from="1708199084608" duration="6248000" />
       <workItem from="1708278590855" duration="676000" />
-      <workItem from="1708459358737" duration="1858000" />
+      <workItem from="1708459358737" duration="2578000" />
     </task>
     <task id="LOCAL-00001" summary="edited playbook, index,adoc">
       <created>1708199964002</created>
@@ -208,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708460563389</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Trying default playbook">
+      <created>1708461632838</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1708461632838</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

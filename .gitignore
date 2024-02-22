@@ -5,5 +5,5 @@ node_modules
 .yarn
 .pnp.cjs
 .pnp.loader.mjs
-workspace.xml
+.workspace.xml
 .idea
