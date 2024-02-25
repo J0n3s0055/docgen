@@ -3,8 +3,8 @@
 * [.separated]#**About**#
 * xref:about::index.adoc[Who I am]
 * xref:about::cv.adoc[Curriculum Vitae]
-* xref:about::experiencetravel.adoc[Experience and Travel]
-* xref:about::workavailability.adoc[Work & Availability]
+* xref:about::experience.adoc[Experience and Travel]
+* xref:about::availability.adoc[Work & Availability]
 * xref:about::contact.adoc[Contact]
 
 
