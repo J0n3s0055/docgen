@@ -67,7 +67,7 @@ urls:
   # latest_prerelease_version_segment: next
   redirect_facility: static
   # html_extension_style: indexify
-  latest_version_segment: latest
+  # latest_version_segment: latest
 
 ui:
   bundle:
