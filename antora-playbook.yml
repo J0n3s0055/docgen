@@ -3,8 +3,8 @@ site:
   url: https://LuxTechWriting.com
   start_page: home::index.adoc
 
-antora:
-  extensions:
+#antora:
+ # extensions:
   #  - id: render-apidocs
   #   require: ./lib/apidoc/apidoc-antora-extension
   #  openapi-generator:
@@ -31,8 +31,8 @@ asciidoc:
   #epo_latest_version: '4.0.0'
   #espd_latest_version: '3.3.0'
 
-  extensions:
-    - ./lib/apidoc/apidoc-asciidoc-extension
+  # extensions:
+  #  - ./lib/apidoc/apidoc-asciidoc-extension
 
 content:
   edit_url: false
