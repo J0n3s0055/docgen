@@ -9,7 +9,7 @@
 
 
 * [.separated]#**Portfolio**#
-* xref:Learning::index.adoc[Online Learning Resource]
+* xref:learning::index.adoc[Online Learning Resource]
 * xref:portfolio::instructions.adoc[Instructions]
 * Link[Documentation Projects]
 * Link [YouTube Channel]
