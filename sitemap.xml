@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://LuxTechWriting.com/home/index.html</loc>
-<lastmod>2024-02-26T14:31:51.258Z</lastmod>
-</url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>https://LuxTechWriting.com/sitemap-about.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://LuxTechWriting.com/sitemap-blog.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://LuxTechWriting.com/sitemap-home.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://LuxTechWriting.com/sitemap-learning.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://LuxTechWriting.com/sitemap-portfolio.xml</loc>
+</sitemap>
+</sitemapindex>
