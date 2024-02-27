@@ -43,25 +43,26 @@ content:
     start_path: content
     branches: HEAD
 
-- url: https://github.com/J0n3s0055/about.git
-  start_path: /
-  branches: main
+  - url: https://github.com/J0n3s0055/about.git
+    start_path: /
+    branches: main
 
- -url: https://github.com/J0n3s0055/cv.git
-  start_path: /
-  branches: main
+  - url: https://github.com/J0n3s0055/cv.git
+    start_path: /
+    branches: main
 
- -url: https://github.com/J0n3s0055/portfolio.git
-  start_path: /
-  branches: main
+  - url: https://github.com/J0n3s0055/portfolio.git
+    start_path: /
+    branches: main
 
- -url: https://github.com/J0n3s0055/blog.git
-  start_path: /
-  branches: main
+  - url: https://github.com/J0n3s0055/blog.git
+    start_path: /
+    branches: main
 
- -url: https://github.com/J0n3s0055/learning.git
-  start_path: /
-      branches: main
+  - url: https://github.com/J0n3s0055/learning.git
+    start_path: /
+    branches: main
+    
 urls:
   # latest_version_segment_strategy: redirect:to
   # latest_prerelease_version_segment: next
