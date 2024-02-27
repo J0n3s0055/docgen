@@ -5,11 +5,11 @@ site:
 
 antora:
   extensions:
-    - id: render-apidocs
-      require: ./lib/apidoc/apidoc-antora-extension
-      openapi-generator:
-      config: config/openapi-generator/asciidoc.yaml
-      templates: templates/openapi-generator/asciidoc
+  #  - id: render-apidocs
+   #   require: ./lib/apidoc/apidoc-antora-extension
+    #  openapi-generator:
+     # config: config/openapi-generator/asciidoc.yaml
+      #templates: templates/openapi-generator/asciidoc
     #- id: lunr-search
     #  require: ./lib/lunr/lunr-antora-extension
     #  enabled: false
