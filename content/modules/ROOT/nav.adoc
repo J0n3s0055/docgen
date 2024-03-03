@@ -8,9 +8,9 @@
 ** xref:about::contact.adoc[Contact]
 
 * [.separated]#**Portfolio**#
-** xref:learning:index.adoc[Online Learning Resource]
-** xref:portfolio:instructions.adoc[Instructions]
-** xref:portfolio:somethingelse.adoc[Something Else]
+** xref:learning::index.adoc[Online Learning Resource]
+** xref:portfolio::instructions.adoc[Instructions]
+** xref:portfolio::somethingelse.adoc[Something Else]
 ** Link[Documentation Projects]
 ** Link [YouTube Channel]
 
