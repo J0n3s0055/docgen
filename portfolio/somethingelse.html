@@ -51,26 +51,47 @@
 <div class="nav-container" data-component="portfolio" data-version="">
   <aside class="nav">
     <div class="panels">
-<div class="nav-panel-explore is-active" data-panel="explore">
+<div class="nav-panel-menu is-active" data-panel="menu">
+  <nav class="nav-menu">
+    <button class="nav-menu-toggle" aria-label="Toggle expand/collapse all" style="display: none"></button>
+    <h3 class="title"><a href="index.html">Portfolio</a></h3>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="0">
+<ul class="nav-list">
+  <li class="nav-item" data-depth="1">
+    <span class="nav-text"><span class="separated"><strong>Portfolio</strong></span></span>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <a class="nav-link" href="instructions.html">Instructions</a>
+  </li>
+  <li class="nav-item is-current-page" data-depth="1">
+    <a class="nav-link" href="somethingelse.html">Something Else</a>
+  </li>
+</ul>
+  </li>
+</ul>
+  </nav>
+</div>
+<div class="nav-panel-explore" data-panel="explore">
   <div class="context">
-    <span class="title">LuxTech Writing</span>
+    <span class="title">Portfolio</span>
     <span class="version"></span>
   </div>
   <ul class="components">
     <li class="component">
       <div class="title"><a href="../about/index.html">About me</a></div>
     </li>
-    <li class="component is-current">
-      <div class="title"><a href="index.html">LuxTech Writing</a></div>
-    </li>
     <li class="component">
-      <div class="title"><a href="../blog/index.html">LuxTech Writing</a></div>
+      <div class="title"><a href="../blog/index.html">Blog</a></div>
     </li>
     <li class="component">
       <div class="title"><a href="../learning/index.html">LuxTech Writing</a></div>
     </li>
     <li class="component">
       <div class="title"><a href="../home/index.html">LuxTechWriting</a></div>
+    </li>
+    <li class="component is-current">
+      <div class="title"><a href="index.html">Portfolio</a></div>
     </li>
   </ul>
 </div>
@@ -82,6 +103,10 @@
 <button class="nav-toggle"></button>
   <a href="../home/index.html" class="home-link"></a>
 <nav class="breadcrumbs" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="index.html">Portfolio</a></li>
+    <li><a href="somethingelse.html">Something Else</a></li>
+  </ul>
 </nav>
 </div>
   <div class="content">
