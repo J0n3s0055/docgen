@@ -1,5 +1,5 @@
 site:
-  title: Project Documentation
+  title: LuxTechWriting
   url: https://LuxTechWriting.com
   start_page: home::index.adoc
 
