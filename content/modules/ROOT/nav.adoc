@@ -1,4 +1,6 @@
-* xref:home:index.adoc[Home]
+* [.separated]#**NPJ Website**#
+* xref:home:index.adoc[]
+
 
 * [.separated]#**About**#
 ** xref:about::index.adoc[Work and Experience]
