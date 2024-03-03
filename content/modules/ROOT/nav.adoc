@@ -1,23 +1,42 @@
-* xref:index.adoc[Home]
+* xref:home:index.adoc[Home]
 
 * [.separated]#**About**#
-* xref:about::index.adoc[Who I am]
-* xref:about::cv.adoc[Curriculum Vitae]
-* xref:about::experience.adoc[Experience and Travel]
-* xref:about::availability.adoc[Work & Availability]
-* xref:about::contact.adoc[Contact]
-
+** xref:about::index.adoc[Work and Experience]
+** xref:portfolio::index.adoc[Portfolio]
+** xref:about::cv.adoc[Detailed CV]
+** xref:about::availability.adoc[Work & Availability]
+** xref:about::contact.adoc[Contact]
 
 * [.separated]#**Portfolio**#
-* xref:learning::index.adoc[Online Learning Resource]
-* xref:portfolio::instructions.adoc[Instructions]
-* Link[Documentation Projects]
-* Link [YouTube Channel]
-
-* xref:portfolio::somethingelse.adoc[Something Else]
+** xref:learning:index.adoc[Online Learning Resource]
+** xref:portfolio:instructions.adoc[Instructions]
+** xref:portfolio:somethingelse.adoc[Something Else]
+** Link[Documentation Projects]
+** Link [YouTube Channel]
 
 * [.separated]#**Blog**#
-* xref:blog::index.adoc[Reflective Writing]
+** xref:blog::index.adoc[Reflective Writing Blog]
+
+////
+* xref:index.adoc[Home]
+
+* [.separated]#**eForms**#
+* xref:eforms::index.adoc[eForms SDK Docs `{eforms_latest_version}`]
+* xref:eforms:active-versions/index.adoc[SDK Active Versions]
+* xref:eforms:roadmap/index.adoc[SDK Roadmap]
+* xref:eforms:FAQ/index.adoc[eForms FAQ]
+* xref:eforms:preview/index.adoc[eForms Preview environment]
+
+* [.separated]#**eProcurement Ontology**#
+* xref:epo-home::index.adoc[ePO Docs `{epo_latest_version}`]
+* xref:epo-wgm::index.adoc[Working Group Meetings]
 
 
+* [.separated]#**TED Semantic Web Service**#
+* xref:SWS::index.adoc[TED Semantic Web Service Docs]
+
+* [.separated]#**ESPD-EDM**#
+* xref:ESPD-EDM::index.adoc[ESPD-EDM Docs `{espd_latest_version}`]
+* xref:espd-ouc::index.adoc[Open User Community Meetings]
+////
 

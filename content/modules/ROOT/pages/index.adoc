@@ -1,2 +1,2 @@
-= Documentation
+:doctitle: My Website
 
