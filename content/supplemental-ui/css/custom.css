@@ -7,7 +7,14 @@
     }
 
 .navbar {
-    color: #8fd3fe;
+    background: #8fd3fe;
+    color: #fff;
+    font-size: .88889rem;
+    height: 6.5rem;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 4;
 }
 
 /*Flag image*/
@@ -116,11 +123,10 @@
 
 
 .text-eu-tenders {
-    font-family: Arial;
     font-size: 28px;
     font-weight: 700;
     line-height: 32px;
-    letter-spacing: 0em;
+    letter-spacing: 0rem;
     text-align: left;
     color: #515560;
     margin-left:25px;
@@ -899,19 +905,17 @@ end of old navbar
     }
 
 
-    @media screen and (min-width: 992px) {
+    /*@media screen and (min-width: 992px) {*/
 
         .gcss-op .ls-footer-group {
             column-gap: var(--gs-base-spacing-2xl)!important;
             padding-bottom: var(--gs-base-spacing-2xl);
         }
 
-        .gcss-op.footer-eu h2,
-        .gcss-op.footer-eu h3 {
-            margin-top: var(--gs-base-spacing-2xl)!important;
-            font-size: var(--gs-base-font-size-3xl)!important;
-            }
-
+        .gcss-op.footer-eu h2,.gcss-op.footer-eu h3 {
+            margin-top: var(--gs-base-spacing-2xl) !important;
+            font-size: var(--gs-base-font-size-3xl) !important;
+        }
 
 
 
