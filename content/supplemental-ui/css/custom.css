@@ -6,6 +6,10 @@
     float: none !important;
     }
 
+.navbar {
+    color: #8fd3fe;
+}
+
 /*Flag image*/
 .eu-emblem-std-en  {
     height: 45px;
