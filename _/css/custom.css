@@ -8,7 +8,8 @@
 
 .navbar {
     background-color: #8fd3fe;
-    color: #fff;
+    /*background: #8fd3fe;*/
+    /*color: #fff;*/
     font-size: .88889rem;
     height: 6.5rem;
     position: fixed;
@@ -18,6 +19,10 @@
 }
 
 .navbar-brand {
+    background-color: #8fd3fe;
+}
+
+.body{
     background-color: #8fd3fe;
 }
 
