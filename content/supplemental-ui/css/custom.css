@@ -1,44 +1,15 @@
 /*global screen max-width*/
-.body, .globan, .dd-header-container, .footer, .toolbar .sep-frame{
-    max-width: 1480px;
+.body, .footer, .toolbar, .sep-frame{
+    max-width: 1400px;
     /*position: sticky;
     margin: 0 auto !important;*/
     float: none !important;
     }
 
 
-/*New TED dev docs header css Feb 2024 */
-.dd-header-container {
-    height: Hug 213px);
-    gap: 16px;
-    background: #FFFFFF;
-    }
-
-/* Top line of header: EU logo and search*/
-.eu-part {
-    Property 1="xl";
-    width: Fill 1575px;
-    height: Hug 45px;
-    padding: 0px, 24px, 0px, 24px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    }
-
-/*display EU flag at top inline-block so the search box can also be*/
-.eu-emblem {
-    Property 1="desktop";
-    width: 161px;
-    height: 45px;
-    padding: 16px, 0px, 16px, 0px;
-    margin-left: 25px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    display: inline-block;
-    }
 
 /*Flag image*/
-.eu-emblem-std-en   {
+.eu-emblem-std-en  {
     height: 45px;
  }
 
@@ -128,9 +99,7 @@
 
 /*Horizontal bar container, grey and green header section separator rectangles*/
 .sep-frame {
-    /*width: Fill 1480px;*/
-    height: Hug 2px;
-    padding: 0px, 24px, 0px, 24px;
+
 }
 
 /*Horizontal grey bar*/
@@ -142,24 +111,7 @@
 }
 
 /*Second line of header containing "EU Tenders text*/
-.ted-dd-bar {
-    width: Fill 1575px;
-    height: Hug 68px;
-    padding: 0px, 24px, 0px, 24px;
-    gap: 16px;
-}
 
-.ted-dd-text-bar {
-    width: Fill 750px;
-    height: Hug 68px;
-    gap: 6px;
-}
-
-.ted-dd-text-field {
-   width: Fill 750px;
-   height: Hug 33px;
-   gap: 4px;
-}
 
 .text-eu-tenders {
     font-family: Arial;
@@ -176,37 +128,6 @@
 }
 
 /* formatting of "TED developer Docs" container*/
-.text-eu-subtext-box    {
-    Property 1="Default";
-    width: Fill 750px;
-    height: Hug 29px;
-    gap: 12px;
-}
-
-/* formatting of "TED developer Docs" text*/
-.text-eu-subtext-text   {
-    Property 1="default";
-    width: Hug 163px;
-    height: Hug 29px;
-    gap: 10px;
-    linear-gradient(0deg, #F5F5F5, #F5F5F5);
-    border-left: 4px solid #339900;
-    display:inline-block;
-    margin-right:10px;
-    margin-bottom:10px;
-    font-family: Arial;
-    letter-spacing: 0em;
-    text-align: left;
-    margin-left:25px;
-    background: #F5F5F5;
-    /*border-left: 6px solid #390;*/
-    padding: 4px 12px;
-    color: #515560;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 20px;
-    display: inline-block;
-}
 
 .header-logo-DD {
     border-left: none;
@@ -222,7 +143,7 @@
     font-size: 16px;
     font-weight: 400;
     line-height: 18px;
-    letter-spacing: 0em;
+    letter-spacing: 0rem;
     text-align: left;
     color: #515560;
     margin-bottom:10px;
@@ -422,15 +343,13 @@ end of old navbar
 
     .li-footer {
         color: #0E47CB;
-        margin-bottom: 3rem 0;
+        margin-bottom: 3rem;
         line-height: 2rem !important;
         text-decoration: none !important;
         text-underline-offset: 0.15rem !important;
         font-size: 0.917rem;
         font-weight: 300;
         font-family:Arial, sans-serif !important;
-        text
-
     }
 
     .ul-footer li-footer {
@@ -579,12 +498,10 @@ end of old navbar
 
 	.ted-search__button-search {
 		padding: 8px 11px;
-	}
-}
-</style>
+    }
 
- <style>.has-edit-mode-menu .ted-search__wrapper .d-lg-none {
-    display: block!important;
+
+
 }
 
 .lfr-has-simulation-panel .ted-search__wrapper .d-lg-none {
@@ -838,7 +755,7 @@ end of old navbar
     #footer #extendedft {
         padding-bottom: unset;
         line-height: unset;
-        border: none;x
+        border: none;
         position: relative;
         background-color:var(--gs-base-color-eu-blue-5);
         height: 85%; /* Is this needed? */
@@ -921,11 +838,11 @@ end of old navbar
 
     .gcss-op.footer-eu h3 {
         border-bottom: 1px solid var(--gs-base-color-eu-blue-20);
-        margin-bottom:1rem!important;
-    }
+        margin-bottom:1rem !important;
+        }
 
     .gcss-op.footer-eu h2 {
-        margin-bottom:0!important;
+        margin-bottom:0 !important;
     }
 
     /* Site logo */
@@ -989,15 +906,10 @@ end of old navbar
 
         .gcss-op.footer-eu h2,
         .gcss-op.footer-eu h3 {
-            margin-top:var(--gs-base-spacing-2xl)!important;
+            margin-top: var(--gs-base-spacing-2xl)!important;
             font-size: var(--gs-base-font-size-3xl)!important;
-        }
+            }
 
-        .gcss-op.ls-op-services-list {
-            column-count: 3;
-            /*column-gap:var(--gs-base-spacing-2xl)!important;*/
-        }
 
-    }
 
 
