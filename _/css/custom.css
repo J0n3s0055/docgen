@@ -126,7 +126,7 @@
     font-size: 28px;
     font-weight: 700;
     line-height: 32px;
-    letter-spacing: 0rem;
+    letter-spacing: 0;
     text-align: left;
     color: #515560;
     margin-left:25px;
@@ -147,11 +147,11 @@
 .text-eu-subtext-label {
     width: 500px;
     height: 14px;
-    font-family: Arial;
+
     font-size: 16px;
     font-weight: 400;
     line-height: 18px;
-    letter-spacing: 0rem;
+    letter-spacing: 0;
     text-align: left;
     color: #515560;
     margin-bottom:10px;
@@ -178,19 +178,19 @@
 /* makes toolbar not move down with scroll*/
 .toolbar {
     position: sticky;
-    top: 0px;
+    top: 0;
 }
 
 /* makes left-hand nav container (menu) not move down with scroll*/
 .nav {
     position: sticky;
-    top: 0px;
+    top: 0;
 }
 
 /* makes right-hand page contents container not move down with scroll*/
 .aside.toc.sidebar {
     position: sticky;
-    top: 0px;
+    top: 0;
 }
 
 /* old navbar, some is needed*/
@@ -224,7 +224,7 @@
     font-style: normal;
     color: #2c862d;
     background-color: #fafafa;
-    margin: -1rem -1rem 0rem -1rem !important;
+    margin: -1rem -1rem 0 -1rem !important;
     padding: 0.6rem 1rem 0.4rem 1rem;
     flex: auto;
     border-bottom: 1px solid #ccc;
@@ -281,7 +281,7 @@ div.qanda > ol > li {
 .doc table.fixed-layout {
     table-layout: fixed;
 }
-end of old navbar
+/*end of old navbar*/
 
 
 /* New Dev Docs footer css Feb 2024 */
@@ -329,13 +329,12 @@ end of old navbar
         color: #171A22 !important;
         padding-bottom: 0.75rem;
         /*margin-top: 1.5 rem;*/
-        font-size: 1.5rem !important;
         font-weight: 200 !important;
         max-width:unset;
         border-bottom: 1px solid #CFDAF5;
         margin-bottom: 1rem !important;
         margin-top: 1.5rem !important;
-        font-size: 1.75rem;
+        font-size: 1.75rem !important;
     }
 
     .ul-footer {
@@ -360,9 +359,9 @@ end of old navbar
         font-family:Arial, sans-serif !important;
     }
 
-    .ul-footer li-footer {
+/*    .ul-footer li-footer {
     margin: 30px;
-    }
+    }*/
 
     .byline-footer {
     line-height: 1.35 !important;
