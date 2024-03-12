@@ -10,7 +10,7 @@ antora:
       openapi-generator:
         config: config/openapi-generator/asciidoc.yaml
         templates: templates/openapi-generator/asciidoc
-    - ./lib/apidoc/apidoc-asciidoc-extension  
+    - ./lib/apidoc/apidoc-asciidoc-extension
 content:
   edit_url: false
   sources:
@@ -35,7 +35,7 @@ content:
   - url: https://github.com/J0n3s0055/learning.git
     start_path: /
     branches: main
-    
+
 urls:
   # latest_version_segment_strategy: redirect:to
   # latest_prerelease_version_segment: next
@@ -48,7 +48,7 @@ ui:
     #url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     url: https://github.com/J0n3s0055/antora-ui-default/files/14473359/ui-bundle.zip
     snapshot: true
-  supplemental_files: ./content/supplemental-ui
+  supplemental_files: content/supplemental-ui
 
 git:
   fetch_concurrency: 1
