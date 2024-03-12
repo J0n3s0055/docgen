@@ -7,7 +7,7 @@
     }
 
 .navbar {
-    /*background-color: #8fd3fe;*/
+    background-color: #8fd3fe !important;
     background: #8fd3fe !important;
     /*color: #fff;*/
     font-size: .88889rem;
