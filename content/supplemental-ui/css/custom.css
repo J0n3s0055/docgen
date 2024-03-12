@@ -6,7 +6,7 @@
     float: none !important;
     }
 
-.nav .navbar {
+.navbar {
     /*background-color: #8fd3fe;*/
     background: #8fd3fe !important;
     /*color: #fff;*/
@@ -22,7 +22,7 @@
     background-color: #8fd3fe;
 }
 
-.body{
+.body {
     background-color: #8fd3fe !important;
 }
 
