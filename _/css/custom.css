@@ -1,10 +1,10 @@
-/*.article{
+.article{
     max-width: 1480px;
     position: sticky;
     margin: 0 auto !important;
     float: none !important;
 }
-*/
+
 
 .header {
     background: #8fd3fe !important;
