@@ -6,7 +6,12 @@
 }
 
 
-.nav .navbar {
+.nav {
+    background: #8fd3fe !important;
+    color: #8fd3fe;
+}
+
+.navbar {
     background: #8fd3fe !important;
     color: #8fd3fe;
 }
