@@ -1,3 +1,11 @@
+/*.article{
+    max-width: 1480px;
+    position: sticky;
+    margin: 0 auto !important;
+    float: none !important;
+}
+*/
+
 .navbar {
     background: #8fd3fe;
 }
@@ -7,16 +15,13 @@
 global screen max-width
 
 .body, .footer, .toolbar, .sep-frame{
-    max-width: 1400px;
-    position: sticky;
-    margin: 0 auto !important;
-    float: none !important;
+   width: 100%;
     }
 
 .nav {
-    /*background-color: #8fd3fe !important;
+    background-color: #8fd3fe !important;
     background: #8fd3fe !important;
-    /*color: #fff;
+    color: #fff;
     font-size: .88889rem;
     height: 6.5rem;
     position: fixed;
