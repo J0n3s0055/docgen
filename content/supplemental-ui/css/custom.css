@@ -6,14 +6,17 @@
 }
 
 
-.nav {
-    background: #8fd3fe !important;
-    color: #8fd3fe;
-}
+
 
 .navbar {
-    background: #8fd3fe !important;
-    color: #8fd3fe;
+    background:#8fd3fe;
+    color:#fff;
+    font-size:.88889rem;
+    height:3.5rem;
+    position:fixed;
+    top:0;
+    width:100%;
+    z-index:4
 }
 
 /*
