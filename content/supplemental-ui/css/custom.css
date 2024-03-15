@@ -1,10 +1,13 @@
-.article{
+.article {
     max-width: 1480px;
     position: sticky;
     margin: 0 auto !important;
     float: none !important;
-}
+    }
 
+.body {
+    width:100%
+    }
 
 
 
