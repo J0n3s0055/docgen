@@ -45,8 +45,8 @@ urls:
 
 ui:
   bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
-    # url: https://github.com/J0n3s0055/antora-ui-default/files/14473359/ui-bundle.zip
+    # url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    url: https://github.com/J0n3s0055/antora-ui-default/releases/latest/ui-bundle.zip
     snapshot: true
   supplemental_files: ./content/supplemental-ui
 
