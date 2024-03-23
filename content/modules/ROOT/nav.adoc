@@ -1,22 +1,16 @@
 * xref:home::index.adoc[Home]
-** xref:portfolio::index.adoc[Online Portfolio]
-** xref:about::cv.adoc[Curriculum Vitae]
-** xref:learning::index.adoc[Online Learning Resource]
 
-* [.separated]#**About**#
-** xref:about::index.adoc[Work and Experience]
-** xref:portfolio::index.adoc[Portfolio]
-** xref:about::cv.adoc[Detailed CV]
-** xref:about::availability.adoc[Work & Availability]
-** xref:about::contact.adoc[Contact]
+* [.separated]#**EL6052 Portfolio Assignment**#
+** xref:portfolio::port_index.adoc[ Introduction]
+** xref:portfolio::art1_instr.adoc[Instructions]
+** xref:portfolio::art2_instr.adoc[2. to follow]
+** xref:portfolio::art3_instr.adoc[3. to follow]
+** xref:portfolio::art4_instr.adoc[4. to follow]
+** xref:portfolio::cv.adoc[Curriculum Vitae: Nicole Paterson-Jones]
 
-* [.separated]#**Portfolio**#
-** xref:learning::index.adoc[Online Learning Resource]
-** xref:portfolio::instructions.adoc[Instructions]
-** xref:portfolio::somethingelse.adoc[Something Else]
-** Link[Documentation Projects]
-** Link [YouTube Channel]
+* [.separated]#**Final Project**#
+* https://luxtechwriting.com/portfolio/_attachments/test/index.html[Online Learning Resource: Understanding and Querying EU Public Procurement Data]
 
-* [.separated]#**Blog**#
-** xref:blog::index.adoc[Reflective Writing Blog]
+* [.separated]#**Reflective Writing**#
+** xref:portfolio::blog_index.adoc[Reflective Writing Blog]
 
