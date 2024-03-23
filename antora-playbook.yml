@@ -2,6 +2,7 @@ site:
   title: LuxTechWriting
   url: https://LuxTechWriting.com
   start_page: home::index.adoc
+  robots: disallow
 
 antora:
   extensions:
