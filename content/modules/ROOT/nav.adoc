@@ -9,7 +9,7 @@
 ** xref:portfolio::cv.adoc[Curriculum Vitae: Nicole Paterson-Jones]
 
 * [.separated]#**Final Project**#
-* https://luxtechwriting.com/portfolio/_attachments/test/index.html[Online Learning Resource: Understanding and Querying EU Public Procurement Data]
+** https://luxtechwriting.com/portfolio/_attachments/test/index.html[Online Learning Resource: Understanding and Querying EU Public Procurement Data]
 
 * [.separated]#**Reflective Writing**#
 ** xref:portfolio::blog_index.adoc[Reflective Writing Blog]
