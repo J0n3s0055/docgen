@@ -9,8 +9,12 @@
 ** xref:portfolio::cv.adoc[Curriculum Vitae: Nicole Paterson-Jones]
 
 * [.separated]#**Final Project**#
+
+
 ++++
 <a href="https://luxtechwriting.com/portfolio/_attachments/test/index.html#/" target="iframe_learning">Online Learning Resource</a>
+
+
 ++++
 
 
