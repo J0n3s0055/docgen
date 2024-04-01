@@ -11,6 +11,7 @@
 * [.separated]#**Final Project**#
 ** https://luxtechwriting.com/portfolio/_attachments/test/index.html[Online Learning Resource]
 
+
 ++++
 <p>
 <a href="https://luxtechwriting.com/portfolio/_attachments/test/index.html" target="iframe_learning">Online Learning Resource </a>
@@ -22,5 +23,8 @@
 
 
 * [.separated]#**Reflective Writing**#
+** https://npj-el6082.blogspot.com/?zx=c5a9b13f07574595[Blog]
+////
 ** xref:portfolio::blog_index.adoc[Reflective Writing Blog]
+////
 
