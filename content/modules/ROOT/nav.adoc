@@ -10,13 +10,13 @@
 
 * [.separated]#**Final Project**#
 ** https://luxtechwriting.com/portfolio/_attachments/test/index.html[Online Learning Resource]
+
 ++++
 <p>
 <a href="https://luxtechwriting.com/portfolio/_attachments/test/index.html" target="iframe_learning">Online Learning Resource </a>
 </p>
 <p><a href="https://www.w3schools.com/tags/tag_article.asp" target="iframe_learning">w3schools</a>
 </p>
-
 ++++
 
 
