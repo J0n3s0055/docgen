@@ -1,0 +1,30 @@
+<article class="doc">
+    {{#with page.title}}
+        <h1 class="page">{{{this}}}</h1>
+    {{/with}}
+    {{{page.contents}}}
+    {{> pagination}}
+    ++++
+    <!-- HTML to embed an iframe -->
+    <div class="iframe_learning">
+        <iframe src="" name="iframe_learning" title="Online Learning Resource "></iframe>
+    </div>
+
+    <!-- CSS to make the iframe responsive -->
+    <style>
+        .iframe-container {
+            overflow: hidden;
+            padding-top: 100%;
+            position: relative;
+        }
+        .iframe-container iframe {
+            border: none;
+            left: 0;
+            position: absolute;
+            top: 0;
+            width: 100%;
+        }
+    </style>
+    ++++
+
+</article>
