@@ -11,9 +11,7 @@
 * [.separated]#**Final Project**#
 ** https://luxtechwriting.com/portfolio/_attachments/test/index.html[Online Learning Resource]
 ++++
-<a href="https://luxtechwriting.com/portfolio/_attachments/test/index.html" target="iframe_learning">Online Learning Resource</a>
-
-
+<a class="nav-link" href="https://luxtechwriting.com/portfolio/_attachments/test/index.html" target="iframe_learning">Online Learning Resource </a>
 ++++
 
 
