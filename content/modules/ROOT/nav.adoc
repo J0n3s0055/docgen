@@ -10,7 +10,7 @@
 
 * [.separated]#**Final Project**#
 ++++
-<a href="https://luxtechwriting.com/portfolio/_attachments/test/index.html" target="iframe_learning">Online Learning Resource</a>
+<a href="https://luxtechwriting.com/portfolio/_attachments/test/index.html#/" target="iframe_learning">Online Learning Resource</a>
 ++++
 
 
