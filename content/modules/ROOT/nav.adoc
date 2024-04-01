@@ -13,6 +13,7 @@
 <a href="https://luxtechwriting.com/portfolio/_attachments/test/index.html" target="iframe_learning">Online Learning Resource</a>
 ++++
 
+
 * [.separated]#**Reflective Writing**#
 ** xref:portfolio::blog_index.adoc[Reflective Writing Blog]
 
