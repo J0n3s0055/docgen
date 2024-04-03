@@ -11,14 +11,9 @@
 * [.separated]#**Final Project**#
 ** https://luxtechwriting.com/portfolio/_attachments/test2/index.html[Online Learning Resource]
 
+** xref:portfolio:attachment$/test2/index.html[test2]
 
-++++
-<p>
-<a href="https://luxtechwriting.com/portfolio/_attachments/test2/index.html" target="iframe_learning">Online Learning Resource </a>
-</p>
-<p><a href="https://www.w3schools.com/tags/tag_article.asp" target="iframe_learning">w3schools</a>
-</p>
-++++
+
 
 
 
