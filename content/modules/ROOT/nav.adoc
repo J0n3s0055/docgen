@@ -9,12 +9,12 @@
 ** xref:portfolio::cv.adoc[Curriculum Vitae: Nicole Paterson-Jones]
 
 * [.separated]#**Final Project**#
-** https://luxtechwriting.com/portfolio/_attachments/test/index.html[Online Learning Resource]
+** https://luxtechwriting.com/portfolio/_attachments/test2/index.html[Online Learning Resource]
 
 
 ++++
 <p>
-<a href="https://luxtechwriting.com/portfolio/_attachments/test/index.html" target="iframe_learning">Online Learning Resource </a>
+<a href="https://luxtechwriting.com/portfolio/_attachments/test2/index.html" target="iframe_learning">Online Learning Resource </a>
 </p>
 <p><a href="https://www.w3schools.com/tags/tag_article.asp" target="iframe_learning">w3schools</a>
 </p>
