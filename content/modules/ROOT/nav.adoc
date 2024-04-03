@@ -11,7 +11,7 @@
 * [.separated]#**Final Project**#
 ** https://luxtechwriting.com/portfolio/_attachments/test2/index.html[Online Learning Resource]
 
-** xref:portfolio:attachment$/test2/index.html[test2]
+** xref:portfolio:attachment$test2/index.html[Online Learning Resource]
 
 
 
