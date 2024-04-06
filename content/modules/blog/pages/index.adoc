@@ -1,0 +1,31 @@
+:doctitle: Reflective Writing Blog
+
+This page introduces some blogs or pieces of Reflective Writing.
+
+== The Blog Topics
+
+Librarians and Information
+
+Creating Technical Documentation Sites with Antora and Asciidoc
+
+Do Technical Communicators need skills in Data Analysis?
+
+Online Learning in Africa: Barriers and Opportunities
+
+AI: html with GitHub Copilot
+
+More on Antora and Asciidoc, completing the toolset
+
+Resetting my perspective on my learning journey
+
+Reflections on the Masters in Technical Communication and eLearning
+
+== Blogs I follow
+
+The blogs I follow tend to be technology related as this is one of my main interests, especially new developments in science, medicine, engineering and computer science:
+
+https://danielmiessler.com/[Unsupervised Learning], a Blog about AI Tools.
+
+https://www.youtube.com/@UndecidedMF/featured[Undecided], A Vlog about green energy.
+
+https://howthelightgetsin.org/festivals[How the light gets in], A yearly festival on new ideas, philosophy and science.

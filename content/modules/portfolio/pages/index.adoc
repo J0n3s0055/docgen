@@ -1,0 +1,23 @@
+:doctitle: Portfolio Assignment EL6052
+
+=== Introduction
+This page introduces the artifacts chosen for Course EL6052, Portfolio.
+
+The artifacts chosen were those that I felt were the most interesting, or provided the most learning. They can be accessed via the links below.
+
+Each page consists of a description and representation of the artifact or a link to it, and a short reflection on the associated development and learning covering:
+
+* Why I chose the artifact
+* Which skills were demonstrated
+* What I learnt from developing, improving, or writing the artifact
+
+=== Artifact Links
+
+xref:art1_redesign_cup_instr.adoc[Instructions Redesign] +
+xref:art2_summary.adoc[Summaries] +
+xref:art3_graphic_redesign.adoc[Graphic Redesign] +
+xref:art4_antora.adoc[Antora and Asciidoc Documentation Site] +
+
+
+
+
