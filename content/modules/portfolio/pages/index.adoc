@@ -1,11 +1,11 @@
 :doctitle: Portfolio Assignment EL6052
 
 === Introduction
-This page introduces the artifacts chosen for Course EL6052, Portfolio.
+This page introduces the artifacts chosen for the Portfolio assignment, course EL6052.
 
 The artifacts chosen were those that I felt were the most interesting, or provided the most learning. They can be accessed via the links below.
 
-Each page consists of a description and representation of the artifact or a link to it, and a short reflection on the associated development and learning covering:
+Each page consists of a description, a representation of the artifact or a link to it, and a short reflection on the associated development and learning covering:
 
 * Why I chose the artifact
 * Which skills were demonstrated

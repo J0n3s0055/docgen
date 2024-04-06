@@ -5,3 +5,6 @@
 == Artifact
 
 == Reflection
+* Why I chose the artifact
+* Which skills were demonstrated
+* What I learnt from developing, improving, or writing the artifact

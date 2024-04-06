@@ -1,7 +1,10 @@
-:doctitle: Artifact 4: TBD
+:doctitle: Artifact 4: An Antora and Asciidoc Documentation Site
 
 == Description
 
 == Artifact
 
 == Reflection
+* Why I chose the artifact
+* Which skills were demonstrated
+* What I learnt from developing, improving, or writing the artifact
