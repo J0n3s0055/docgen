@@ -10,10 +10,13 @@ The task was to redesign an instructions brochure of a commercial product: *The 
 |===
 |Original Brochure |Redesigned Brochure
 
-|image:one-all-before.png[xref:attachment$one-is-all-before.pdf]
+|image:one-all-before.png[xref:.attachment$one-is-all-before.pdf]
 |image:one-all-after.png[xref:attachment$one-is-all-after.pdf]
 
 |===
+
+xref:../attachment$one-is-all-before.pdf[Original Brochure]
+
 Click on the above graphics to view the entire brochures.
 
 == Reflection
