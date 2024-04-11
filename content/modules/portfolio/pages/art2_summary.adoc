@@ -1,4 +1,4 @@
-:doctitle: Despciptive and Informative Summaries
+:doctitle: Descriptive and Informative Summaries
 
 == Description
 
