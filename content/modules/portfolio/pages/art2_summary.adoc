@@ -12,7 +12,7 @@ AUGUST 12, 2021
 
 |===
 |*The Original Article* +
-xref:portfolio:auto_green.pdf[The Auto Industry Is Going Green. Will Workers Go Along for the Ride?] +
+xref:attachment$auto_green.pdf[The Auto Industry Is Going Green. Will Workers Go Along for the Ride?] +
 [3609 words]
 
 |*The Descriptive Summary* +
