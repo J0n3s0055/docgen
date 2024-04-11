@@ -1,10 +1,64 @@
-:doctitle: Artifact 3: Graphic Redesign
+:doctitle: Graphic Critique: The Great Thirst
+
+== Geflogene Entfernungen und Kerosinverbrauch in Europa, 2018 by Marco Evers
+
+*Source:*	Der Spiegel, No. 44, 29 November 2022, P107.
+
+*Audience:*	General Public
+
+
+
+image:graphic_before.png[align="center"]
+
+== Translation
+
+[.Der große Durst]
+|===
+s|German|English
+
+|Der große Durst
+|The big/ great Thirst
+
+|Geflogene Entfernungen und Kerosinverbrauch in Europa, 2018
+|Flight distances and kerosine consumption in Europe, 2018
+
+|Anteil von Flügen nach zurückgelegter Distanz, in Prozent
+|Percentage of total flights by distance category
+
+|Anteil dieser Flüge am Gesamtkerosinverbrauch, in Prozent
+|Percentage of total kerosine consumption per distance category
+
+|===
 
 == Description
+The graphic shows the data in percentage, per distance category, on the number of flights within and from Europe in 2018, and their relative total fuel consumption, indicating which distance category is the biggest polluter.
 
-== Artifact
+=== Analysis UDL
+•	The shades of blue for the two sets of bars showing percentages are very similar so are difficult to distinguish (CAST 2014).
+Graphical Elements:
+•	The graphic has a title and subtitle that relates well to the article.
+•	The added exhaust graphical element interferes with reading the bar charts (chart junk) (Tufte 2001).
+•	The bar charts and their distance categories are “unfriendly” (Tufte 2001): diagonal, not horizontal, and one bar data set is drawn negative although the data values are positive, so the purpose is of the graphic is more difficult to grasp (Markel and Selber 2021).
+•	The bars are of equal width.
+•	The graphic is in a suitable place in the text, easy to find, and is explained in the text (Markel and Selber 2021).
 
-== Reflection
+=== Other Comments
+•	The graphic is immediately recognisable as being flight related.
+•	In a line graph with a Y-axis showing percentage of flights and percentage of fuels consumption per category, and the X-axis: showing distance categories, it would be easier to illustrate the point that the longer the flight, the higher the fuel usage per km, as there is a corresponding increase in plane weight, capacity, and size and therefore fuel usage and pollution.
+(235 words)
+
+
+=== Reflection
+
 * Why I chose the artifact
 * Which skills were demonstrated
 * What I learnt from developing, improving, or writing the artifact
+
+=== Reworked Graphic:
+image:afterdata.png[align="center"]
+
+image:after1.png[align="center"]
+
+image:after2.png[align="center"]
+
+

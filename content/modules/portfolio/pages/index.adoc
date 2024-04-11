@@ -7,13 +7,13 @@ The artifacts chosen were those that I felt were the most interesting, or provid
 
 Each page consists of a description, a representation of the artifact or a link to it, and a short reflection on the associated development and learning covering:
 
-* Why I chose the artifact
+* Why I chose the assigment
 * Which skills were demonstrated
-* What I learnt from developing, improving, or writing the artifact
+* What I learnt from developing, improving, or writing the item
 
 === Artifact Links
 
-xref:art1_redesign_cup_instr.adoc[Instructions Redesign] +
+xref:art1_redesign_cup_instr.adoc[Redesign of Instructions ] +
 xref:art2_summary.adoc[Summaries] +
 xref:art3_graphic_redesign.adoc[Graphic Redesign] +
 xref:art4_antora.adoc[Antora and Asciidoc Documentation Site] +

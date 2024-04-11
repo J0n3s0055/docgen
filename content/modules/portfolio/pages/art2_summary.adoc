@@ -1,10 +1,74 @@
-:doctitle: Artifact 2: Summaries
+:doctitle: Despciptive and Informative Summaries
 
 == Description
 
-== Artifact
+This task was to write both a descriptive summary (50 words), and informative summary (200 words), of the following article:
+
+The Auto Industry Is Going Green. Will Workers Go Along for the Ride?
+BY JUSTIN WORLAND +
+AUGUST 12, 2021
+
+== Summaries: Descriptive and Informative
+
+|===
+|*The Original Article* +
+xref:portfolio:auto_green.pdf[The Auto Industry Is Going Green. Will Workers Go Along for the Ride?] +
+[3609 words]
+
+|*The Descriptive Summary* +
+
+This article reports on the transition from traditional to green in the automotive industry in Ohio. It discusses the political, social, and investment agendas of stakeholders and the regional and global competition and risks. It describes the multi-layered uncertainties limiting the region’s vision of its future identity and security.
+
+[49 words]
+
+|*The Informative Summary* +
+
+The automotive industry in Ohio is attempting to reinvent itself by transitioning to the production of electric vehicles. Many traditional plants closed production in the last ten years with significant job losses and erosion of the region’s industrial identity.
+
+While there is political will at both federal and state level, there remains no clear vision of how the industry or region might look post transition. Stakeholders face fierce competition both locally and globally.
+
+Some companies have already invested in converting their production facilities, and in new allied industries e.g., battery production. Support industries will also change, and different skills will be required in e-vehicle production for which the reskilling of workers has already begun.
+
+E-vehicle production requires fewer workers than traditional, and studies mentioned indicate that green jobs do not always go to the same workers in their original locations globally. Unions see this as an opportunity to create better jobs while some new companies see it as a way of avoiding unionisation. Workers in Ohio will therefore not be guaranteed secure, well-paid jobs.
+
+The status remains volatile and uncertain, waiting for concrete, bipartisan political choices, commitment, funding, and how competition plays out at a local and global level. The transition will not be easy.
+
+[205 words]
+
+|===
 
 == Reflection
-* Why I chose the artifact
-* Which skills were demonstrated
-* What I learnt from developing, improving, or writing the artifact
+=== Why I chose the artifact
+
+I chose this artifact as it was one of the very first assignments I had to do and was a type of task that was quite different to the kind of work I was used to (troubleshooting technology). I was surprised to have enjoyed parring down the content into its essence thoroughly. Before the module, I was unaware that these kinds of summaries existed.
+
+I was satisfied with my work which this was reflected in the positive feedback I received. It confirmed that the career direction I was changing to was right for me.
+
+=== Which skills were demonstrated
+
+The skills demonstrated were
+
+* Understanding the purposes of the two different types of summary and applying the respective styles effectively.
+
+* Condensing the information into much fewer words without losing the message of the article.
+
+=== What I learnt from developing, improving, or writing the artifact
+
+I learnt about these types of summary, their purposes, who the respective audiences might be,  and how to write them. I also learnt about the process of extracting the relevant facts from the original article and reassembling them into the two condensed formats and that the process is iterative.
+
+=== Feedback:
+Excellent work Nicole on both summaries.
+
+Submitted in the correct format.
+
+Source included.
+
+Word count correct.
+
+Appropriate writing style used.
+
+Descriptive summary is a good overview of the original.
+
+Informative summary is a condensed version of the original and includes the essential message. Consider the order of your paragraphs - reduce to three, national position and Biden Administration position to start, then the local example of Mahoning Valley and conclude. Also consider including percentages where appropriate. All would improve flow and readability.
+
+Well done.

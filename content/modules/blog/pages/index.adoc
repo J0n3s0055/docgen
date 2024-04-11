@@ -12,7 +12,7 @@ Do Technical Communicators need skills in Data Analysis?
 
 Online Learning in Africa: Barriers and Opportunities
 
-AI: html with GitHub Copilot
+AI: GitHub Copilot
 
 More on Antora and Asciidoc, completing the toolset
 

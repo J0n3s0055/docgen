@@ -1,8 +1,20 @@
 :doctitle: Artifact 1: Instructions
 
-== Description
+== Instructions Redesign: One is all Thermal Cup
 
-== Artifact
+=== Description
+
+The task was to redesign an instructions brochure of a commercial product: *The One for All Thermal Cup*
+
+
+|===
+|Original Brochure |Redesigned Brochure
+
+|image:one-all-before.png[xref:attachment$one-is-all-before.pdf]
+|image:one-all-after.png[xref:attachment$one-is-all-after.pdf]
+
+|===
+Click on the above graphics to view the entire brochures.
 
 == Reflection
 * Why I chose the artifact

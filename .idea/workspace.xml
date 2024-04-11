@@ -4,17 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="deleted supplemental.ui files">
-      <change afterPath="$PROJECT_DIR$/content/modules/ROOT/pages/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="redesigned site">
+      <change afterPath="$PROJECT_DIR$/content/modules/portfolio/images/After1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/modules/portfolio/images/After2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/modules/portfolio/images/Afterdata.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/modules/portfolio/images/graphic_before.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/modules/portfolio/pages/artifact_assignment.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/modules/portfolio/pages/auto_green.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/supplemental-ui/partials/header-scripts.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/supplemental-ui/partials/header.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/modules/blog/pages/index.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/blog/pages/index.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/modules/portfolio/pages/art1_redesign_cup_instr.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/portfolio/pages/art1_redesign_cup_instr.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/modules/portfolio/pages/art2_summary.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/portfolio/pages/art2_summary.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/modules/portfolio/pages/art3_graphic_redesign.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/portfolio/pages/art3_graphic_redesign.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/modules/portfolio/pages/index.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/portfolio/pages/index.adoc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Empty" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -33,22 +47,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;C:\\Users\\j0n3s\\code\\LuxTechWriting\\docgen\\antora-ui-default\\node_modules\\stylelint&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultPlantUmlFileTemplate": "Empty",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/j0n3s/code/LuxTechWriting/docgen/content/modules/portfolio/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "C:\\Users\\j0n3s\\code\\LuxTechWriting\\docgen\\antora-ui-default\\node_modules\\stylelint",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio\images" />
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\blog" />
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\cv" />
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio\images" />
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio\pages" />
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\blog\pages" />
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\CV\pages" />
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\ROOT" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -76,154 +107,10 @@
       <workItem from="1710078650699" duration="8907000" />
       <workItem from="1710266390066" duration="14136000" />
       <workItem from="1710489272094" duration="7175000" />
-      <workItem from="1711195748733" duration="670000" />
-    </task>
-    <task id="LOCAL-00031" summary="removed eu content in footer">
-      <created>1710082964626</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1710082964626</updated>
-    </task>
-    <task id="LOCAL-00032" summary="removed eu content in footer">
-      <created>1710083207466</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1710083207466</updated>
-    </task>
-    <task id="LOCAL-00033" summary="removed eu content in footer">
-      <created>1710084828852</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1710084828852</updated>
-    </task>
-    <task id="LOCAL-00034" summary="removed eu content in footer">
-      <created>1710085192458</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1710085192458</updated>
-    </task>
-    <task id="LOCAL-00035" summary="removed eu content in footer">
-      <created>1710085532326</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1710085532326</updated>
-    </task>
-    <task id="LOCAL-00036" summary="changed header background colour #8fd3fe">
-      <created>1710086076278</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1710086076278</updated>
-    </task>
-    <task id="LOCAL-00037" summary="changed header background colour #8fd3fe">
-      <created>1710086327289</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1710086327289</updated>
-    </task>
-    <task id="LOCAL-00038" summary="changed header background colour #8fd3fe">
-      <created>1710086501583</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1710086501583</updated>
-    </task>
-    <task id="LOCAL-00039" summary="changed header background colour #8fd3fe">
-      <created>1710086823258</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1710086823258</updated>
-    </task>
-    <task id="LOCAL-00040" summary="changed header background colour #8fd3fe">
-      <created>1710087148997</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1710087148997</updated>
-    </task>
-    <task id="LOCAL-00041" summary="changed header background colour #8fd3fe">
-      <created>1710173090128</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1710173090128</updated>
-    </task>
-    <task id="LOCAL-00042" summary="changed header background colour #8fd3fe">
-      <created>1710265808302</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1710265808302</updated>
-    </task>
-    <task id="LOCAL-00043" summary="changed header background colour #8fd3fe">
-      <created>1710271300081</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1710271300081</updated>
-    </task>
-    <task id="LOCAL-00044" summary="changed header background colour #8fd3fe">
-      <created>1710271450099</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1710271450100</updated>
-    </task>
-    <task id="LOCAL-00045" summary="changed header background colour #8fd3fe">
-      <created>1710272146875</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1710272146875</updated>
-    </task>
-    <task id="LOCAL-00046" summary="changed header background colour #8fd3fe">
-      <created>1710272600748</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1710272600748</updated>
-    </task>
-    <task id="LOCAL-00047" summary="changed header background colour #8fd3fe">
-      <created>1710272894693</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1710272894693</updated>
-    </task>
-    <task id="LOCAL-00048" summary="changed header background colour #8fd3fe">
-      <created>1710273240366</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1710273240366</updated>
-    </task>
-    <task id="LOCAL-00049" summary="changed header background colour #8fd3fe">
-      <created>1710274111249</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1710274111249</updated>
-    </task>
-    <task id="LOCAL-00050" summary="changed header background colour #8fd3fe">
-      <created>1710274234521</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1710274234522</updated>
-    </task>
-    <task id="LOCAL-00051" summary="changed header background colour #8fd3fe">
-      <created>1710274479220</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1710274479220</updated>
+      <workItem from="1711195748733" duration="4127000" />
+      <workItem from="1711274657108" duration="10445000" />
+      <workItem from="1712160290592" duration="10408000" />
+      <workItem from="1712483642499" duration="9611000" />
     </task>
     <task id="LOCAL-00052" summary="changed header background colour #8fd3fe">
       <created>1710274675540</created>
@@ -421,7 +308,154 @@
       <option name="project" value="LOCAL" />
       <updated>1710687658124</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="deleted supplemental.ui files">
+      <created>1711198900959</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1711198900960</updated>
+    </task>
+    <task id="LOCAL-00081" summary="added robots.txt">
+      <created>1711204604953</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1711204604953</updated>
+    </task>
+    <task id="LOCAL-00082" summary="added robots.txt key">
+      <created>1711204867040</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1711204867040</updated>
+    </task>
+    <task id="LOCAL-00083" summary="updated nav">
+      <created>1711205873724</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1711205873724</updated>
+    </task>
+    <task id="LOCAL-00084" summary="updated nav">
+      <created>1711206085510</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1711206085510</updated>
+    </task>
+    <task id="LOCAL-00085" summary="testing iframe">
+      <created>1711983770073</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1711983770074</updated>
+    </task>
+    <task id="LOCAL-00086" summary="testing iframe">
+      <created>1711984613326</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1711984613326</updated>
+    </task>
+    <task id="LOCAL-00087" summary="testing iframe">
+      <created>1711984991864</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1711984991864</updated>
+    </task>
+    <task id="LOCAL-00088" summary="testing iframe">
+      <created>1711987002962</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1711987002962</updated>
+    </task>
+    <task id="LOCAL-00089" summary="testing iframe">
+      <created>1711987609002</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1711987609002</updated>
+    </task>
+    <task id="LOCAL-00090" summary="testing iframe">
+      <created>1711988118662</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1711988118662</updated>
+    </task>
+    <task id="LOCAL-00091" summary="testing iframe">
+      <created>1711988630022</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1711988630022</updated>
+    </task>
+    <task id="LOCAL-00092" summary="testing iframe">
+      <created>1711989125124</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1711989125124</updated>
+    </task>
+    <task id="LOCAL-00093" summary="testing iframe">
+      <created>1711990241199</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1711990241199</updated>
+    </task>
+    <task id="LOCAL-00094" summary="testing iframe">
+      <created>1711990608392</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1711990608392</updated>
+    </task>
+    <task id="LOCAL-00095" summary="testing iframe">
+      <created>1712160817922</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1712160817923</updated>
+    </task>
+    <task id="LOCAL-00096" summary="testing iframe">
+      <created>1712162611751</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1712162611751</updated>
+    </task>
+    <task id="LOCAL-00097" summary="removed iframe">
+      <created>1712166922958</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1712166922958</updated>
+    </task>
+    <task id="LOCAL-00098" summary="removed iframe">
+      <created>1712167692911</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1712167692911</updated>
+    </task>
+    <task id="LOCAL-00099" summary="redesigned site">
+      <created>1712407912767</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1712407912767</updated>
+    </task>
+    <task id="LOCAL-00100" summary="redesigned site">
+      <created>1712408981580</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1712408981580</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,6 +484,12 @@
     <MESSAGE value="removed eu content in footer" />
     <MESSAGE value="changed header background colour #8fd3fe" />
     <MESSAGE value="deleted supplemental.ui files" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted supplemental.ui files" />
+    <MESSAGE value="added robots.txt" />
+    <MESSAGE value="added robots.txt key" />
+    <MESSAGE value="updated nav" />
+    <MESSAGE value="testing iframe" />
+    <MESSAGE value="removed iframe" />
+    <MESSAGE value="redesigned site" />
+    <option name="LAST_COMMIT_MESSAGE" value="redesigned site" />
   </component>
 </project>
