@@ -8,16 +8,15 @@ The task was to redesign an instructions brochure of a commercial product: *The 
 
 
 |===
-|Original Brochure |Redesigned Brochure
+|xref:attachment$one-is-all-before.pdf[Original Brochure] |xref:attachment$one-is-all-after.pdf[Redesigned Brochure]
 
 a|image:one-all-before.png[xref:attachment$one-is-all-before.pdf]
 a|image:one-all-after.png[xref:attachment$one-is-all-after.pdf]
 
 |===
 
-xref:attachment$one-is-all-before.pdf[Original Brochure]
 
-Click on the above graphics to view the entire brochures.
+Click on the links above the graphics to view the full brochures.
 
 == Reflection
 * Why I chose the artifact
