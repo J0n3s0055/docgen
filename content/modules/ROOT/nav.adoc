@@ -11,7 +11,7 @@
 ** xref:cv:index.adoc[Curriculum Vitae: Nicole Paterson-Jones]
 
 * [.separated]#**test_slide1**#
-** xref:home:portfolio:attachment$Slide1/index.html[test]
+** xref:home:portfolio:attachment$Lesson1/index.html[Lesson1]
 ////
 * [.separated]#**EL6082 Reflective Writing Blog Assignment**#
 ** xref:blog:index.adoc[Reflective Writing Blog]
