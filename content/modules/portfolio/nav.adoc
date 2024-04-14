@@ -10,6 +10,8 @@
 * [.separated]#**Curriculum Vitae**#
 ** xref:cv:index.adoc[Curriculum Vitae: Nicole Paterson-Jones]
 
+////
 * [.separated]#**EL6082 Reflective Writing Blog Assignment**#
 ** xref:blog:index.adoc[Reflective Writing Blog]
+////
 

@@ -8,7 +8,9 @@ Use the links in the left-hand menu or below to view some of my project work, my
 This page introduces 4 chosen portfolio examples, 3 of which were completed during the MA in Technical Communication and E-Learning at the University of Limerick, 2023 - 2024. The fourth example is a work project.
 
 == xref:cv:index.adoc[Curriculum Vitae - Nicole Paterson-Jones] +
-This page presents my CV.
+This page contains my CV.
 
+////
 == xref:blog:index.adoc[Blog assignment EL6082] +
 This page lists the eight blog posts, reflective writing on topics of interest, and links to blogs I follow. This is an assignment completed during the EL6082 module of the MA in Technical Communication and E-Learning at the University of Limerick, 2023 - 2024.
+////

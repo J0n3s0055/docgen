@@ -10,7 +10,7 @@
 
 image:graphic_before.png[align="center"]
 
-== Translation
+=== Translation
 
 [.Der große Durst]
 |===
@@ -30,34 +30,36 @@ s|German|English
 
 |===
 
-== Description
-The graphic shows the data in percentage, per distance category, on the number of flights within and from Europe in 2018, and their relative total fuel consumption, indicating which distance category is the biggest polluter.
+=== Description
+The graphic accompanies an article that challenges the popular/ political belief that short flights within Europe produce the majority of flight related pollution. As a result of this belief, several countries are introducing more trains, and night trains, between cities or banning flights shorter than a certain distance in favour of train trips. The graphic shows the data in percentage, per distance category, on the number of flights within and from Europe in 2018, and their relative total fuel consumption, indicating which distance category is the biggest polluter.
 
-=== Analysis UDL
-•	The shades of blue for the two sets of bars showing percentages are very similar so are difficult to distinguish (CAST 2014).
-Graphical Elements:
-•	The graphic has a title and subtitle that relates well to the article.
-•	The added exhaust graphical element interferes with reading the bar charts (chart junk) (Tufte 2001).
-•	The bar charts and their distance categories are “unfriendly” (Tufte 2001): diagonal, not horizontal, and one bar data set is drawn negative although the data values are positive, so the purpose is of the graphic is more difficult to grasp (Markel and Selber 2021).
-•	The bars are of equal width.
-•	The graphic is in a suitable place in the text, easy to find, and is explained in the text (Markel and Selber 2021).
+== Reflection
 
-=== Other Comments
-•	The graphic is immediately recognisable as being flight related.
-•	In a line graph with a Y-axis showing percentage of flights and percentage of fuels consumption per category, and the X-axis: showing distance categories, it would be easier to illustrate the point that the longer the flight, the higher the fuel usage per km, as there is a corresponding increase in plane weight, capacity, and size and therefore fuel usage and pollution.
-(235 words)
+=== Why I chose the Graphic
+
+This was an interesting graphic to assess as firstly, it contained some truth, but I felt that how it displayed the information detracted from the truth or full impact of the message. Secondly, I could see that there was several problems with it with regard to Universal Design for learning (UDL), chart junk, and being "unfriendly". Thirdly, it has some positive aspects. The way the data was represented supported the challenge to the popular belief that short flights are the biggest polluters, but it could have done so more effectively.
+
+=== Which Skills were Demonstrated
+
+The skills demonstrated were applying the learning on effective graphic design in analysing the graphic for its positive and negative aspects, systematically noting these and suggesting improvements. The graphic is from a popular but serious political magazine and could have shown the data more clearly and accurately, without upsetting their readers.
+The data was extracted from the original chart and the chart recreated using Excel. A second chart was also created which shows the comparison of fuel consumption per flight distance much clearer.
+
+=== What I learnt from developing, improving, or writing the graphic
+
+The first thing I learnt from the assignment is to examine the data. Graphical representations are easier to look at and are therefore easier to misuse to distort the message. I wasn't sure whether this was the case until I looked at the data. It confirmed the message.The second thing I learnt is how a graphic can be improved by following the guidelines of e.g., Universal Design for Learning (UDL) and Tufte, and that these guidelines are time independent and apply to every era.
+Two areas in which I could improve on in the future are graphic design and data analysis: although my charts were clearer, I am not a graphic designer. Nor am I a data analyst, so I could do with both being able to manipulate more complex data and be able to present it is a more visually appealing way.
 
 
-=== Reflection
+== Reworked Graphic
 
-* Why I chose the artifact
-* Which skills were demonstrated
-* What I learnt from developing, improving, or writing the artifact
-
-=== Reworked Graphic:
+=== The Data: Flight Distances and Kerosine Consumption in Europe, 2018
 image:afterdata.png[align="center"]
 
+=== % Total Flights and % Kerosine Consumption by flight distance in Europe, 2018
+
 image:after1.png[align="center"]
+
+=== Relative Fuel Consumption per km by Flight Distance
 
 image:after2.png[align="center"]
 

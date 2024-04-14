@@ -1,4 +1,4 @@
-:doctitle: Artifact 1: Instructions
+:doctitle: Instructions
 
 == Instructions Redesign: One is all Thermal Cup
 
@@ -16,9 +16,39 @@ a|image:one-all-after.png[xref:attachment$one-is-all-after.pdf]
 |===
 
 
-Click on the links above the graphics to view the full brochures.
+Click on the title links above the graphics to view the full brochures.
 
 == Reflection
-* Why I chose the artifact
-* Which skills were demonstrated
-* What I learnt from developing, improving, or writing the artifact
+
+=== Why I chose the instructions brochure
+
+This assignment was the kind of task that I particularly enjoy doing as I like clarifying information and making it easier to read and understand by the consumer.
+
+=== Which skills were demonstrated
+
+The skills demonstrated were:
+
+Improving the language to first language speaker standard.
+
+Restructuring the information in a logical flow, and distinct sections, in compliance with safety standards i.e., including the necessary warnings and cautions, troubleshooting help, contact information, etc.
+
+Finding and adding missing information and graphics
+
+Creating a more visually appealing layout
+
+Adding a table of contents and an index
+
+Adding a glossary
+
+Adding a QR code for easy access to the website
+
+Adding a feedback form
+
+#Adding a section for the user to write notes
+Adding a section for the user to write the date of purchase and the warranty period#
+
+#check the task refs#
+
+=== What I learnt from developing, improving, or writing the instructions brochure
+#Attention to detail, and the importance of clear and concise language, and the need to make the information easy to find and understand.#
+
