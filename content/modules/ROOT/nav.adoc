@@ -1,3 +1,5 @@
+xref:portfolio:attachment$ana/index.html[Antora and Asciidoc Training]
+////
 * xref:home::index.adoc[Home]
 
 * [.separated]#**EL6052 Portfolio Assignment**#
@@ -12,7 +14,7 @@
 
 * [.separated]#**test_slide1**#
 ** xref:home:portfolio:attachment$Lesson1/index.html[Lesson1]
-////
+
 * [.separated]#**EL6082 Reflective Writing Blog Assignment**#
 ** xref:blog:index.adoc[Reflective Writing Blog]
 ////
