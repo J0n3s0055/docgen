@@ -1,5 +1,7 @@
-* xref:home::index.adoc[Home]
+xref:attachment$/ana/index.html[Antora and Asciidoc Training]
 
+////
+* xref:home::index.adoc[Home]
 * [.separated]#**EL6052 Portfolio Assignment**#
 ** xref:portfolio:index.adoc[Portfolio Introduction]
 ** xref:portfolio:art1_redesign_cup_instr.adoc[Instructions Redesign]
@@ -10,7 +12,7 @@
 * [.separated]#**Curriculum Vitae**#
 ** xref:cv:index.adoc[Curriculum Vitae: Nicole Paterson-Jones]
 
-////
+
 * [.separated]#**EL6082 Reflective Writing Blog Assignment**#
 ** xref:blog:index.adoc[Reflective Writing Blog]
 ////
