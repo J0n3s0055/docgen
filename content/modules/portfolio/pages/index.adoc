@@ -11,12 +11,12 @@ Each page consists of a description, a representation of the assignments or a li
 * Which skills were demonstrated doing the assignment.
 * What I learnt from developing, improving, or writing the item assignment.
 
-== Artifact Links
+== Assignment Links
 
 xref:art1_redesign_cup_instr.adoc[Redesign of Instructions ] +
 xref:art2_summary.adoc[Descriptive and Informative Summaries] +
 xref:art3_graphic_redesign.adoc[Graphic Redesign] +
-xref:art4_antora.adoc[Antora and Asciidoc Documentation Site] +
+xref:art4_podcast.adoc[Podcast] +
 
 
 

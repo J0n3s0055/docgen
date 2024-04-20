@@ -1,5 +1,5 @@
-xref:portfolio:attachment$ana/index.html[Antora and Asciidoc Training]
-////
+xref:portfolio:attachment$ana/index.html[Portfolio Assignment EL6052 - April 2024]
+
 * xref:home::index.adoc[Home]
 
 * [.separated]#**EL6052 Portfolio Assignment**#
@@ -7,11 +7,12 @@ xref:portfolio:attachment$ana/index.html[Antora and Asciidoc Training]
 ** xref:portfolio:art1_redesign_cup_instr.adoc[Instructions Redesign]
 ** xref:portfolio:art2_summary.adoc[Summaries]
 ** xref:portfolio:art3_graphic_redesign.adoc[Graphic Redesign]
-** xref:portfolio:art4_antora.adoc[Antora and Asciidoc Documentation Site]
+** xref:portfolio:art4_podcast.adoc[Antora and Asciidoc Documentation Site]
 
 * [.separated]#**Curriculum Vitae**#
 ** xref:cv:index.adoc[Curriculum Vitae: Nicole Paterson-Jones]
 
+////
 * [.separated]#**test_slide1**#
 ** xref:home:portfolio:attachment$Lesson1/index.html[Lesson1]
 

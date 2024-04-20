@@ -1,0 +1,53 @@
+:doctitle: Reflective Writing
+
+== Description
+
+The Podcast assignment was to create a podcast on a topic of choice, develop a script with a musical introduction and ending, and then record it. The deliverables were the script and the audio recording.
+
+== Brief
+Develop a professional instructional podcast that achieves specific learning outcomes and meets the needs of a particular audience, while also adhering to principles of universal design for learning (UDL) . Write a script and record and edit audio files using industry-standard software.
+
+
+== Topic Chosen
+
+The topic I chose was
+
+==== How to Choose the Perfect Tree for your Space, a Guide for Home Owners and Managers of Community Outdoor Spaces
+
+
+|===
+|Script |Recording
+
+|xref:attachment$Nicole_Paterson-Jones_EL6041_Final.pdf[How to Choose the Perfect Tree for your Space]
+|xref:attachment$Nicole_Paterson-Jones_EL6041_Final.mp3[How to Choose the Perfect Tree for your Space]
+|===
+
+== Reflection
+
+=== Why I chose the Reflective Writing assignment
+This assignment was one that I found difficult initially. The reasons for this were
+
+* I am not a natural teacher or someone who likes speaking in public.
+* I didn't have a quiet place to record in.
+* I did not have any recording equipment and could not afford to buy or rent any.
+
+I chose this podcast because it forced me to  get out of my comfort zone. I had to come up with a strategy for getting the assignment done while dealing with the logistical difficulties and overcoming my discomfort.
+
+=== Which skills were demonstrated
+The skills demonstrated were:
+
+* Researching: the subject matter, and suitable (free) tools for recording
+* Script writing
+* Developing learning outcomes
+* Recording and editing audio
+* Speaking clearly and confidently
+
+=== What I Learnt
+* How to approach the task: I developed a way of approaching a task like this by starting with the things I could do and prepare before I had to start recording, which made the process less intimidating. Once these were done, what was left seemed less daunting.
+* Time management: It is hard to judge how long the recording and editing will take and so starting early is essential.
+* Applying the theory: I learnt about Blooms Taxonomy for measurable verbs and applied this in the learning outcomes, and Gagne's Nine Events of Instruction in the script, as best fitting a podcast e.g., one can elicit performance but not always give feedback on it.
+Recording and editing audio: I learnt how to use the audacity application.
+* Applying design principles: I tried to apply the principles of UDL in project, e.g., by using a friendly or conversational tone. If this had been a real podcast with somewhere to provide extra materials, I would have provided a transcript.
+
+
+
