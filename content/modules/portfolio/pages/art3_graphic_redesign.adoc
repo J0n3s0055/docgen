@@ -1,6 +1,12 @@
 :doctitle: Graphic Critique: The Great Thirst
 
-== Geflogene Entfernungen und Kerosinverbrauch in Europa, 2018 by Marco Evers
+== Brief
+
+Critique THREE visuals and redesign ONE of these visuals, providing a rationale for the changes.
+
+== Original Graphic
+
+==== Geflogene Entfernungen und Kerosinverbrauch in Europa, 2018 by Marco Evers
 
 *Source:*	Der Spiegel, No. 44, 29 November 2022, P107.
 
@@ -30,7 +36,7 @@ s|German|English
 
 |===
 
-=== Description
+
 The graphic accompanies an article that challenges the popular/ political belief that short flights within Europe produce the majority of flight related pollution. As a result of this belief, several countries are introducing more trains, and night trains, between cities or banning flights shorter than a certain distance in favour of train trips. The graphic shows the data in percentage, per distance category, on the number of flights within and from Europe in 2018, and their relative total fuel consumption, indicating which distance category is the biggest polluter.
 
 == Reflection
@@ -44,7 +50,7 @@ This was an interesting graphic to assess as firstly, it contained some truth, b
 The skills demonstrated were applying the learning on effective graphic design in analysing the graphic for its positive and negative aspects, systematically noting these and suggesting improvements. The graphic is from a popular but serious political magazine and could have shown the data more clearly and accurately, without upsetting their readers.
 I extracted data from the original chart and recreated the chart using Excel. I  also created second chart which shows the comparison of fuel consumption per flight distance much clearer.
 
-=== What I learnt from developing, improving, or writing the graphic
+=== What I learnt from analysing and improving the graphic
 
 The first thing I learnt from the assignment was to start with the data. Graphical representations are easier to look at and are therefore easier to misuse to distort the message. I wasn't sure whether this was the case until I looked at the data. It confirmed the message.
 

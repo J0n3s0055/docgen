@@ -1,14 +1,15 @@
 :doctitle: Descriptive and Informative Summaries
 
-== Description
+== Brief
 
-This task was to write both a descriptive summary (50 words), and informative summary (200 words), of the following article:
+This assignment was to write both a descriptive summary (50 words), and informative summary (200 words), of the following article:
 
 The Auto Industry Is Going Green. Will Workers Go Along for the Ride?
 BY JUSTIN WORLAND +
 AUGUST 12, 2021
 
-== Summaries: Descriptive and Informative
+== Deliverables
+==== Summaries: Descriptive and Informative
 
 |===
 |*The Original Article* +
@@ -38,7 +39,7 @@ The status remains volatile and uncertain, waiting for concrete, bipartisan poli
 |===
 
 == Reflection
-=== Why I chose the summaries
+=== Why I chose the Summaries assignment
 
 I chose this assignment as it was one of the very first assignments I had to do and was a type of task that was quite different to the kind of work I was used to (troubleshooting technology). I was surprised to have enjoyed, thoroughly, parring down the content into its essence. Before the module, I was unaware that these kinds of summaries existed.
 
@@ -52,7 +53,7 @@ The skills demonstrated were
 
 * Condensing the information into much fewer words without losing the message of the article.
 
-=== What I learnt from developing, improving, or writing the summaries
+=== What I learnt from writing the summaries
 
 I learnt about these types of summary, their purposes, who the respective audiences might be, and how to write them. I also learnt about the process of extracting the relevant facts from the original article and reassembling them into the two condensed formats. I learnt how iterative the writing process is in general.
 
