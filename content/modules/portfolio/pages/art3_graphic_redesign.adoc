@@ -54,9 +54,9 @@ I extracted data from the original chart and recreated the chart using Excel. I 
 
 The first thing I learnt from the assignment was to start with the data. Graphical representations are easier to look at and are therefore easier to misuse to distort the message. I wasn't sure whether this was the case until I looked at the data. It confirmed the message.
 
-The second thing I learnt is how a graphic can be improved by following the guidelines of e.g., Universal Design for Learning (UDL) and Tufte #year#, and that these guidelines are time independent and apply to every era.
+The second thing I learnt is how a graphic can be improved by following the guidelines of e.g., Universal Design for Learning (UDL) and Tufte #year#, and that these guidelines are still relevant despite being #xxx# years old.
 
-Finally, I learnt that there are two areas in which I could improve on in the future: graphic design and data analysis. Although my charts were clearer, I am not a graphic designer. Nor am I a data analyst, so I could do with both being able to manipulate more complex data and be able to present it in a more visually appealing way.
+Finally, I learnt that there are two areas in which I could improve on in the future that I believe would make me a better technical writer, graphic design and data analysis. Although my redesigned charts were clearer, I am not a graphic designer. Nor am I a data analyst, so I could do with both being able to manipulate more complex data, and being able to present it in a more visually appealing way.
 
 
 == Reworked Graphic

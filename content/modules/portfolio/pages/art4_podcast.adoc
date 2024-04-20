@@ -14,7 +14,7 @@ Develop a professional instructional podcast that achieves specific learning out
 
 
 |===
-|Script |Recording
+|Script |The Podcast Recording
 
 |xref:attachment$Nicole_Paterson-Jones_EL6041_Final.pdf[How to Choose the Perfect Tree for your Space]
 |xref:attachment$Nicole_Paterson-Jones_EL6041_Final.mp3[How to Choose the Perfect Tree for your Space]
@@ -56,11 +56,11 @@ I learnt about Blooms Taxonomy for measurable verbs and applied this in the lear
 
 ==== Recording and editing audio
 
-I learnt how to use Audacity.
+I learnt how to use Audacity. #how#
 
 ==== Applying design principles
 
-I tried to apply the #principles of UDL# in project:
+I applied the #principles of UDL# in project:
 
 * Define flexible goals for the lesson:
 
