@@ -1,8 +1,6 @@
 :doctitle: Instructions
 
-== Instructions Redesign: One is all Thermal Cup
-
-=== Brief
+==  Brief
 
 The task was to redesign an instructions brochure of a commercial product: *The One for All Thermal Cup*
 
