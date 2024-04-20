@@ -1,9 +1,9 @@
-xref:attachment$/ana/index.html[Antora and Asciidoc Training]
 
 
 * xref:home::index.adoc[Home]
+
 * [.separated]#**EL6052 Portfolio Assignment**#
-** xref:portfolio:index.adoc[Portfolio Introduction]
+** xref:portfolio:index.adoc[Introduction]
 ** xref:portfolio:art1_redesign_cup_instr.adoc[Instructions Redesign]
 ** xref:portfolio:art2_summary.adoc[Summaries]
 ** xref:portfolio:art3_graphic_redesign.adoc[Graphic Redesign]
