@@ -2,7 +2,7 @@
 
 Welcome to the portfolio site of Nicole Paterson-Jones. I am a Technical Writer and eLearning Developer based in the Luxembourg and Northern France (Grande Est) area.
 
-Use the links in the left-hand menu or below to view  my Portfolio and CV.
+Use the links in the left-hand menu or below to view  my Portfolio and CV. The current page menu is located on the right-hand side of the page.
 
 == xref:portfolio:index.adoc[Portfolio assignment EL6052] +
 This page introduces 4 chosen portfolio examples completed during the MA in Technical Communication and E-Learning at the University of Limerick, 2022 - 2024.
@@ -10,5 +10,3 @@ This page introduces 4 chosen portfolio examples completed during the MA in Tech
 == xref:cv:index.adoc[Curriculum Vitae - Nicole Paterson-Jones] +
 This page links to my skills based CV in PDF format. Access is restricted to the two lecturers of the EL6052 module at the University of Limerick, 2022 - 2024.
 
-''''
-The site menu is located on the left-hand side of the page. The current page menu is located on the right-hand side of the page.
