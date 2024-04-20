@@ -5,18 +5,21 @@ This page introduces the assignments chosen for the Portfolio assignment, course
 
 The assignments chosen were those that I felt were the most interesting, or provided the most learning. They can be accessed via the links below.
 
+== Assignment Links
+
+xref:art1_redesign_cup_instr.adoc[Instructions ] +
+xref:art2_summary.adoc[Descriptive and Informative Summaries] +
+xref:art3_graphic_redesign.adoc[Graphic Redesign] +
+xref:art4_podcast.adoc[Podcast] +
+
+
 Each page consists of a description, a representation of the assignments or a link to it, and a short reflection on the associated development and learning covering:
 
 * Why I chose the assignment for this portfolio.
 * Which skills were demonstrated doing the assignment.
 * What I learnt from developing, improving, or writing the item assignment.
 
-== Assignment Links
 
-xref:art1_redesign_cup_instr.adoc[Redesign of Instructions ] +
-xref:art2_summary.adoc[Descriptive and Informative Summaries] +
-xref:art3_graphic_redesign.adoc[Graphic Redesign] +
-xref:art4_podcast.adoc[Podcast] +
 
 
 
