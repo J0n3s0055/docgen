@@ -13,7 +13,7 @@ xref:art3_graphic_redesign.adoc[Graphic Redesign] +
 xref:art4_podcast.adoc[Podcast] +
 
 
-Each page consists of a description, a representation of the assignments or a link to it, and a short reflection on the associated development and learning covering:
+Each page consists of a description, a representation of the assignment or a link to it, and a short reflection on the associated development and learning covering:
 
 * Why I chose the assignment for this portfolio.
 * Which skills were demonstrated doing the assignment.
