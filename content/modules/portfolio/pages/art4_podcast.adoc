@@ -52,29 +52,43 @@ It is hard to judge how long the recording and editing will take and so starting
 
 ==== Applying the theory
 
-I learnt about Blooms Taxonomy for measurable verbs and applied this in the learning outcomes, and Gagne's Nine Events of Instruction, as best fitting a podcast e.g., one can elicit performance but not always give feedback on it.
+I learnt about Blooms Taxonomy for measurable verbs and applied this in the learning outcomes, and Gagne's Nine Events of Instruction, as best fitting a podcast e.g., one can elicit performance but not always give feedback on it:
+
+* Gain Attention (musical intro)
+* Inform learners of Learning outcomes
+* Relate this lesson to previous lessons
+* Present new content
+* Provide learning guidance
+* Elicit performance
+* Provide feedback (limited possibility due to asynchronous consumption, and nature of podcast)
+* Assess performance
+* Enhance retention and transfer
+
 
 ==== Recording and editing audio
 
-I learnt how to use Audacity. #how#
+I learnt how to use Audacity to edit the audio recordings.
 
 ==== Applying design principles
 
-I applied the #principles of UDL# in project:
+I applied the three principles of UDL (CAST, 2020): in project as far as possible given the medium:
 
-* Define flexible goals for the lesson:
+* *Recruiting Interest:* The podcast supported individual choice, autonomy and value.
 
-* Consider learner variability:
+* *Perception:* visual and audio versions of the podcast were available.
+* *Physical action and Expression and Communication:* actions were guided by both versions of the podcast. Other tools were flexible and fully the choice of the consumer.
+* *Self Regulation:* consumers were encouraged to analyse their scenario and reflect on their solution.
+* *Comprehension:* comprehensive background knowledge was supplied.
+* *Executive functions:* appropriate goal setting was encouraged, and planning and strategy development was supported.
+* *Sustaining Effort and Persistence:* the podcast was designed to be engaging and interesting.
 
-* Determine appropriate assessments:
+=== References:
 
-* Select methods, materials, and media:
+Bloom
 
-* Teach and assess learning:
+Gagne
 
-#add examples#
-
-#add refs#
+https://udlguidelines.cast.org/ Universal Design for Learning Guidelines
 
 
 

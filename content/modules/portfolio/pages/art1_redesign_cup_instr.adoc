@@ -27,41 +27,56 @@ This assignment was the kind of task that I particularly enjoy doing as I like c
 
 The skills demonstrated were:
 
-Improving the language to first language speaker standard.
+Analysing the graphic according to  Markel & Selber's six characteristics of good technical communication (Markel & Selber, 2021):
 
-Restructuring the information in a logical flow, and distinct sections, in compliance with safety standards i.e., including the necessary warnings and cautions, troubleshooting help, contact information, etc.
+* Addresses particular readers
 
-Finding and adding missing information and graphics
+* Helps readers solve problems
 
-Creating a more visually appealing layout
+* Is produced collaboratively
+* Reflects an organization’s goals and culture
+* Uses design to increase readability, and
 
-Adding a table of contents and an index
+* Consists of words or graphics or both.
 
-Adding a glossary
+The improvements included:
 
-Adding a QR code for easy access to the website
+* Improving the language to first language speaker standard.
 
-Adding a feedback form
+* Restructuring the information in a logical flow and in distinct sections.
 
-#Adding a section for the user to write notes
-Adding a section for the user to write the date of purchase and the warranty period#
+* Adding information in compliance with safety standards i.e., including the necessary warnings and cautions
 
-#check the task refs#
+* Adding Troubleshooting help and contact information.
+
+* Finding and adding missing information and graphics
+
+* Creating a more visually appealing layout
+
+* Adding a table of contents and an index
+
+* Adding a glossary
+* Adding instructions for care of the product
+
+* Adding a QR code for easy access to the One is All website
 
 === What I learnt from improving the instructions brochure
 
-#Attention to detail, and the importance of clear and concise language, and the need to make the information easy to find and understand.#
+* How to systematically analysing the content against Markel and Selber's six criteria.
 
-##The original instruction sheet did not adhere to many of the "rules" of good technical communication as laid out by Gurak and Lannon (2007) and Markel & Selber (2021). Markel & Selber describe Technical Communication as having six characteristics:
+* How to target a particular audience (English speakers) and tailor the content to them
 
-Addresses particular readers
+* To provide help and support possibilities so that consumers can solve problems with the product themselves
 
-Helps readers solve problems
+* To improve the readability layout of the brochure, including graphics, admonitions, and text to enhance the user's understanding.
 
-Reflects an organization's goals and culture
+* To pay attention to detail, and use clear and concise language
 
-Is produced collaboratively
+* To make the information easy to find and understand.
 
-Uses design to increase readability, and
+=== References
 
-Consists of words or graphics or both.##
+Markel, M. & Selber, S. (2021) _Technical Communication, 13th ed._ Boston: Bedford/St Martin's
+
+
+
