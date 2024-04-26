@@ -9,20 +9,20 @@ BY JUSTIN WORLAND +
 AUGUST 12, 2021
 
 == Deliverables
-==== Summaries: Descriptive and Informative
+=== Summaries: Descriptive and Informative
 
 |===
-|*The Original Article* +
+a|=== The Original Article +
 xref:attachment$auto_green.pdf[The Auto Industry Is Going Green. Will Workers Go Along for the Ride?] +
 [3609 words]
 
-|*The Descriptive Summary* +
+a|=== The Descriptive Summary +
 
 This article reports on the transition from traditional to green in the automotive industry in Ohio. It discusses the political, social, and investment agendas of stakeholders and the regional and global competition and risks. It describes the multi-layered uncertainties limiting the region’s vision of its future identity and security.
 
 [49 words]
 
-|*The Informative Summary* +
+a|=== The Informative Summary +
 
 The automotive industry in Ohio is attempting to reinvent itself by transitioning to the production of electric vehicles. Many traditional plants closed production in the last ten years with significant job losses and erosion of the region’s industrial identity.
 
