@@ -56,17 +56,17 @@ The skills demonstrated were
 * applying the learning on effective graphic design in analysing the graphic for its positive and negative aspects.
 * systematically noting these and suggesting improvements.
 
-The graphic is from a popular but serious political magazine and could have shown the data more clearly and accurately, without upsetting their readers.
+The graphic is from a popular but serious political magazine and could have shown the data more clearly and accurately without upsetting their readers.
 
 I extracted data from the original chart and recreated the chart using Excel. I  also created second chart which shows the comparison of fuel consumption per flight distance in a much much clearer way.
 
 === What I learnt from analysing and improving the graphic
 
-* To start with the data. Graphical representations are easier to look at and are therefore easier to misuse to distort the message. I wasn't sure whether this was the case until I looked at the data. However, it confirmed the message.
+* I learnt to start with the data. Graphical representations are easier to look at and are therefore easier to misuse to distort the message. I wasn't sure whether this was the case until I looked at the data. However, it confirmed the message.
 
-* How a graphic can be improved by following the guidelines of e.g., Universal Design for Learning (UDL) and #Tufte, 1983#, and that these guidelines are still relevant despite being several decades old.
+* I learnt ow a graphic can be improved by following the guidelines of e.g., Universal Design for Learning (UDL) and #Tufte, 1983#, and that these guidelines are still relevant despite being several decades old.
 
-Finally, I learnt that there are two areas in which I could improve on in the future that I believe would make me a better technical writer, graphic design and data analysis. Although my redesigned charts were clearer, they were simple and not.very professional. I see a need for being able to manipulate more complex data, and being able to present it in a more visually appealing way.
+Finally, I learnt that there are two areas in which I could improve on in the future that I believe would make me a better technical writer: graphic design and data analysis. Although my redesigned charts were clearer, they were simple and not very professional looking. I see a need for being able to manipulate more complex data, and being able to present it in a more visually appealing way would be of use to me as a technical writer.
 
 
 == Reworked Graphic

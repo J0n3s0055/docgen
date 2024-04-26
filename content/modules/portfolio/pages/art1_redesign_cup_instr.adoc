@@ -21,7 +21,7 @@ Click on the title links above the graphics to view the full brochures.
 
 === Why I chose the instructions brochure
 
-This assignment was the kind of task that I particularly enjoy doing as I like clarifying information and making it easier to read and understand by the consumer.
+This assignment was the kind of task that I particularly enjoy doing as I like clarifying information and making it easier for the consumer to read and understand.
 
 === Which skills were demonstrated
 
@@ -41,24 +41,29 @@ Analysing the graphic according to  Markel & Selber's six characteristics of goo
 
 The improvements included:
 
-* Improving the language to first language speaker standard.
+* Improving the language to first language speaker standard. Separating the languages (English and Chinese were mixed in the original brochure).
 
 * Restructuring the information in a logical flow and in distinct sections.
 
-* Adding information in compliance with safety standards i.e., including the necessary warnings and cautions
+* Adding information in compliance with safety standards i.e., including the necessary warnings and cautions.
 
-* Adding Troubleshooting help and contact information.
+* Adding troubleshooting help and contact information.
 
-* Finding and adding missing information and graphics
+* Finding and adding missing information and graphics.
 
-* Creating a more visually appealing layout
+* Creating a more visually appealing layout.
 
-* Adding a table of contents and an index
+* Adding a table of contents and an index.
 
 * Adding a glossary
+
 * Adding instructions for care of the product
 
 * Adding a QR code for easy access to the One is All website
+
+#Analysing the graphical elements of the brochure according to xxx#
+
+#accessibility aspects#
 
 === What I learnt from improving the instructions brochure
 
@@ -68,15 +73,20 @@ The improvements included:
 
 * To provide help and support possibilities so that consumers can solve problems with the product themselves
 
-* To improve the readability layout of the brochure, including graphics, admonitions, and text to enhance the user's understanding.
+* To improve the readability of the brochure, including graphics, admonitions, and text to enhance the user's understanding.
 
 * To pay attention to detail, and use clear and concise language
 
 * To make the information easy to find and understand.
 
+
 === References
 
 Markel, M. & Selber, S. (2021) _Technical Communication, 13th ed._ Boston: Bedford/St Martin's
+
+#graphics pointers#
+
+#accessibility pointers#
 
 
 
