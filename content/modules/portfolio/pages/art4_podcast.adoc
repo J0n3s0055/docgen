@@ -26,7 +26,7 @@ Develop a professional instructional podcast that achieves specific learning out
 This assignment was one that I found difficult initially. The reasons for this were
 
 * I am not a natural teacher or someone who likes speaking in public.
-* I didn't have a quiet place to record in.
+* I did not have a quiet place to record in.
 * I did not have any recording equipment and could not afford to buy or rent any.
 
 I chose this podcast because it forced me to  get out of my comfort zone. I had to come up with a strategy for getting the assignment done while dealing with the logistical difficulties and overcoming my discomfort.
@@ -44,11 +44,11 @@ The skills demonstrated were:
 
 ==== How to approach the task
 
-I developed a way of approaching a task like this by starting with the things I could do and prepare before I starting recording, which made the process less intimidating. Once these were out of the way, what was left seemed less daunting.
+I developed a way of approaching a task like this by starting with the things I could do or prepare before I starting the part I was the least confident about i.e., the recording, which made the process less intimidating. Once these tasks were out of the way, what was left seemed less daunting.
 
 ==== Time management
 
-I learnt that iIt is hard to judge how long recording and editing will take and so starting as early as possible is essential.
+I learnt that it is hard to judge how long recording and editing will take and so starting as early as possible is essential.
 
 ==== Applying the theory
 
@@ -77,18 +77,18 @@ I applied the three principles of UDL (CAST, 2020): in project as far as possibl
 
 * *Perception:* visual and audio versions of the podcast were available.
 * *Physical action and Expression and Communication:* actions were guided by both versions of the podcast. Other tools were flexible and fully the choice of the consumer.
-* *Self Regulation:* consumers were encouraged to analyse their scenario and reflect on their solution.
+* *Self Regulation:* consumers were encouraged to analyse their particular scenario and reflect on their solution.
 * *Comprehension:* comprehensive background knowledge was supplied.
 * *Executive functions:* appropriate goal setting was encouraged, and planning and strategy development was supported.
 * *Sustaining Effort and Persistence:* the podcast was designed to be engaging and interesting.
 
 === References:
 
-Bloom
+Anderson, L.W., and Krathwohl, D.R., (Editors), and others, (2001) _A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives_, Addison Wesley, Massachusetts, USA.
 
-Gagne
+Gagné, R.M., Briggs, Leslie.J., and Wager, Walter.W. (1992) Principles Of Instructional Design, 4th ed, Harcourt Brace College Publishers, California, USA
 
-https://udlguidelines.cast.org/ Universal Design for Learning Guidelines
+Universal Design for Learning Guidelines (2024), available: https://udlguidelines.cast.org/ Universal Design for Learning Guidelines [accessed 12 April 2024]
 
 
 

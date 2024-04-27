@@ -27,21 +27,20 @@ This assignment was the kind of task that I particularly enjoy doing as I like c
 
 The skills demonstrated were:
 
-Analysing the graphic according to  Markel & Selber's six characteristics of good technical communication (Markel & Selber, 2021):
+Analysing the graphic according to some of Markel & Selber's six characteristics of good technical communication (Markel and Selber 2021), key attributes emphasised by Gurak and Lannon (2007), and the graphical elements (Web Accessibility Initiative), particularly:
 
-* Addresses particular readers
+* Clarity
+* Well organised/ logically arranged
+* Targeted
+* Relevant
+* Comprehensive
+* Accessible
+* Graphics "unfriendly", contrast, clear fonts
 
-* Helps readers solve problems
-
-* Is produced collaboratively
-* Reflects an organization’s goals and culture
-* Uses design to increase readability, and
-
-* Consists of words or graphics or both.
 
 The improvements included:
 
-* Improving the English to first language speaker standard. Separating the languages (English and Chinese were mixed in the original brochure). Chinese was not included in the redesigned brochure.
+* Improving the English to first language speaker standard. Separating the languages (English and Chinese were mixed in the original brochure, Chinese was not included in the redesigned brochure).
 
 * Restructuring the information in a logical flow and in distinct sections.
 
@@ -61,13 +60,13 @@ The improvements included:
 
 * Adding a QR code for easy access to the One is All website
 
-#Analysing the graphical elements of the brochure according to xxx#
+Improvements to the graphical elements:
 
-#accessibility aspects#
+Contrast improved, the original colour combination was bad contrast, tiring to read.
 
 === What I learnt from improving the instructions brochure
 
-* How to systematically analyse the content against Markel and Selber's six criteria.
+* How to systematically analyse the content against Markel and Selber's, and Gurak and Lannon's characteristics of good communication.
 
 * How to target a particular audience (English speakers) and tailor the content to them.
 
@@ -84,9 +83,13 @@ The improvements included:
 
 Markel, M. & Selber, S. (2021) _Technical Communication, 13th ed._ Boston: Bedford/St Martin's
 
-#graphics pointers#
+Gurak, L.J. & Lannon, J.M. (2007) _A Concise Guide to Technical Communication, 3rd ed_.  New York, NY: Pearson Education.
 
-#accessibility pointers#
+The Web Accessibility Initiative (2024), available: https://www.w3.org/WAI/standards-guidelines/wcag/ [accessed 4 April 2024]
+
+
+
+
 
 
 
