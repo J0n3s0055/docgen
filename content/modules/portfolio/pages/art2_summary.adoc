@@ -72,4 +72,6 @@ I tried to remember the instruction:  "Professional writing style must be readab
 
 It was a fine balance between the completeness of the information and word count. The purposes of the two summaries are different, but must assist the reader in making the decision on whether to read the full article or not.
 
+=== References
 
+Liz Gabbett, L. (2022) 'Writing Style', _TW5211: Principles of Professional and Technical Communication and Information_,University of Limerick, unpublished.
