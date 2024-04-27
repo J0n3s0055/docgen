@@ -1,4 +1,5 @@
-:doctitle:
+:doctitle: Welcome to my Portfolio Site
+
 
 Welcome to the portfolio site of Nicole Paterson-Jones. I am a Technical Writer and eLearning Developer based in the Luxembourg and Northern France (Grande Est) area.
 
