@@ -90,6 +90,6 @@ image:after2.png[align="center"]
 
 === References
 
-Tufte, E.R. (1983) _The Visual Display of Quantitative Information_, Graphics Press.
+Tufte, E.R. (1983) _The Visual Display of Quantitative Information_. Cheshire, USA: Graphics Press.
 
 Tufte, E.R. (2004) _Visual Explanations: Images and Quantities, Evidence and Narrative_. Cheshire, USA: Graphics Press.

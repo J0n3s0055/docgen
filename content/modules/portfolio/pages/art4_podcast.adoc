@@ -84,11 +84,11 @@ I applied the three principles of UDL (CAST, 2020): in project as far as possibl
 
 === References:
 
-Anderson, L.W., and Krathwohl, D.R., (Editors), and others, (2001) _A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives_, Addison Wesley, Massachusetts, USA.
+Anderson, L.W., and Krathwohl, D.R., (Editors), and others, (2001) _A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives_. Addison Wesley, Massachusetts, USA.
 
-Gagné, R.M., Briggs, Leslie.J., and Wager, Walter.W. (1992) Principles Of Instructional Design, 4th ed, Harcourt Brace College Publishers, California, USA
+Gagné, R.M., Briggs, Leslie.J., and Wager, Walter.W. (1992) Principles Of Instructional Design, 4th ed. Harcourt Brace College Publishers, California, USA
 
-Universal Design for Learning Guidelines (2024), available: https://udlguidelines.cast.org/ Universal Design for Learning Guidelines [accessed 12 April 2024]
+Universal Design for Learning Guidelines (2024), available: https://udlguidelines.cast.org/ Universal Design for Learning Guidelines [accessed 12 April 2024].
 
 
 
