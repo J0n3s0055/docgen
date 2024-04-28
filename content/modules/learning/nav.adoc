@@ -1,0 +1,47 @@
+= Understanding and Querying Public Procurement Data
+
+* xref:index.adoc[Home]
+* xref:intro_course.adoc[Introduction to the Course]
+* xref:intro_resource.adoc[Introduction to the Training Resource]
+
+//* [.separated]#**Understanding and Querying EU Public Procurement Data]**#
+
+* [.separated]#**Module 1: Public Procurement Background Information]**#
+** xref:/background/background.adoc[Public Procurement Introduction]
+** xref:/background/legislation.adoc[EU Legislation on Public Procurement]
+** xref:/background/process_overview.adoc[Overview of the Public Procurement Process]
+** xref:/background/process_elements.adoc[Public Procurement Process Elements]
+** xref:/background/notices.adoc[Public Procurement Notices]
+** xref:/background/notices_published.adoc[Notices Schedules]
+** xref:/background/vocabs.adoc[Essential Vocabularies for Querying]
+** xref:/background/Glossaries.adoc[Explaining Glossaries]
+** xref:/background/models.adoc[eProcurement Conceptual Models]
+** xref:/background/resources.adoc[Other Helpful Resources]
+
+* [.separated]#**Module 2: Understanding the Data**#
+** xref:/data/data.adoc[Introduction to the Data]
+** xref:/data/repositories.adoc[Data Repositories]
+** xref:/data/fields.adoc[Data Fields]
+** xref:/data/relationships.adoc[Data Relationships]
+** xref:/data/cardinalities.adoc[Cardinalities]
+** xref:/data/catagories.adoc[Categories]
+** xref:/data/limitations.adoc[Data Limitations]
+** xref:/data/examples.adoc[Some Examples]
+** xref:/data/questions.adoc[Questions]
+
+* [.separated]#**Module 3: Querying the data with Excel**#
+** xref:/excel/intro_excel.adoc[Querying the Data with Excel]
+** xref:/excel/notices_published.adoc[Published Notices]
+** xref:/excel/tool.adoc[The provided Excel Tool]
+** xref:/excel/examples.adoc[Examples with Excel]
+
+
+
+* [.separated]#**Module 4: Querying the data with sparql**#
+** xref:/sparql/intro_sparql.adoc[Introduction to Sparql Queries]
+** xref:/sparql/endpoints.adoc[Sparql EndPoints]
+** xref:/sparql/query_structure.adoc[Sparql Query Structure]
+** xref:/sparql/prefix_decs.adoc[Prefix Declarations]
+** xref:/sparql/clauses.adoclauses[Clauses]
+** xref:/sparql/simple_query.adoc[A Simple Sparql Query]
+** xref:/sparql/examples.adoc[More Examples with Sparql]
