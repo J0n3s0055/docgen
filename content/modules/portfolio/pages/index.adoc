@@ -7,7 +7,7 @@ The assignments chosen were those that I found the most interesting, or provided
 
 == Assignment Links
 
-xref:art1_redesign_cup_instr.adoc[Instructions ] +
+xref:art1_redesign_cup_instr.adoc[Instructions Redesign] +
 xref:art2_summary.adoc[Descriptive and Informative Summaries] +
 xref:art3_graphic_redesign.adoc[Graphic Redesign] +
 xref:art4_podcast.adoc[Podcast] +
