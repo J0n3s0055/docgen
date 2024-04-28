@@ -37,6 +37,7 @@ Analysing the graphic according to some of Markel & Selber's six characteristics
 * Accessible
 * Graphics "unfriendly", contrast, clear fonts
 
+Although the Web Accessibility Initiative deals primarily with online graphics, many principles also apply to print graphics.
 
 The improvements included:
 
