@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="redesigned site">
-      <change afterPath="$PROJECT_DIR$/content/modules/portfolio/images/After1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/modules/portfolio/images/After2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/modules/portfolio/images/Afterdata.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/modules/portfolio/images/graphic_before.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/modules/portfolio/pages/artifact_assignment.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/modules/portfolio/pages/auto_green.pdf" afterDir="false" />
+    <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="added L1-4 learning">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/modules/blog/pages/index.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/blog/pages/index.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/modules/portfolio/pages/art1_redesign_cup_instr.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/portfolio/pages/art1_redesign_cup_instr.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/modules/portfolio/pages/art2_summary.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/portfolio/pages/art2_summary.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/modules/portfolio/pages/art3_graphic_redesign.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/portfolio/pages/art3_graphic_redesign.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/modules/portfolio/pages/index.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/portfolio/pages/index.adoc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,37 +36,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultPlantUmlFileTemplate": "Empty",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/j0n3s/code/LuxTechWriting/docgen/content/modules/portfolio/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "C:\\Users\\j0n3s\\code\\LuxTechWriting\\docgen\\antora-ui-default\\node_modules\\stylelint",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;Empty&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/j0n3s/code/LuxTechWriting/learninggen&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;C:\\Users\\j0n3s\\code\\LuxTechWriting\\docgen\\antora-ui-default\\node_modules\\stylelint&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio\attachments" />
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio\images" />
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\blog" />
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\cv" />
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\pages" />
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio\attachments" />
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio\images" />
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio\pages" />
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\blog\pages" />
-      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\CV\pages" />
-      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\ROOT" />
     </key>
   </component>
   <component name="RunManager">
@@ -110,352 +100,359 @@
       <workItem from="1711195748733" duration="4127000" />
       <workItem from="1711274657108" duration="10445000" />
       <workItem from="1712160290592" duration="10408000" />
-      <workItem from="1712483642499" duration="9611000" />
+      <workItem from="1712483642499" duration="12359000" />
+      <workItem from="1712999351091" duration="22355000" />
+      <workItem from="1713603402018" duration="23504000" />
+      <workItem from="1714135047709" duration="16979000" />
+      <workItem from="1714378161353" duration="1938000" />
+      <workItem from="1715369430904" duration="568000" />
+      <workItem from="1716751041569" duration="43000" />
+      <workItem from="1716751189329" duration="1726000" />
     </task>
-    <task id="LOCAL-00052" summary="changed header background colour #8fd3fe">
-      <created>1710274675540</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+    <task id="LOCAL-00116" summary="added Lesson1 files">
+      <created>1713255162822</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
       <option name="project" value="LOCAL" />
-      <updated>1710274675540</updated>
+      <updated>1713255162822</updated>
     </task>
-    <task id="LOCAL-00053" summary="changed header background colour #8fd3fe">
-      <created>1710274897604</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
+    <task id="LOCAL-00117" summary="added ana temporarily">
+      <created>1713255381786</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
       <option name="project" value="LOCAL" />
-      <updated>1710274897604</updated>
+      <updated>1713255381786</updated>
     </task>
-    <task id="LOCAL-00054" summary="changed header background colour #8fd3fe">
-      <created>1710275134985</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
+    <task id="LOCAL-00118" summary="added ana temporarily">
+      <created>1713255575262</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
       <option name="project" value="LOCAL" />
-      <updated>1710275134985</updated>
+      <updated>1713255575262</updated>
     </task>
-    <task id="LOCAL-00055" summary="changed header background colour #8fd3fe">
-      <created>1710275928577</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
+    <task id="LOCAL-00119" summary="added podcast to art4">
+      <created>1713608164687</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
       <option name="project" value="LOCAL" />
-      <updated>1710275928577</updated>
+      <updated>1713608164688</updated>
     </task>
-    <task id="LOCAL-00056" summary="changed header background colour #8fd3fe">
-      <created>1710276042816</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
+    <task id="LOCAL-00120" summary="added podcast to art4">
+      <created>1713609145170</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
       <option name="project" value="LOCAL" />
-      <updated>1710276042816</updated>
+      <updated>1713609145170</updated>
     </task>
-    <task id="LOCAL-00057" summary="changed header background colour #8fd3fe">
-      <created>1710276726832</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
+    <task id="LOCAL-00121" summary="updated home page">
+      <created>1713609493759</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
       <option name="project" value="LOCAL" />
-      <updated>1710276726832</updated>
+      <updated>1713609493759</updated>
     </task>
-    <task id="LOCAL-00058" summary="changed header background colour #8fd3fe">
-      <created>1710434190132</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
+    <task id="LOCAL-00122" summary="updated attachments">
+      <created>1713609799738</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
       <option name="project" value="LOCAL" />
-      <updated>1710434190132</updated>
+      <updated>1713609799738</updated>
     </task>
-    <task id="LOCAL-00059" summary="changed header background colour #8fd3fe">
-      <created>1710435745988</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
+    <task id="LOCAL-00123" summary="updated pages">
+      <created>1713610701253</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
       <option name="project" value="LOCAL" />
-      <updated>1710435745988</updated>
+      <updated>1713610701253</updated>
     </task>
-    <task id="LOCAL-00060" summary="changed header background colour #8fd3fe">
-      <created>1710436000774</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
+    <task id="LOCAL-00124" summary="updated pages">
+      <created>1713611311489</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
       <option name="project" value="LOCAL" />
-      <updated>1710436000774</updated>
+      <updated>1713611311489</updated>
     </task>
-    <task id="LOCAL-00061" summary="changed header background colour #8fd3fe">
-      <created>1710437435148</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
+    <task id="LOCAL-00125" summary="updated pages">
+      <created>1713611379465</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
       <option name="project" value="LOCAL" />
-      <updated>1710437435148</updated>
+      <updated>1713611379465</updated>
     </task>
-    <task id="LOCAL-00062" summary="changed header background colour #8fd3fe">
-      <created>1710437811855</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
+    <task id="LOCAL-00126" summary="updated pages">
+      <created>1713611626813</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
       <option name="project" value="LOCAL" />
-      <updated>1710437811856</updated>
+      <updated>1713611626813</updated>
     </task>
-    <task id="LOCAL-00063" summary="changed header background colour #8fd3fe">
-      <created>1710438069076</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
+    <task id="LOCAL-00127" summary="updated site name">
+      <created>1713611934091</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
       <option name="project" value="LOCAL" />
-      <updated>1710438069076</updated>
+      <updated>1713611934091</updated>
     </task>
-    <task id="LOCAL-00064" summary="changed header background colour #8fd3fe">
-      <created>1710438510553</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
+    <task id="LOCAL-00128" summary="updated site name">
+      <created>1713612059533</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
       <option name="project" value="LOCAL" />
-      <updated>1710438510553</updated>
+      <updated>1713612059533</updated>
     </task>
-    <task id="LOCAL-00065" summary="changed header background colour #8fd3fe">
-      <created>1710438650172</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
+    <task id="LOCAL-00129" summary="updated site name">
+      <created>1713617727584</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
       <option name="project" value="LOCAL" />
-      <updated>1710438650172</updated>
+      <updated>1713617727584</updated>
     </task>
-    <task id="LOCAL-00066" summary="changed header background colour #8fd3fe">
-      <created>1710439385127</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
+    <task id="LOCAL-00130" summary="updated headings">
+      <created>1713622584184</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
       <option name="project" value="LOCAL" />
-      <updated>1710439385127</updated>
+      <updated>1713622584184</updated>
     </task>
-    <task id="LOCAL-00067" summary="changed header background colour #8fd3fe">
-      <created>1710439724250</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
+    <task id="LOCAL-00131" summary="updated pages">
+      <created>1713623158820</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
       <option name="project" value="LOCAL" />
-      <updated>1710439724250</updated>
+      <updated>1713623158820</updated>
     </task>
-    <task id="LOCAL-00068" summary="changed header background colour #8fd3fe">
-      <created>1710440162988</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
+    <task id="LOCAL-00132" summary="updated pages">
+      <created>1713627414104</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
       <option name="project" value="LOCAL" />
-      <updated>1710440162988</updated>
+      <updated>1713627414104</updated>
     </task>
-    <task id="LOCAL-00069" summary="changed header background colour #8fd3fe">
-      <created>1710440658673</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
+    <task id="LOCAL-00133" summary="updated pages">
+      <created>1713627434711</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
       <option name="project" value="LOCAL" />
-      <updated>1710440658673</updated>
+      <updated>1713627434711</updated>
     </task>
-    <task id="LOCAL-00070" summary="changed header background colour #8fd3fe">
-      <created>1710440840612</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
+    <task id="LOCAL-00134" summary="updated pages">
+      <created>1713627655990</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
       <option name="project" value="LOCAL" />
-      <updated>1710440840612</updated>
+      <updated>1713627655990</updated>
     </task>
-    <task id="LOCAL-00071" summary="changed header background colour #8fd3fe">
-      <created>1710441143531</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
+    <task id="LOCAL-00135" summary="updated pages">
+      <created>1713627700426</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
       <option name="project" value="LOCAL" />
-      <updated>1710441143531</updated>
+      <updated>1713627700426</updated>
     </task>
-    <task id="LOCAL-00072" summary="changed header background colour #8fd3fe">
-      <created>1710441874283</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
+    <task id="LOCAL-00136" summary="updated pages">
+      <created>1713628247632</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
       <option name="project" value="LOCAL" />
-      <updated>1710441874283</updated>
+      <updated>1713628247633</updated>
     </task>
-    <task id="LOCAL-00073" summary="changed header background colour #8fd3fe">
-      <created>1710487632470</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
+    <task id="LOCAL-00137" summary="updated pages">
+      <created>1713628596756</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
       <option name="project" value="LOCAL" />
-      <updated>1710487632470</updated>
+      <updated>1713628596756</updated>
     </task>
-    <task id="LOCAL-00074" summary="changed header background colour #8fd3fe">
-      <created>1710487935171</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
+    <task id="LOCAL-00138" summary="updated pages">
+      <created>1713628723244</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
       <option name="project" value="LOCAL" />
-      <updated>1710487935171</updated>
+      <updated>1713628723244</updated>
     </task>
-    <task id="LOCAL-00075" summary="changed header background colour #8fd3fe">
-      <created>1710495961903</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
+    <task id="LOCAL-00139" summary="updated pages">
+      <created>1713628919138</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
       <option name="project" value="LOCAL" />
-      <updated>1710495961904</updated>
+      <updated>1713628919138</updated>
     </task>
-    <task id="LOCAL-00076" summary="changed header background colour #8fd3fe">
-      <created>1710672701038</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
+    <task id="LOCAL-00140" summary="updated pages">
+      <created>1713727389206</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
       <option name="project" value="LOCAL" />
-      <updated>1710672701038</updated>
+      <updated>1713727389206</updated>
     </task>
-    <task id="LOCAL-00077" summary="deleted supplemental.ui files">
-      <created>1710683600168</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
+    <task id="LOCAL-00141" summary="updated pages">
+      <created>1714136333303</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
       <option name="project" value="LOCAL" />
-      <updated>1710683600169</updated>
+      <updated>1714136333304</updated>
     </task>
-    <task id="LOCAL-00078" summary="deleted supplemental.ui files">
-      <created>1710687464252</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
+    <task id="LOCAL-00142" summary="updated pages">
+      <created>1714137213538</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
       <option name="project" value="LOCAL" />
-      <updated>1710687464252</updated>
+      <updated>1714137213538</updated>
     </task>
-    <task id="LOCAL-00079" summary="deleted supplemental.ui files">
-      <created>1710687658123</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
+    <task id="LOCAL-00143" summary="updated pages">
+      <created>1714137526226</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
       <option name="project" value="LOCAL" />
-      <updated>1710687658124</updated>
+      <updated>1714137526226</updated>
     </task>
-    <task id="LOCAL-00080" summary="deleted supplemental.ui files">
-      <created>1711198900959</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
+    <task id="LOCAL-00144" summary="updated pages">
+      <created>1714137697079</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
       <option name="project" value="LOCAL" />
-      <updated>1711198900960</updated>
+      <updated>1714137697079</updated>
     </task>
-    <task id="LOCAL-00081" summary="added robots.txt">
-      <created>1711204604953</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
+    <task id="LOCAL-00145" summary="updated pages">
+      <created>1714217269078</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
       <option name="project" value="LOCAL" />
-      <updated>1711204604953</updated>
+      <updated>1714217269078</updated>
     </task>
-    <task id="LOCAL-00082" summary="added robots.txt key">
-      <created>1711204867040</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
+    <task id="LOCAL-00146" summary="added refs">
+      <created>1714217919703</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
       <option name="project" value="LOCAL" />
-      <updated>1711204867040</updated>
+      <updated>1714217919703</updated>
     </task>
-    <task id="LOCAL-00083" summary="updated nav">
-      <created>1711205873724</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
+    <task id="LOCAL-00147" summary="edited refs">
+      <created>1714218192890</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
       <option name="project" value="LOCAL" />
-      <updated>1711205873724</updated>
+      <updated>1714218192890</updated>
     </task>
-    <task id="LOCAL-00084" summary="updated nav">
-      <created>1711206085510</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
+    <task id="LOCAL-00148" summary="edited refs">
+      <created>1714218556403</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
       <option name="project" value="LOCAL" />
-      <updated>1711206085510</updated>
+      <updated>1714218556403</updated>
     </task>
-    <task id="LOCAL-00085" summary="testing iframe">
-      <created>1711983770073</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
+    <task id="LOCAL-00149" summary="edited refs">
+      <created>1714218682828</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
       <option name="project" value="LOCAL" />
-      <updated>1711983770074</updated>
+      <updated>1714218682828</updated>
     </task>
-    <task id="LOCAL-00086" summary="testing iframe">
-      <created>1711984613326</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
+    <task id="LOCAL-00150" summary="edited refs">
+      <created>1714218784650</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
       <option name="project" value="LOCAL" />
-      <updated>1711984613326</updated>
+      <updated>1714218784650</updated>
     </task>
-    <task id="LOCAL-00087" summary="testing iframe">
-      <created>1711984991864</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
+    <task id="LOCAL-00151" summary="edited refs">
+      <created>1714219058559</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
       <option name="project" value="LOCAL" />
-      <updated>1711984991864</updated>
+      <updated>1714219058559</updated>
     </task>
-    <task id="LOCAL-00088" summary="testing iframe">
-      <created>1711987002962</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
+    <task id="LOCAL-00152" summary="edited refs">
+      <created>1714219608947</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
       <option name="project" value="LOCAL" />
-      <updated>1711987002962</updated>
+      <updated>1714219608947</updated>
     </task>
-    <task id="LOCAL-00089" summary="testing iframe">
-      <created>1711987609002</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
+    <task id="LOCAL-00153" summary="edited refs">
+      <created>1714219646557</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
       <option name="project" value="LOCAL" />
-      <updated>1711987609002</updated>
+      <updated>1714219646557</updated>
     </task>
-    <task id="LOCAL-00090" summary="testing iframe">
-      <created>1711988118662</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
+    <task id="LOCAL-00154" summary="edited refs">
+      <created>1714219832107</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
       <option name="project" value="LOCAL" />
-      <updated>1711988118662</updated>
+      <updated>1714219832107</updated>
     </task>
-    <task id="LOCAL-00091" summary="testing iframe">
-      <created>1711988630022</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
+    <task id="LOCAL-00155" summary="changed cv link text">
+      <created>1714295990333</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
       <option name="project" value="LOCAL" />
-      <updated>1711988630022</updated>
+      <updated>1714295990333</updated>
     </task>
-    <task id="LOCAL-00092" summary="testing iframe">
-      <created>1711989125124</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
+    <task id="LOCAL-00156" summary="changed cv link text">
+      <created>1714296235789</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
       <option name="project" value="LOCAL" />
-      <updated>1711989125124</updated>
+      <updated>1714296235789</updated>
     </task>
-    <task id="LOCAL-00093" summary="testing iframe">
-      <created>1711990241199</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
+    <task id="LOCAL-00157" summary="added learning module">
+      <created>1714302290289</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
       <option name="project" value="LOCAL" />
-      <updated>1711990241199</updated>
+      <updated>1714302290289</updated>
     </task>
-    <task id="LOCAL-00094" summary="testing iframe">
-      <created>1711990608392</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
+    <task id="LOCAL-00158" summary="added learning module">
+      <created>1714302396986</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
       <option name="project" value="LOCAL" />
-      <updated>1711990608392</updated>
+      <updated>1714302396986</updated>
     </task>
-    <task id="LOCAL-00095" summary="testing iframe">
-      <created>1712160817922</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
+    <task id="LOCAL-00159" summary="edited index page">
+      <created>1714303250517</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
       <option name="project" value="LOCAL" />
-      <updated>1712160817923</updated>
+      <updated>1714303250517</updated>
     </task>
-    <task id="LOCAL-00096" summary="testing iframe">
-      <created>1712162611751</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
+    <task id="LOCAL-00160" summary="edited art1 page">
+      <created>1714303638872</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
       <option name="project" value="LOCAL" />
-      <updated>1712162611751</updated>
+      <updated>1714303638873</updated>
     </task>
-    <task id="LOCAL-00097" summary="removed iframe">
-      <created>1712166922958</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
+    <task id="LOCAL-00161" summary="corrected spelling">
+      <created>1714378857112</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
       <option name="project" value="LOCAL" />
-      <updated>1712166922958</updated>
+      <updated>1714378857112</updated>
     </task>
-    <task id="LOCAL-00098" summary="removed iframe">
-      <created>1712167692911</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
+    <task id="LOCAL-00162" summary="corrected spelling">
+      <created>1714379036793</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
       <option name="project" value="LOCAL" />
-      <updated>1712167692911</updated>
+      <updated>1714379036793</updated>
     </task>
-    <task id="LOCAL-00099" summary="redesigned site">
-      <created>1712407912767</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
+    <task id="LOCAL-00163" summary="added L1-4 learning">
+      <created>1716751754052</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
       <option name="project" value="LOCAL" />
-      <updated>1712407912767</updated>
+      <updated>1716751754053</updated>
     </task>
-    <task id="LOCAL-00100" summary="redesigned site">
-      <created>1712408981580</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
+    <task id="LOCAL-00164" summary="added L1-4 learning">
+      <created>1716752502487</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
       <option name="project" value="LOCAL" />
-      <updated>1712408981580</updated>
+      <updated>1716752502487</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,23 +470,31 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="edited playbook, index,adoc" />
-    <MESSAGE value="edited playbook &amp; publish_site.yml" />
-    <MESSAGE value="edited playbook" />
-    <MESSAGE value="edited playbook - ui bundle path" />
-    <MESSAGE value="edited FOLDER: - was build/site" />
-    <MESSAGE value="edited FOLDER: - was build" />
-    <MESSAGE value="Trying default playbook" />
-    <MESSAGE value="Removed topbar-nav from header" />
-    <MESSAGE value="removed eu content in footer" />
-    <MESSAGE value="changed header background colour #8fd3fe" />
-    <MESSAGE value="deleted supplemental.ui files" />
     <MESSAGE value="added robots.txt" />
     <MESSAGE value="added robots.txt key" />
     <MESSAGE value="updated nav" />
     <MESSAGE value="testing iframe" />
     <MESSAGE value="removed iframe" />
     <MESSAGE value="redesigned site" />
-    <option name="LAST_COMMIT_MESSAGE" value="redesigned site" />
+    <MESSAGE value="added artifacts" />
+    <MESSAGE value="corrected link summary.adoc" />
+    <MESSAGE value="updated cv index &amp; art4.adoc" />
+    <MESSAGE value="added Lesson1 files" />
+    <MESSAGE value="added ana temporarily" />
+    <MESSAGE value="added podcast to art4" />
+    <MESSAGE value="updated home page" />
+    <MESSAGE value="updated attachments" />
+    <MESSAGE value="updated site name" />
+    <MESSAGE value="updated headings" />
+    <MESSAGE value="updated pages" />
+    <MESSAGE value="added refs" />
+    <MESSAGE value="edited refs" />
+    <MESSAGE value="changed cv link text" />
+    <MESSAGE value="added learning module" />
+    <MESSAGE value="edited index page" />
+    <MESSAGE value="edited art1 page" />
+    <MESSAGE value="corrected spelling" />
+    <MESSAGE value="added L1-4 learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="added L1-4 learning" />
   </component>
 </project>
