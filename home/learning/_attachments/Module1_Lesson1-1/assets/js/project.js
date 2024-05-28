@@ -98506,6 +98506,15 @@ ipiv:{
 
 }
 ,{
+ip:'dr/016093.jpg',
+ipiv:{
+360:1,
+600:1,
+972:1
+}
+
+}
+,{
 ip:'dr/018378.svg',
 ipiv:{
 360:1,
@@ -98847,7 +98856,7 @@ resources:['dr/024509.png','dr/024576.png','dr/024949.png','dr/024951.png','dr/0
 ,{
 slideID:9,
 ResourceList:{
-resources:['dr/02691.png','dr/02815.png','dr/03080.jpeg','dr/03083.jpeg','dr/03086.jpeg','dr/03089.jpeg','dr/03192.png']
+resources:['dr/02691.png','dr/02815.png','dr/02931.svg','dr/03080.jpeg','dr/03083.jpeg','dr/03086.jpeg','dr/03089.jpeg','dr/03192.png']
 }
 
 }
@@ -98869,6 +98878,13 @@ resources:['dr/018998.png','dr/019122.png','dr/021636.jpeg','dr/021639.jpeg','dr
 slideID:16,
 ResourceList:{
 resources:['dr/018625.png','dr/018749.png','dr/018874.png','dr/018998.png','dr/019122.png','dr/021540.png']
+}
+
+}
+,{
+slideID:18,
+ResourceList:{
+resources:['dr/027091.png']
 }
 
 }
