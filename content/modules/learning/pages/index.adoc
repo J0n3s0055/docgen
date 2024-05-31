@@ -1,9 +1,25 @@
 :doctitle: Learning Resource
 
-xref:attachment$Module1_Lesson1-1/index.html[Lesson1]
+Module 1:
 
-xref:attachment$Module1_Lesson1-2/index.html[Lesson2]
+xref:attachment$Module1_Lesson1-1/index.html[Lesson1: Legislation]
 
-xref:attachment$Module1_Lesson1-3/index.html[Lesson3]
+xref:attachment$Module1_Lesson1-2/index.html[Lesson2: The Public Procurement Process]
 
-xref:attachment$Module1_Lesson1-4/index.html[Lesson4]
+xref:attachment$Module1_Lesson1-3/index.html[Lesson3: Notices]
+
+xref:attachment$Module1_Lesson1-4/index.html[Lesson4: Searching for Notices on the TED Website]
+
+Module 2:
+
+xref:attachment$Module1_Lesson2-1/index.html[Lesson1: The eProcurement Ontology]
+
+xref:attachment$Module1_Lesson2-2/index.html[Lesson2: Linked Open Data]
+
+xref:attachment$Module1_Lesson2-3/index.html[Lesson3: RDF and SPARQL]
+
+Lesson 4: WIP - Query Scenario 1 from Interviews
+
+Lesson 5: WIP - Query Scenario 2 from Interviews
+
+xref:attachment$Module1_Lesson2-6/index.html[Lesson6: Future Developments in eProcurement Data]
