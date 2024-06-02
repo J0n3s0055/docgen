@@ -3,7 +3,7 @@ pref:{
 acc:1,
 rkt:1,
 hsr:0,
-atp:false
+atp:true
 },
 si519:{
 name:'Image_3',
@@ -78524,7 +78524,7 @@ passFailPassingScoreTypeInPrecent:true,
 passFailPassingScoreValue:80,
 showRetake:false,
 showReviewButtons:true,
-oid:'$$OBJECTIVE_ID',
+oid:'Quiz_202462155452',
 quizVariableVsIdMap:{
 learnerId:'var346',
 learnerName:'var347',
@@ -79447,7 +79447,7 @@ resources:['dr/015289.png']
 ,{
 slideID:5,
 ResourceList:{
-resources:['dr/012765.png','dr/07908.png','dr/08032.png','dr/08156.png','dr/08280.png','dr/08404.png','dr/08528.png']
+resources:['dr/012765.png','dr/07908.png','dr/08032.png','dr/08156.png','dr/08280.png','dr/08404.png','dr/08528.png','dr/08644.svg']
 }
 
 }
@@ -79468,14 +79468,21 @@ resources:['dr/016703.png']
 ,{
 slideID:9,
 ResourceList:{
-resources:['dr/017919.png','dr/018043.png','dr/018167.png','dr/018291.png','dr/018518.png','dr/018520.png']
+resources:['dr/017629.svg','dr/017642.svg','dr/017919.png','dr/018043.png','dr/018167.png','dr/018291.png','dr/018407.svg','dr/018518.png','dr/018520.png']
 }
 
 }
 ,{
 slideID:10,
 ResourceList:{
-resources:['dr/017919.png','dr/018043.png','dr/018167.png','dr/018291.png','dr/019547.png','dr/019549.png']
+resources:['dr/017629.svg','dr/017642.svg','dr/017919.png','dr/018043.png','dr/018167.png','dr/018291.png','dr/018407.svg','dr/019547.png','dr/019549.png']
+}
+
+}
+,{
+slideID:15,
+ResourceList:{
+resources:['dr/015289.png']
 }
 
 }
