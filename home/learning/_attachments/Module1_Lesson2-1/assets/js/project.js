@@ -8,8 +8,8 @@ atp:false
 si519:{
 name:'Image_3',
 type:1268,
-from:1171,
-to:1260,
+from:1711,
+to:1800,
 rp:0,
 rpa:0,
 mdi:'si519c',
@@ -175,8 +175,8 @@ vb:[-1,-1,1,1]
 si513:{
 name:'Image_Group_3',
 type:1268,
-from:1171,
-to:1260,
+from:1711,
+to:1800,
 rp:0,
 rpa:0,
 mdi:'si513c',
@@ -200,7 +200,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"visibilityInfo":{"slide-item-image":true,"slide-item-caption":true,"slide-item-subtitle":false,"card":false,"slide-item-buttons":true},"groupedItemsVisibility":{"slide-item-buttons":1},"padding":{"top":10,"bottom":10,"left":10,"right":10},"alignment":{"slide-item-image":"CENTER","slide-item-caption":"CENTER","slide-item-subtitle":"CENTER","slide-item-buttons":"CENTER"},"canBeCard":true,"appearanceProperties":{"cornerRadius":{"type":1,"value":{"topLeft":4,"bottomLeft":4,"bottomRight":4,"topRight":4}},"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"shadow":{"shadowX":0,"shadowY":0,"shadowBlur":10,"enabled":true,"color":"var(--c4)"}},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"visibilityInfo":{"slide-item-image":true,"slide-item-caption":true,"slide-item-subtitle":false,"card":false,"slide-item-buttons":false},"groupedItemsVisibility":{"slide-item-buttons":1},"padding":{"top":10,"bottom":10,"left":10,"right":10},"alignment":{"slide-item-image":"CENTER","slide-item-caption":"CENTER","slide-item-subtitle":"CENTER","slide-item-buttons":"CENTER"},"canBeCard":true,"appearanceProperties":{"cornerRadius":{"type":1,"value":{"topLeft":4,"bottomLeft":4,"bottomRight":4,"topRight":4}},"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"shadow":{"shadowX":0,"shadowY":0,"shadowBlur":10,"enabled":true,"color":"var(--c4)"}},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 parentGroup:'si519',
 retainState:false,
 immo:false,
@@ -219,14 +219,10 @@ t:15
 n:'si456',
 t:1268
 }
-,{
-n:'si475',
-t:29
-}
 ]
 ,
 containerType:'image-single-card',
-widgetProps:'{"visibilityInfo":{"slide-item-image":true,"slide-item-caption":true,"slide-item-subtitle":false,"card":false,"slide-item-buttons":true},"groupedItemsVisibility":{"slide-item-buttons":1},"padding":{"top":10,"bottom":10,"left":10,"right":10},"alignment":{"slide-item-image":"CENTER","slide-item-caption":"CENTER","slide-item-subtitle":"CENTER","slide-item-buttons":"CENTER"},"canBeCard":true,"appearanceProperties":{"cornerRadius":{"type":1,"value":{"topLeft":4,"bottomLeft":4,"bottomRight":4,"topRight":4}},"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"shadow":{"shadowX":0,"shadowY":0,"shadowBlur":10,"enabled":true,"color":"var(--c4)"}},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"visibilityInfo":{"slide-item-image":true,"slide-item-caption":true,"slide-item-subtitle":false,"card":false,"slide-item-buttons":false},"groupedItemsVisibility":{"slide-item-buttons":1},"padding":{"top":10,"bottom":10,"left":10,"right":10},"alignment":{"slide-item-image":"CENTER","slide-item-caption":"CENTER","slide-item-subtitle":"CENTER","slide-item-buttons":"CENTER"},"canBeCard":true,"appearanceProperties":{"cornerRadius":{"type":1,"value":{"topLeft":4,"bottomLeft":4,"bottomRight":4,"topRight":4}},"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"shadow":{"shadowX":0,"shadowY":0,"shadowBlur":10,"enabled":true,"color":"var(--c4)"}},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 option:'',
 padding:{
 left:0,
@@ -854,167 +850,11 @@ JSONEffectData:false,
 vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
-si475:{
-name:'Button_75',
-type:29,
-from:1,
-to:90,
-rp:0,
-rpa:0,
-mdi:'si475c',
-tag:'slide-item-buttons0',
-v:0,
-enabled:true,
-defEn:true,
-vu:[],
-siaf:0,
-sid:3,
-slideItemThemeCounter:0,
-presetData:[{
-presetId:'',
-presetType:7,
-isOverridden:false
-}
-]
-,
-widgetProps:'{"stateVisibility":{"normal":true,"selected":true,"disabled":false,"hover":true,"visited":false},"normal":{"padding":"10","opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"doi2q","text":"Let\'s start","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-button-normal","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_normal","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false},"designOptionProperties":{"fill":{"enabled":true,"color":"var(--design-option-color7)"},"shadow":{"enabled":false,"shadowBlur":4,"shadowColor":"var(--color4)","shadowType":0,"shadowX":1,"shadowY":2},"stroke":{"color":"var(--design-option-color7)","dasharray":0,"enabled":true,"linecap":0,"width":2}}},"shouldRender":true,"visited":{"padding":"10","opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"apl4q","text":"Let\'s start","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"overridden:false"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"}],"entityRanges":[],"data":{"presetId":"text-button-visited","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_visited","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false},"designOptionProperties":{"fill":{"enabled":true,"color":"var(--design-option-color5)"},"shadow":{"enabled":false,"shadowBlur":4,"shadowColor":"var(--color4)","shadowType":0,"shadowX":1,"shadowY":2},"stroke":{"color":"var(--design-option-color5)","dasharray":0,"enabled":true,"linecap":0,"width":2}}},"shapeData":{"type":"rect","attributes":{"rx":"20"}},"designOption":"BUTTON_ITEM_OPTION_3","iconProps":{"srcPath":"08959.svg","size":"medium","position":0,"offset":0},"currentState":"normal","selected":{"padding":"10","opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"6cld3","text":"Let\'s start","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-button-selected","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_selected","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false},"designOptionProperties":{"fill":{"enabled":true,"color":"var(--design-option-color5_light)"},"shadow":{"enabled":false,"shadowBlur":4,"shadowColor":"var(--color4)","shadowType":1,"shadowX":1,"shadowY":2},"stroke":{"color":"var(--design-option-color5_light)","dasharray":0,"enabled":true,"linecap":0,"width":2}}},"hover":{"padding":"10","opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"7jerl","text":"Let\'s start","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-button-hover","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_hover","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":true},"designOptionProperties":{"fill":{"enabled":true,"color":"var(--design-option-color7)"},"shadow":{"enabled":false,"shadowBlur":4,"shadowColor":"var(--color4)","shadowType":0,"shadowX":1,"shadowY":2},"stroke":{"color":"var(--design-option-color7)","dasharray":0,"enabled":true,"linecap":0,"width":2}}},"disabled":{"padding":"10","opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"a1lc4","text":"Let\'s start","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"overridden:false"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"}],"entityRanges":[],"data":{"presetId":"text-button-disabled","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_disabled","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}}}',
-parentGroup:'si513',
-retainState:false,
-immo:false,
-apsn:'Slide541',
-efph:{
-}
-,
-eflh:[],
-oca:'{"scripts":[{"then":[["cp.goToSlide(8967,1700);"]]}]}',
-iflbx:false,
-ipflbx:true,
-si:[]
-,
-te:true,
-ie:false,
-bt:-1,
-trin:0,
-trout:0,
-stl:[{
-stn:'Normal',
-stt:0,
-stsi:[475]
-}
-]
-,
-stis:0,
-bstiid:-1,
-sipst:0,
-sicbs:false,
-sihhs:false,
-sihds:false,
-siq:false,
-isDD:false
-},
-si475c:{
-b:[-2,-2,-1,-1],
-fh:false,
-fw:false,
-uid:475,
-iso:false,
-css:{
-360:{
-l:'-0.103%',
-t:'-0.164%',
-b:'auto',
-r:'auto',
-lhEID:0,
-lhV:'-0.103%',
-lhID:-1,
-lvEID:0,
-lvV:'-0.164%',
-lvID:-1,
-w:'8.889%',
-h:'4.211%',
-cah:false,
-cav:false,
-rpmm:{
-mw:'32px',
-mh:'32px',
-Mw:'',
-Mh:''
-}
-,
-p:'absolute',
-ipiv:1
-}
-,
-600:{
-l:'-0.103%',
-t:'-0.164%',
-b:'auto',
-r:'auto',
-lhEID:0,
-lhV:'-0.103%',
-lhID:-1,
-lvEID:0,
-lvV:'-0.164%',
-lvID:-1,
-w:'5.333%',
-h:'5.263%',
-cah:false,
-cav:false,
-rpmm:{
-mw:'32px',
-mh:'32px',
-Mw:'',
-Mh:''
-}
-,
-p:'absolute',
-ipiv:1
-}
-,
-972:{
-l:'-0.103%',
-t:'-0.164%',
-b:'auto',
-r:'auto',
-lhEID:0,
-lhV:'-0.103%',
-lhID:-1,
-lvEID:0,
-lvV:'-0.164%',
-lvID:-1,
-w:'3.292%',
-h:'5.263%',
-cah:false,
-cav:false,
-rpmm:{
-mw:'32px',
-mh:'32px',
-Mw:'',
-Mh:''
-}
-,
-p:'absolute',
-ipiv:1
-}
-
-}
-,
-sr:cp.fd,
-dn:'si475',
-visible:1,
-effectiveVi:1,
-JSONEffectData:false,
-bp:10,
-btha:1,
-fa:100,
-vbwr:[-2,-2,-1,-1],
-vb:[-2,-2,-1,-1]
-},
 Slide541:{
 lb:'L2-1 Title',
 id:541,
-from:1171,
-to:1260,
+from:1711,
+to:1800,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -1085,8 +925,8 @@ visible:'1'
 si1722:{
 name:'Paragraph_1',
 type:1268,
-from:91,
-to:180,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1722c',
@@ -1252,8 +1092,8 @@ vb:[-1,-1,1,1]
 si1730:{
 name:'Paragraph_Group_1',
 type:1268,
-from:91,
-to:180,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1730c',
@@ -1742,8 +1582,8 @@ vb:[-1,-1,2,2]
 si1758:{
 name:'Text_117',
 type:1250,
-from:91,
-to:180,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1758c',
@@ -1773,7 +1613,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"5023t","text":"Ontology definition","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":19,"style":"backgroundColor:unset"},{"offset":0,"length":19,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":19,"style":"textHighlightEnable:false"},{"offset":0,"length":19,"style":"textShadowEnable:false"},{"offset":0,"length":19,"style":"overridden:false"},{"offset":0,"length":19,"style":"hlnk:"},{"offset":0,"length":19,"style":"hlnkt:wp"},{"offset":0,"length":19,"style":"textOutlineEnable:false"},{"offset":0,"length":19,"style":"opacity:1"},{"offset":0,"length":19,"style":"hlnke:true"}],"entityRanges":[],"data":{"presetId":"text-body-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}},{"key":"8fi8v","text":"ePO","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":3,"style":"hlnk:"},{"offset":0,"length":3,"style":"hlnkt:wp"},{"offset":0,"length":3,"style":"textOutlineEnable:false"},{"offset":0,"length":3,"style":"opacity:1"},{"offset":0,"length":3,"style":"hlnke:true"},{"offset":0,"length":3,"style":"backgroundColor:unset"},{"offset":0,"length":3,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":3,"style":"textHighlightEnable:false"},{"offset":0,"length":3,"style":"textShadowEnable:false"},{"offset":0,"length":3,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-2"}},{"key":"81v1h","text":"Vocabularies","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":12,"style":"hlnk:"},{"offset":0,"length":12,"style":"hlnkt:wp"},{"offset":0,"length":12,"style":"textOutlineEnable:false"},{"offset":0,"length":12,"style":"opacity:1"},{"offset":0,"length":12,"style":"hlnke:true"},{"offset":0,"length":12,"style":"backgroundColor:unset"},{"offset":0,"length":12,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":12,"style":"textHighlightEnable:false"},{"offset":0,"length":12,"style":"textShadowEnable:false"},{"offset":0,"length":12,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-2"}},{"key":"cui42","text":"Conceptual Models","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":17,"style":"textHighlightEnable:false"},{"offset":0,"length":17,"style":"textShadowEnable:false"},{"offset":0,"length":17,"style":"overridden:false"},{"offset":0,"length":17,"style":"hlnk:"},{"offset":0,"length":17,"style":"hlnkt:wp"},{"offset":0,"length":17,"style":"textOutlineEnable:false"},{"offset":0,"length":17,"style":"opacity:1"},{"offset":0,"length":17,"style":"hlnke:true"},{"offset":0,"length":17,"style":"backgroundColor:unset"},{"offset":0,"length":17,"style":"defaultBackgroundColor:#E8D01B"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-2"}},{"key":"6p9m","text":"Glossaries","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":10,"style":"hlnk:"},{"offset":0,"length":10,"style":"hlnkt:wp"},{"offset":0,"length":10,"style":"textOutlineEnable:false"},{"offset":0,"length":10,"style":"opacity:1"},{"offset":0,"length":10,"style":"hlnke:true"},{"offset":0,"length":10,"style":"backgroundColor:unset"},{"offset":0,"length":10,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":10,"style":"textHighlightEnable:false"},{"offset":0,"length":10,"style":"textShadowEnable:false"},{"offset":0,"length":10,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-2"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"5023t","text":"explain the definition of an Ontology","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":37,"style":"hlnk:"},{"offset":0,"length":37,"style":"hlnkt:wp"},{"offset":0,"length":37,"style":"textOutlineEnable:false"},{"offset":0,"length":37,"style":"opacity:1"},{"offset":0,"length":37,"style":"hlnke:true"},{"offset":0,"length":37,"style":"backgroundColor:unset"},{"offset":0,"length":37,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":37,"style":"textHighlightEnable:false"},{"offset":0,"length":37,"style":"textShadowEnable:false"},{"offset":0,"length":37,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}},{"key":"8fi8v","text":"describe the eProcurement Ontology and its importance in eProcurement data","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":74,"style":"hlnk:"},{"offset":0,"length":74,"style":"hlnkt:wp"},{"offset":0,"length":74,"style":"textOutlineEnable:false"},{"offset":0,"length":74,"style":"opacity:1"},{"offset":0,"length":74,"style":"hlnke:true"},{"offset":0,"length":74,"style":"backgroundColor:unset"},{"offset":0,"length":74,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":74,"style":"textHighlightEnable:false"},{"offset":0,"length":74,"style":"textShadowEnable:false"},{"offset":0,"length":74,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-2"}},{"key":"81v1h","text":"explain what Vocabularies thw Publications Office makes available","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":65,"style":"opacity:1"},{"offset":0,"length":65,"style":"hlnke:true"},{"offset":0,"length":65,"style":"backgroundColor:unset"},{"offset":0,"length":65,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":65,"style":"textHighlightEnable:false"},{"offset":0,"length":65,"style":"textShadowEnable:false"},{"offset":0,"length":65,"style":"overridden:false"},{"offset":0,"length":65,"style":"hlnk:"},{"offset":0,"length":65,"style":"hlnkt:wp"},{"offset":0,"length":65,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-2"}},{"key":"cui42","text":"be able to use the eProcurement Ontology Conceptual Model to find classes and relationships","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":91,"style":"hlnk:"},{"offset":0,"length":91,"style":"hlnkt:wp"},{"offset":0,"length":91,"style":"textOutlineEnable:false"},{"offset":0,"length":91,"style":"opacity:1"},{"offset":0,"length":91,"style":"hlnke:true"},{"offset":0,"length":91,"style":"backgroundColor:unset"},{"offset":0,"length":91,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":91,"style":"textHighlightEnable:false"},{"offset":0,"length":91,"style":"textShadowEnable:false"},{"offset":0,"length":91,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-2"}},{"key":"6p9m","text":"be able to use the eProcurement Ontology Glossary to find class definitions","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":75,"style":"hlnk:"},{"offset":0,"length":75,"style":"hlnkt:wp"},{"offset":0,"length":75,"style":"textOutlineEnable:false"},{"offset":0,"length":75,"style":"opacity:1"},{"offset":0,"length":75,"style":"hlnke:true"},{"offset":0,"length":75,"style":"backgroundColor:unset"},{"offset":0,"length":75,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":75,"style":"textHighlightEnable:false"},{"offset":0,"length":75,"style":"textShadowEnable:false"},{"offset":0,"length":75,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-2"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -2205,8 +2045,8 @@ vb:[-2,-2,-1,-1]
 Slide1700:{
 lb:'L2-1 LOs',
 id:1700,
-from:91,
-to:180,
+from:1801,
+to:1890,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -2913,8 +2753,8 @@ vb:[-1,-1,2,2]
 si15906:{
 name:'Character-Block-2_1',
 type:1268,
-from:1261,
-to:1350,
+from:1891,
+to:1980,
 rp:0,
 rpa:0,
 mdi:'si15906c',
@@ -3449,8 +3289,8 @@ vb:[-1,-1,759,731]
 si15934:{
 name:'Character-Speech-Card_1',
 type:1268,
-from:181,
-to:270,
+from:1891,
+to:1980,
 rp:0,
 rpa:0,
 mdi:'si15934c',
@@ -3617,8 +3457,8 @@ vb:[-1,-1,1,1]
 si15942:{
 name:'Text_392',
 type:1250,
-from:181,
-to:270,
+from:1891,
+to:1980,
 rp:0,
 rpa:0,
 mdi:'si15942c',
@@ -3633,7 +3473,7 @@ slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
 presetType:1,
-isOverridden:false
+isOverridden:true
 }
 ]
 ,
@@ -3648,7 +3488,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"97t5o","text":"Bank 1 defines customer as someone who has an account at their bank.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":68,"style":"textShadowX:0px"},{"offset":0,"length":68,"style":"fontStretch:normal"},{"offset":0,"length":68,"style":"fontType:regular"},{"offset":0,"length":68,"style":"color:#333333"},{"offset":0,"length":68,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":68,"style":"textShadowY:4px"},{"offset":0,"length":68,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":68,"style":"letterSpacing:0%"},{"offset":0,"length":68,"style":"textHighlightEnable:false"},{"offset":0,"length":68,"style":"textTransform:none"},{"offset":0,"length":68,"style":"textShadowOpacity:none"},{"offset":0,"length":68,"style":"overridden:true"},{"offset":0,"length":68,"style":"textDecoration:none"},{"offset":0,"length":68,"style":"lineHeight:130%"},{"offset":0,"length":68,"style":"fontFamily:Georgia"},{"offset":0,"length":68,"style":"borderBottomStyle:none"},{"offset":15,"length":9,"style":"fontWeight:bold"},{"offset":0,"length":68,"style":"desktop-fontSize:22"},{"offset":0,"length":68,"style":"textShadowEnable:false"},{"offset":0,"length":68,"style":"hlnk:"},{"offset":0,"length":15,"style":"fontWeight:normal"},{"offset":24,"length":44,"style":"fontWeight:normal"},{"offset":0,"length":68,"style":"backgroundColor:unset"},{"offset":0,"length":68,"style":"textShadowBlur:8px"},{"offset":0,"length":68,"style":"hlnkt:wp"},{"offset":0,"length":68,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":68,"style":"tablet-fontSize:20"},{"offset":0,"length":68,"style":"fontStyle:normal"},{"offset":0,"length":68,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":68,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":68,"style":"textOutlineEnable:false"},{"offset":0,"length":68,"style":"opacity:1"},{"offset":0,"length":68,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":68,"style":"hlnke:true"},{"offset":0,"length":68,"style":"defaultTextShadow:none"},{"offset":0,"length":68,"style":"textShadow:none"},{"offset":0,"length":68,"style":"mobile-fontSize:18"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"97t5o","text":"Bank 1 defines a customer as someone who has an account at their bank.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":70,"style":"hlnk:"},{"offset":0,"length":17,"style":"fontWeight:normal"},{"offset":26,"length":44,"style":"fontWeight:normal"},{"offset":0,"length":70,"style":"textShadowBlur:8px"},{"offset":0,"length":70,"style":"backgroundColor:unset"},{"offset":0,"length":70,"style":"fontFamily:Arial"},{"offset":0,"length":70,"style":"hlnkt:wp"},{"offset":0,"length":70,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":70,"style":"tablet-fontSize:20"},{"offset":0,"length":70,"style":"fontStyle:normal"},{"offset":0,"length":70,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":70,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":70,"style":"textOutlineEnable:false"},{"offset":0,"length":70,"style":"opacity:1"},{"offset":0,"length":70,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":70,"style":"hlnke:true"},{"offset":0,"length":70,"style":"defaultTextShadow:none"},{"offset":0,"length":70,"style":"textShadow:none"},{"offset":0,"length":70,"style":"mobile-fontSize:18"},{"offset":0,"length":70,"style":"textShadowX:0px"},{"offset":0,"length":70,"style":"fontStretch:normal"},{"offset":0,"length":70,"style":"fontType:regular"},{"offset":0,"length":70,"style":"color:#333333"},{"offset":0,"length":70,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":70,"style":"textShadowY:4px"},{"offset":0,"length":70,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":70,"style":"letterSpacing:0%"},{"offset":0,"length":70,"style":"textHighlightEnable:false"},{"offset":0,"length":70,"style":"textTransform:none"},{"offset":0,"length":70,"style":"textShadowOpacity:none"},{"offset":0,"length":70,"style":"overridden:true"},{"offset":0,"length":70,"style":"textDecoration:none"},{"offset":0,"length":70,"style":"lineHeight:130%"},{"offset":0,"length":70,"style":"borderBottomStyle:none"},{"offset":17,"length":9,"style":"fontWeight:bold"},{"offset":0,"length":70,"style":"desktop-fontSize:22"},{"offset":0,"length":70,"style":"textShadowEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -3674,7 +3514,7 @@ b:[0,0,1,1],
 fh:false,
 fw:false,
 uid:15942,
-iso:false,
+iso:true,
 css:{
 360:{
 l:'0.000%',
@@ -3770,8 +3610,8 @@ vb:[-1,-1,2,2]
 si15952:{
 name:'Character-Speech-Card_2',
 type:1268,
-from:181,
-to:270,
+from:1891,
+to:1980,
 rp:0,
 rpa:0,
 mdi:'si15952c',
@@ -3938,8 +3778,8 @@ vb:[-1,-1,1,1]
 si15960:{
 name:'Text_393',
 type:1250,
-from:181,
-to:270,
+from:1891,
+to:1980,
 rp:0,
 rpa:0,
 mdi:'si15960c',
@@ -3969,7 +3809,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"1912d","text":"Bank 2 defines a customer as anyone who comes into their bank, even if the person is just cashing a cheque.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":107,"style":"lineHeight:130%"},{"offset":0,"length":107,"style":"fontFamily:Georgia"},{"offset":0,"length":107,"style":"borderBottomStyle:none"},{"offset":17,"length":8,"style":"fontWeight:bold"},{"offset":0,"length":107,"style":"desktop-fontSize:22"},{"offset":0,"length":107,"style":"textShadowEnable:false"},{"offset":0,"length":107,"style":"hlnk:"},{"offset":0,"length":17,"style":"fontWeight:normal"},{"offset":25,"length":82,"style":"fontWeight:normal"},{"offset":0,"length":107,"style":"textShadowBlur:8px"},{"offset":0,"length":107,"style":"backgroundColor:unset"},{"offset":0,"length":107,"style":"overridden:false"},{"offset":0,"length":107,"style":"hlnkt:wp"},{"offset":0,"length":107,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":107,"style":"tablet-fontSize:20"},{"offset":0,"length":107,"style":"fontStyle:normal"},{"offset":0,"length":107,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":107,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":107,"style":"textOutlineEnable:false"},{"offset":0,"length":107,"style":"opacity:1"},{"offset":0,"length":107,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":107,"style":"hlnke:true"},{"offset":0,"length":107,"style":"defaultTextShadow:none"},{"offset":0,"length":107,"style":"textShadow:none"},{"offset":0,"length":107,"style":"mobile-fontSize:18"},{"offset":0,"length":107,"style":"textShadowX:0px"},{"offset":0,"length":107,"style":"fontStretch:normal"},{"offset":0,"length":107,"style":"fontType:regular"},{"offset":0,"length":107,"style":"color:#333333"},{"offset":0,"length":107,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":107,"style":"textShadowY:4px"},{"offset":0,"length":107,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":107,"style":"letterSpacing:0%"},{"offset":0,"length":107,"style":"textHighlightEnable:false"},{"offset":0,"length":107,"style":"textTransform:none"},{"offset":0,"length":107,"style":"textShadowOpacity:none"},{"offset":0,"length":107,"style":"textDecoration:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"false","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"1912d","text":"Bank 2 defines a customer as anyone who comes into their bank, even if the person is just cashing a cheque.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":107,"style":"opacity:1"},{"offset":0,"length":107,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":107,"style":"hlnke:true"},{"offset":0,"length":107,"style":"defaultTextShadow:none"},{"offset":0,"length":107,"style":"textShadow:none"},{"offset":0,"length":107,"style":"mobile-fontSize:18"},{"offset":0,"length":107,"style":"textShadowX:0px"},{"offset":0,"length":107,"style":"fontStretch:normal"},{"offset":0,"length":107,"style":"fontType:regular"},{"offset":0,"length":107,"style":"color:#333333"},{"offset":0,"length":107,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":107,"style":"textShadowY:4px"},{"offset":0,"length":107,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":107,"style":"letterSpacing:0%"},{"offset":0,"length":107,"style":"textHighlightEnable:false"},{"offset":0,"length":107,"style":"textTransform:none"},{"offset":0,"length":107,"style":"textShadowOpacity:none"},{"offset":0,"length":107,"style":"overridden:true"},{"offset":0,"length":107,"style":"textDecoration:none"},{"offset":0,"length":107,"style":"lineHeight:130%"},{"offset":0,"length":107,"style":"borderBottomStyle:none"},{"offset":17,"length":8,"style":"fontWeight:bold"},{"offset":0,"length":107,"style":"desktop-fontSize:22"},{"offset":0,"length":107,"style":"textShadowEnable:false"},{"offset":0,"length":107,"style":"hlnk:"},{"offset":0,"length":17,"style":"fontWeight:normal"},{"offset":25,"length":82,"style":"fontWeight:normal"},{"offset":0,"length":107,"style":"textShadowBlur:8px"},{"offset":0,"length":107,"style":"backgroundColor:unset"},{"offset":0,"length":107,"style":"fontFamily:Arial"},{"offset":0,"length":107,"style":"hlnkt:wp"},{"offset":0,"length":107,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":107,"style":"tablet-fontSize:20"},{"offset":0,"length":107,"style":"fontStyle:normal"},{"offset":0,"length":107,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":107,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":107,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -5412,8 +5252,8 @@ vb:[-1,-1,2,2]
 Slide15790:{
 lb:'L2-1 Definitions',
 id:15790,
-from:1261,
-to:1350,
+from:1891,
+to:1980,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -5496,8 +5336,8 @@ visible:'1'
 si16156:{
 name:'Quotes_1',
 type:1268,
-from:271,
-to:360,
+from:1981,
+to:2070,
 rp:0,
 rpa:0,
 mdi:'si16156c',
@@ -7130,8 +6970,8 @@ vb:[-1,-1,2,2]
 Slide16134:{
 lb:'L2-1 Solution',
 id:16134,
-from:1351,
-to:1440,
+from:1981,
+to:2070,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -21770,8 +21610,8 @@ vb:[-1,-1,2,2]
 si15526:{
 name:'Multi_Column_Text_1',
 type:1268,
-from:451,
-to:540,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si15526c',
@@ -21941,8 +21781,8 @@ vb:[-1,-1,1,1]
 si15534:{
 name:'Text_Column_Group_1',
 type:1268,
-from:451,
-to:540,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si15534c',
@@ -22266,8 +22106,8 @@ vb:[-1,-1,2,2]
 si15562:{
 name:'Text_379',
 type:1250,
-from:451,
-to:540,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si15562c',
@@ -22297,7 +22137,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"dkkpl","text":"Where it is necesary to create a new vocabulary to describe new class objects and their relations, like in the case of the ePO, new vocabularies are developed with consultation with the necessary experts.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":204,"style":"textShadowX:0px"},{"offset":0,"length":204,"style":"fontStretch:normal"},{"offset":0,"length":204,"style":"fontType:regular"},{"offset":0,"length":204,"style":"color:#333333"},{"offset":0,"length":204,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":204,"style":"textShadowY:4px"},{"offset":0,"length":204,"style":"letterSpacing:3%"},{"offset":0,"length":204,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":204,"style":"textHighlightEnable:false"},{"offset":0,"length":204,"style":"textTransform:none"},{"offset":0,"length":204,"style":"textShadowOpacity:none"},{"offset":0,"length":204,"style":"overridden:true"},{"offset":0,"length":204,"style":"textDecoration:none"},{"offset":0,"length":204,"style":"lineHeight:130%"},{"offset":0,"length":204,"style":"borderBottomStyle:none"},{"offset":0,"length":204,"style":"desktop-fontSize:22"},{"offset":0,"length":204,"style":"textShadowEnable:false"},{"offset":0,"length":204,"style":"hlnk:"},{"offset":0,"length":204,"style":"fontWeight:normal"},{"offset":0,"length":204,"style":"textShadowBlur:8px"},{"offset":0,"length":204,"style":"fontFamily:Arial"},{"offset":0,"length":204,"style":"backgroundColor:unset"},{"offset":0,"length":204,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":204,"style":"hlnkt:wp"},{"offset":0,"length":204,"style":"fontStyle:normal"},{"offset":0,"length":204,"style":"tablet-fontSize:20"},{"offset":0,"length":204,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":204,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":204,"style":"textOutlineEnable:false"},{"offset":0,"length":204,"style":"opacity:1"},{"offset":0,"length":204,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":204,"style":"hlnke:true"},{"offset":0,"length":204,"style":"defaultTextShadow:none"},{"offset":0,"length":204,"style":"textShadow:none"},{"offset":0,"length":204,"style":"mobile-fontSize:18"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"dkkpl","text":"Where it is necessary to create a new vocabulary to describe new class objects and their relations, like in the case of the ePO, new vocabularies are developed with consultation with the necessary experts.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":205,"style":"borderBottomStyle:none"},{"offset":0,"length":205,"style":"desktop-fontSize:22"},{"offset":0,"length":205,"style":"textShadowEnable:false"},{"offset":0,"length":205,"style":"hlnk:"},{"offset":0,"length":205,"style":"fontWeight:normal"},{"offset":0,"length":205,"style":"textShadowBlur:8px"},{"offset":0,"length":205,"style":"fontFamily:Arial"},{"offset":0,"length":205,"style":"backgroundColor:unset"},{"offset":0,"length":205,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":205,"style":"hlnkt:wp"},{"offset":0,"length":205,"style":"fontStyle:normal"},{"offset":0,"length":205,"style":"tablet-fontSize:20"},{"offset":0,"length":205,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":205,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":205,"style":"textOutlineEnable:false"},{"offset":0,"length":205,"style":"opacity:1"},{"offset":0,"length":205,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":205,"style":"hlnke:true"},{"offset":0,"length":205,"style":"defaultTextShadow:none"},{"offset":0,"length":205,"style":"textShadow:none"},{"offset":0,"length":205,"style":"mobile-fontSize:18"},{"offset":0,"length":205,"style":"textShadowX:0px"},{"offset":0,"length":205,"style":"fontStretch:normal"},{"offset":0,"length":205,"style":"fontType:regular"},{"offset":0,"length":205,"style":"color:#333333"},{"offset":0,"length":205,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":205,"style":"textShadowY:4px"},{"offset":0,"length":205,"style":"letterSpacing:3%"},{"offset":0,"length":205,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":205,"style":"textHighlightEnable:false"},{"offset":0,"length":205,"style":"textTransform:none"},{"offset":0,"length":205,"style":"textShadowOpacity:none"},{"offset":0,"length":205,"style":"overridden:true"},{"offset":0,"length":205,"style":"textDecoration:none"},{"offset":0,"length":205,"style":"lineHeight:130%"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -22419,8 +22259,8 @@ vb:[-1,-1,2,2]
 si15588:{
 name:'Text_Column_Group_2',
 type:1268,
-from:451,
-to:540,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si15588c',
@@ -22744,8 +22584,8 @@ vb:[-1,-1,2,2]
 si15616:{
 name:'Text_382',
 type:1250,
-from:451,
-to:540,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si15616c',
@@ -22775,7 +22615,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"7vr07","text":"Where vocabularies already exist, like for the descriptions of persons, or criteria, locations, or many others, the chances are good that a vocabulary already exists and can be reused. This is by far the best approach as the more widely a vocabulary is adopted, the easier it is to connect your data with other peoples data.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":324,"style":"opacity:1"},{"offset":0,"length":324,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":324,"style":"hlnke:true"},{"offset":0,"length":324,"style":"defaultTextShadow:none"},{"offset":0,"length":324,"style":"textShadow:none"},{"offset":0,"length":324,"style":"mobile-fontSize:18"},{"offset":0,"length":324,"style":"textShadowX:0px"},{"offset":0,"length":324,"style":"fontStretch:normal"},{"offset":0,"length":324,"style":"fontType:regular"},{"offset":0,"length":324,"style":"color:#333333"},{"offset":0,"length":324,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":324,"style":"textShadowY:4px"},{"offset":0,"length":324,"style":"letterSpacing:3%"},{"offset":0,"length":324,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":324,"style":"textHighlightEnable:false"},{"offset":0,"length":324,"style":"textTransform:none"},{"offset":0,"length":324,"style":"textShadowOpacity:none"},{"offset":0,"length":324,"style":"overridden:true"},{"offset":0,"length":324,"style":"textDecoration:none"},{"offset":0,"length":324,"style":"lineHeight:130%"},{"offset":0,"length":324,"style":"borderBottomStyle:none"},{"offset":0,"length":324,"style":"desktop-fontSize:22"},{"offset":0,"length":324,"style":"textShadowEnable:false"},{"offset":0,"length":324,"style":"hlnk:"},{"offset":0,"length":324,"style":"fontWeight:normal"},{"offset":0,"length":324,"style":"textShadowBlur:8px"},{"offset":0,"length":324,"style":"fontFamily:Arial"},{"offset":0,"length":324,"style":"backgroundColor:unset"},{"offset":0,"length":324,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":324,"style":"hlnkt:wp"},{"offset":0,"length":324,"style":"fontStyle:normal"},{"offset":0,"length":324,"style":"tablet-fontSize:20"},{"offset":0,"length":324,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":324,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":324,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"7vr07","text":"Where vocabularies already exist, like for the descriptions of persons, or criteria, locations, or many others, the chances are that a vocabulary already exists and can be reused. This is by far the best approach as the more widely a vocabulary is adopted, the easier it is to connect your data with other peoples\' data.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":320,"style":"overridden:true"},{"offset":0,"length":320,"style":"textDecoration:none"},{"offset":0,"length":320,"style":"lineHeight:130%"},{"offset":0,"length":320,"style":"borderBottomStyle:none"},{"offset":0,"length":320,"style":"desktop-fontSize:22"},{"offset":0,"length":320,"style":"textShadowEnable:false"},{"offset":0,"length":320,"style":"hlnk:"},{"offset":0,"length":320,"style":"fontWeight:normal"},{"offset":0,"length":320,"style":"textShadowBlur:8px"},{"offset":0,"length":320,"style":"fontFamily:Arial"},{"offset":0,"length":320,"style":"backgroundColor:unset"},{"offset":0,"length":320,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":320,"style":"hlnkt:wp"},{"offset":0,"length":320,"style":"fontStyle:normal"},{"offset":0,"length":320,"style":"tablet-fontSize:20"},{"offset":0,"length":320,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":320,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":320,"style":"textOutlineEnable:false"},{"offset":0,"length":320,"style":"opacity:1"},{"offset":0,"length":320,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":320,"style":"hlnke:true"},{"offset":0,"length":320,"style":"defaultTextShadow:none"},{"offset":0,"length":320,"style":"textShadow:none"},{"offset":0,"length":320,"style":"mobile-fontSize:18"},{"offset":0,"length":320,"style":"textShadowX:0px"},{"offset":0,"length":320,"style":"fontStretch:normal"},{"offset":0,"length":320,"style":"fontType:regular"},{"offset":0,"length":320,"style":"color:#333333"},{"offset":0,"length":320,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":320,"style":"textShadowY:4px"},{"offset":0,"length":320,"style":"letterSpacing:3%"},{"offset":0,"length":320,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":320,"style":"textHighlightEnable:false"},{"offset":0,"length":320,"style":"textTransform:none"},{"offset":0,"length":320,"style":"textShadowOpacity:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -23839,8 +23679,8 @@ vb:[-1,-1,2,2]
 Slide15504:{
 lb:'L2-1  Creating vs Reusing Ontologies',
 id:15504,
-from:451,
-to:540,
+from:2071,
+to:2160,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -53398,8 +53238,8 @@ visible:'1'
 si17079:{
 name:'ResponsiveContainer_418',
 type:1268,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17079c',
@@ -53573,8 +53413,8 @@ vb:[-1,-1,1,1]
 si17087:{
 name:'ResponsiveContainer_419',
 type:1268,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17087c',
@@ -53781,8 +53621,8 @@ vb:[-1,-1,1,1]
 si17095:{
 name:'Text_421',
 type:1250,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17095c',
@@ -53933,8 +53773,8 @@ vb:[-1,-1,2,2]
 si17104:{
 name:'Text_422',
 type:1250,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17104c',
@@ -54085,8 +53925,8 @@ vb:[-1,-1,2,2]
 si17113:{
 name:'Checkbox_3',
 type:10090,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17113c',
@@ -54246,8 +54086,8 @@ vb:[-2,-2,-1,-1]
 si17125:{
 name:'Checkbox_4',
 type:10090,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17125c',
@@ -54407,8 +54247,8 @@ vb:[-2,-2,-1,-1]
 si17137:{
 name:'Button_348',
 type:29,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17137c',
@@ -54561,8 +54401,8 @@ vb:[-2,-2,-1,-1]
 si17152:{
 name:'Button_349',
 type:29,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17152c',
@@ -54715,8 +54555,8 @@ vb:[-2,-2,-1,-1]
 si17167:{
 name:'Button_350',
 type:29,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17167c',
@@ -54869,8 +54709,8 @@ vb:[-2,-2,-1,-1]
 si17182:{
 name:'Button_351',
 type:29,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17182c',
@@ -55023,8 +54863,8 @@ vb:[-2,-2,-1,-1]
 si17197:{
 name:'Button_352',
 type:29,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17197c',
@@ -55177,8 +55017,8 @@ vb:[-2,-2,-1,-1]
 si17206:{
 name:'Button_353',
 type:29,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17206c',
@@ -55331,8 +55171,8 @@ vb:[-2,-2,-1,-1]
 si17221:{
 name:'Button_354',
 type:29,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17221c',
@@ -55485,8 +55325,8 @@ vb:[-2,-2,-1,-1]
 si17249:{
 name:'Caption_4',
 type:612,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17249c',
@@ -55716,8 +55556,8 @@ vb:[-4,-4,2,2]
 si17260:{
 name:'Caption_4',
 type:612,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17260c',
@@ -55947,8 +55787,8 @@ vb:[-4,-4,2,2]
 si17271:{
 name:'Caption_4',
 type:612,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17271c',
@@ -56178,8 +56018,8 @@ vb:[-4,-4,2,2]
 si17236:{
 name:'Caption_4',
 type:612,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17236c',
@@ -56439,8 +56279,8 @@ vb:[-4,-4,2,2]
 si17443:{
 name:'Caption_4',
 type:612,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17443c',
@@ -56670,8 +56510,8 @@ vb:[-4,-4,2,2]
 si17454:{
 name:'Caption_4',
 type:612,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17454c',
@@ -56901,8 +56741,8 @@ vb:[-4,-4,2,2]
 si17294:{
 name:'Caption_5',
 type:612,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17294c',
@@ -57132,8 +56972,8 @@ vb:[-4,-4,2,2]
 si17305:{
 name:'Caption_5',
 type:612,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17305c',
@@ -57363,8 +57203,8 @@ vb:[-4,-4,2,2]
 si17316:{
 name:'Caption_5',
 type:612,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17316c',
@@ -57594,8 +57434,8 @@ vb:[-4,-4,2,2]
 si17281:{
 name:'Caption_5',
 type:612,
-from:721,
-to:810,
+from:2161,
+to:2250,
 rp:0,
 rpa:0,
 mdi:'si17281c',
@@ -57843,8 +57683,8 @@ vb:[-4,-4,2,2]
 Slide17030:{
 lb:'L2-1 Quiz 2',
 id:17030,
-from:721,
-to:810,
+from:2161,
+to:2250,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -57895,9 +57735,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide17030q0',
-qnq:0,
-pa:764,
+qs:'Slide17030q1',
+qnq:1,
+pa:2206,
 iph:{
 17069:{
 ts:'',
@@ -57922,7 +57762,7 @@ uid:17030,
 dn:'Slide17030',
 visible:'1'
 },
-Slide17030q0:{
+Slide17030q1:{
 noa:1024,
 qt:'',
 it:false,
@@ -57933,7 +57773,7 @@ sat:true,
 qst:3,
 ish:false,
 ips:false,
-qnq:0,
+qnq:1,
 sn:'Slide17030',
 oid:'$$OBJECTIVE_ID',
 iid:'17055',
@@ -57948,7 +57788,7 @@ sfrc:false,
 frc:'',
 ifc:[],
 ofct:false,
-ao:['si17113c:0','si17125c:1'],
+ao:['si17113c:2','si17125c:3'],
 qtc:'',
 JSONTT_4:[],
 JSONTT_5:[],
@@ -69368,8 +69208,8 @@ vb:[-4,-4,2,2]
 Slide16755:{
 lb:'Result 1',
 id:16755,
-from:901,
-to:990,
+from:2251,
+to:2340,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -69423,7 +69263,7 @@ bph:[]
 bookmarks:[]
 ,
 qs:'',
-pa:929,
+pa:2281,
 iph:{
 16786:{
 ts:'',
@@ -71610,8 +71450,8 @@ vb:[-1,-1,2,2]
 si9696:{
 name:'List_6',
 type:1268,
-from:1081,
-to:1170,
+from:2341,
+to:2430,
 rp:0,
 rpa:0,
 mdi:'si9696c',
@@ -71777,8 +71617,8 @@ vb:[-1,-1,1,1]
 si9704:{
 name:'List_Group_6',
 type:1268,
-from:1081,
-to:1170,
+from:2341,
+to:2430,
 rp:0,
 rpa:0,
 mdi:'si9704c',
@@ -72102,8 +71942,8 @@ vb:[-1,-1,2,2]
 si9732:{
 name:'Text_250',
 type:1250,
-from:1081,
-to:1170,
+from:2341,
+to:2430,
 rp:0,
 rpa:0,
 mdi:'si9732c',
@@ -72133,7 +71973,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"6romk","text":"The ePO Conceptual model","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":24,"style":"overridden:true"},{"offset":0,"length":24,"style":"textDecoration:none"},{"offset":0,"length":24,"style":"lineHeight:130%"},{"offset":0,"length":24,"style":"borderBottomStyle:none"},{"offset":0,"length":24,"style":"desktop-fontSize:22"},{"offset":0,"length":24,"style":"textShadowEnable:false"},{"offset":0,"length":24,"style":"hlnk:https://docs.ted.europa.eu/EPO/latest/conceptual.html"},{"offset":0,"length":24,"style":"fontWeight:normal"},{"offset":0,"length":24,"style":"textShadowBlur:8px"},{"offset":0,"length":24,"style":"fontFamily:Arial"},{"offset":0,"length":24,"style":"backgroundColor:unset"},{"offset":0,"length":24,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":24,"style":"hlnkt:wp"},{"offset":0,"length":24,"style":"fontStyle:normal"},{"offset":0,"length":24,"style":"tablet-fontSize:20"},{"offset":0,"length":24,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":24,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":24,"style":"textOutlineEnable:false"},{"offset":0,"length":24,"style":"opacity:1"},{"offset":0,"length":24,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":24,"style":"hlnke:true"},{"offset":0,"length":24,"style":"defaultTextShadow:none"},{"offset":0,"length":24,"style":"textShadow:none"},{"offset":0,"length":24,"style":"mobile-fontSize:18"},{"offset":0,"length":24,"style":"textShadowX:0px"},{"offset":0,"length":24,"style":"fontStretch:normal"},{"offset":0,"length":24,"style":"fontType:regular"},{"offset":0,"length":24,"style":"color:#666666"},{"offset":0,"length":24,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":24,"style":"textShadowY:4px"},{"offset":0,"length":24,"style":"letterSpacing:3%"},{"offset":0,"length":24,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":24,"style":"textHighlightEnable:false"},{"offset":0,"length":24,"style":"textTransform:none"},{"offset":0,"length":24,"style":"textShadowOpacity:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#333333","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"fspcn","text":"The ePO glossaries","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":18,"style":"hlnk:"},{"offset":0,"length":18,"style":"hlnkt:wp"},{"offset":0,"length":18,"style":"textOutlineEnable:false"},{"offset":0,"length":18,"style":"opacity:1"},{"offset":0,"length":18,"style":"hlnke:true"},{"offset":0,"length":18,"style":"backgroundColor:unset"},{"offset":0,"length":18,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":18,"style":"textHighlightEnable:false"},{"offset":0,"length":18,"style":"textShadowEnable:false"},{"offset":0,"length":18,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#333333","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-2"}},{"key":"f8kvd","text":"EU vocabularies: ePO","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":20,"style":"overridden:false"},{"offset":0,"length":20,"style":"hlnk:"},{"offset":0,"length":20,"style":"hlnkt:wp"},{"offset":0,"length":20,"style":"textOutlineEnable:false"},{"offset":0,"length":20,"style":"opacity:1"},{"offset":0,"length":20,"style":"hlnke:true"},{"offset":0,"length":20,"style":"backgroundColor:unset"},{"offset":0,"length":20,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":20,"style":"textHighlightEnable:false"},{"offset":0,"length":20,"style":"textShadowEnable:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#333333","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-2"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"6romk","text":"The ePO Conceptual model","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":24,"style":"fontStretch:normal"},{"offset":0,"length":24,"style":"fontType:regular"},{"offset":0,"length":24,"style":"color:#666666"},{"offset":0,"length":24,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":24,"style":"textShadowY:4px"},{"offset":0,"length":24,"style":"letterSpacing:3%"},{"offset":0,"length":24,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":24,"style":"textHighlightEnable:false"},{"offset":0,"length":24,"style":"textTransform:none"},{"offset":0,"length":24,"style":"textShadowOpacity:none"},{"offset":0,"length":24,"style":"overridden:true"},{"offset":0,"length":24,"style":"textDecoration:none"},{"offset":0,"length":24,"style":"lineHeight:130%"},{"offset":0,"length":24,"style":"borderBottomStyle:none"},{"offset":0,"length":24,"style":"desktop-fontSize:22"},{"offset":0,"length":24,"style":"textShadowEnable:false"},{"offset":0,"length":24,"style":"fontWeight:normal"},{"offset":0,"length":24,"style":"textShadowBlur:8px"},{"offset":0,"length":24,"style":"hlnk:—"},{"offset":0,"length":24,"style":"fontFamily:Arial"},{"offset":0,"length":24,"style":"backgroundColor:unset"},{"offset":0,"length":24,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":24,"style":"hlnkt:wp"},{"offset":0,"length":24,"style":"fontStyle:normal"},{"offset":0,"length":24,"style":"tablet-fontSize:20"},{"offset":0,"length":24,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":24,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":24,"style":"textOutlineEnable:false"},{"offset":0,"length":24,"style":"opacity:1"},{"offset":0,"length":24,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":24,"style":"hlnke:true"},{"offset":0,"length":24,"style":"defaultTextShadow:none"},{"offset":0,"length":24,"style":"textShadow:none"},{"offset":0,"length":24,"style":"mobile-fontSize:18"},{"offset":0,"length":24,"style":"textShadowX:0px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#333333","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"fspcn","text":"The ePO glossaries","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":18,"style":"textShadow:none"},{"offset":0,"length":18,"style":"mobile-fontSize:18"},{"offset":0,"length":18,"style":"textShadowX:0px"},{"offset":0,"length":18,"style":"fontStretch:normal"},{"offset":0,"length":18,"style":"fontType:regular"},{"offset":0,"length":18,"style":"color:#666666"},{"offset":0,"length":18,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":18,"style":"textShadowY:4px"},{"offset":0,"length":18,"style":"letterSpacing:3%"},{"offset":0,"length":18,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":18,"style":"textHighlightEnable:false"},{"offset":0,"length":18,"style":"textTransform:none"},{"offset":0,"length":18,"style":"textShadowOpacity:none"},{"offset":0,"length":18,"style":"overridden:true"},{"offset":0,"length":18,"style":"hlnk:https://docs.ted.europa.eu/EPO/latest/glossaries.html"},{"offset":0,"length":18,"style":"textDecoration:none"},{"offset":0,"length":18,"style":"lineHeight:130%"},{"offset":0,"length":18,"style":"borderBottomStyle:none"},{"offset":0,"length":18,"style":"desktop-fontSize:22"},{"offset":0,"length":18,"style":"textShadowEnable:false"},{"offset":0,"length":18,"style":"fontWeight:normal"},{"offset":0,"length":18,"style":"textShadowBlur:8px"},{"offset":0,"length":18,"style":"fontFamily:Arial"},{"offset":0,"length":18,"style":"backgroundColor:unset"},{"offset":0,"length":18,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":18,"style":"hlnkt:wp"},{"offset":0,"length":18,"style":"fontStyle:normal"},{"offset":0,"length":18,"style":"tablet-fontSize:20"},{"offset":0,"length":18,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":18,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":18,"style":"textOutlineEnable:false"},{"offset":0,"length":18,"style":"opacity:1"},{"offset":0,"length":18,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":18,"style":"hlnke:true"},{"offset":0,"length":18,"style":"defaultTextShadow:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#333333","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"f8kvd","text":"EU vocabularies: ePO","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":20,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":20,"style":"hlnk:https://op.europa.eu/en/web/eu-vocabularies/e-procurement"},{"offset":0,"length":20,"style":"textHighlightEnable:false"},{"offset":0,"length":20,"style":"overridden:false"},{"offset":0,"length":20,"style":"textShadowEnable:false"},{"offset":0,"length":20,"style":"hlnkt:wp"},{"offset":0,"length":20,"style":"textOutlineEnable:false"},{"offset":0,"length":20,"style":"opacity:1"},{"offset":0,"length":20,"style":"hlnke:true"},{"offset":0,"length":20,"style":"backgroundColor:unset"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#333333","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-2"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -72255,8 +72095,8 @@ vb:[-1,-1,2,2]
 Slide2721:{
 lb:'L2-1 End',
 id:2721,
-from:1081,
-to:1170,
+from:2341,
+to:2430,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -72331,7 +72171,7 @@ reviewShowAnswers:true,
 it:false,
 firstSlideInQuiz:-1,
 lastSlideInQuiz:-1,
-quizScopeEndSlide:10,
+quizScopeEndSlide:-1,
 maxScore:0,
 minScore:0,
 maxPretestScore:0,
@@ -72781,9 +72621,9 @@ useWidgetVersion7:false,
 isPublishedFromLacuna:false,
 vestr:0,
 vim:0,
-slides:'Slide541,Slide1700,Slide15790,Slide16134,Slide11044,Slide15504,Slide10928,Slide10696,Slide17030,Slide16454,Slide16755,Slide17326,Slide2721',
+slides:'Slide541,Slide1700,Slide15790,Slide16134,Slide11044,Slide15504,Slide10928,Slide10696,Slide17030,Slide16454,Slide17326,Slide2721',
 questionSlides:'Slide17030,Slide16454',
-questions:'Slide16454q1,Slide17030q0',
+questions:'Slide16454q1,Slide17030q1',
 autoplay:false,
 preloader:true,
 preloaderFileName:'dr/loading.gif',
@@ -72819,7 +72659,7 @@ noToolTips:false,
 locale:0
 },
 tocProperties:{
-tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":541,"isQuizSlide":false,"label":"L2-1 Title","slideVisited":false,"type":"slide","id":"Slide541"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1700,"isQuizSlide":false,"label":"L2-1 LOs","slideVisited":false,"type":"slide","id":"Slide1700"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15790,"isQuizSlide":false,"label":"L2-1 Definitions","slideVisited":false,"type":"slide","id":"Slide15790"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":16134,"isQuizSlide":false,"label":"L2-1 Solution","slideVisited":false,"type":"slide","id":"Slide16134"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11044,"isQuizSlide":false,"label":"L2-1 Controlled  Vocabularies","slideVisited":false,"type":"slide","id":"Slide11044"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15504,"isQuizSlide":false,"label":"L2-1  Creating vs Reusing Ontologies","slideVisited":false,"type":"slide","id":"Slide15504"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10928,"isQuizSlide":false,"label":"L2-1 Conceptual Models","slideVisited":false,"type":"slide","id":"Slide10928"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10696,"isQuizSlide":false,"label":"L2-1 Glossaries","slideVisited":false,"type":"slide","id":"Slide10696"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17030,"isQuizSlide":true,"label":"L2-1 Quiz 2","slideVisited":false,"type":"slide","id":"Slide17030"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":16454,"isQuizSlide":true,"label":"L2-1 Quiz 1","slideVisited":false,"type":"slide","id":"Slide16454"},{"parentId":null,"isVisible":false,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":16755,"isQuizSlide":true,"label":"Result 1","slideVisited":false,"type":"slide","id":"Slide16755"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17326,"isQuizSlide":false,"label":"L2-1 Quiz Discussion","slideVisited":false,"type":"slide","id":"Slide17326"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":2721,"isQuizSlide":false,"label":"L2-1 End","slideVisited":false,"type":"slide","id":"Slide2721"}],"tocGeneratedOnPreviewClick":false,"preserveSlidesOrder":true},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":false,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
+tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":541,"isQuizSlide":false,"label":"L2-1 Title","slideVisited":false,"type":"slide","id":"Slide541"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1700,"isQuizSlide":false,"label":"L2-1 LOs","slideVisited":false,"type":"slide","id":"Slide1700"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15790,"isQuizSlide":false,"label":"L2-1 Definitions","slideVisited":false,"type":"slide","id":"Slide15790"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":16134,"isQuizSlide":false,"label":"L2-1 Solution","slideVisited":false,"type":"slide","id":"Slide16134"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11044,"isQuizSlide":false,"label":"L2-1 Controlled  Vocabularies","slideVisited":false,"type":"slide","id":"Slide11044"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15504,"isQuizSlide":false,"label":"L2-1  Creating vs Reusing Ontologies","slideVisited":false,"type":"slide","id":"Slide15504"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10928,"isQuizSlide":false,"label":"L2-1 Conceptual Models","slideVisited":false,"type":"slide","id":"Slide10928"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10696,"isQuizSlide":false,"label":"L2-1 Glossaries","slideVisited":false,"type":"slide","id":"Slide10696"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17030,"isQuizSlide":true,"label":"L2-1 Quiz 2","slideVisited":false,"type":"slide","id":"Slide17030"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":16454,"isQuizSlide":true,"label":"L2-1 Quiz 1","slideVisited":false,"type":"slide","id":"Slide16454"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17326,"isQuizSlide":false,"label":"L2-1 Quiz Discussion","slideVisited":false,"type":"slide","id":"Slide17326"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":2721,"isQuizSlide":false,"label":"L2-1 End","slideVisited":false,"type":"slide","id":"Slide2721"}],"tocGeneratedOnPreviewClick":false,"preserveSlidesOrder":true},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":false,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
 },
 trecs:[{
 link:541,
@@ -73215,6 +73055,13 @@ resources:['dr/013105.png','dr/07908.png','dr/08032.png','dr/08156.png','dr/0828
 slideID:7,
 ResourceList:{
 resources:['dr/014068.png','dr/07908.png','dr/08032.png','dr/08156.png','dr/08280.png','dr/08404.png','dr/08528.png','dr/08644.svg']
+}
+
+}
+,{
+slideID:12,
+ResourceList:{
+resources:['dr/013105.png']
 }
 
 }

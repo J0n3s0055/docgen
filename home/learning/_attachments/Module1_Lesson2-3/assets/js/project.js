@@ -8,8 +8,8 @@ atp:false
 si519:{
 name:'Image_3',
 type:1268,
-from:1441,
-to:1530,
+from:1,
+to:90,
 rp:0,
 rpa:0,
 mdi:'si519c',
@@ -175,8 +175,8 @@ vb:[-1,-1,1,1]
 si513:{
 name:'Image_Group_3',
 type:1268,
-from:1441,
-to:1530,
+from:1,
+to:90,
 rp:0,
 rpa:0,
 mdi:'si513c',
@@ -347,8 +347,8 @@ vb:[-1,-1,1,1]
 si428:{
 name:'sparql_copy(2)',
 type:15,
-from:1441,
-to:1530,
+from:1,
+to:90,
 rp:0,
 rpa:0,
 mdi:'si428c',
@@ -853,8 +853,8 @@ vb:[-1,-1,2,2]
 Slide541:{
 lb:'L2-3 Title',
 id:541,
-from:1441,
-to:1530,
+from:1,
+to:90,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -3077,8 +3077,8 @@ vb:[-1,-1,2,2]
 Slide6040:{
 lb:'L2-3 RDF_ SPARQL',
 id:6040,
-from:1531,
-to:1620,
+from:181,
+to:270,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -3791,8 +3791,8 @@ vb:[-1,-1,2,2]
 si15263:{
 name:'List_14',
 type:1268,
-from:1621,
-to:1710,
+from:271,
+to:360,
 rp:0,
 rpa:0,
 mdi:'si15263c',
@@ -3958,8 +3958,8 @@ vb:[-1,-1,1,1]
 si15257:{
 name:'List_Group_14',
 type:1268,
-from:1621,
-to:1710,
+from:271,
+to:360,
 rp:0,
 rpa:0,
 mdi:'si15257c',
@@ -4126,8 +4126,8 @@ vb:[-1,-1,1,1]
 si15203:{
 name:'Text_376',
 type:1250,
-from:1621,
-to:1710,
+from:271,
+to:360,
 rp:0,
 rpa:0,
 mdi:'si15203c',
@@ -4279,8 +4279,8 @@ vb:[-1,-1,2,2]
 Slide15285:{
 lb:'L2-3 RDF',
 id:15285,
-from:1621,
-to:1710,
+from:271,
+to:360,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -4836,8 +4836,8 @@ vb:[-1,-1,2,2]
 si12376:{
 name:'List_12',
 type:1268,
-from:1711,
-to:1800,
+from:361,
+to:450,
 rp:0,
 rpa:0,
 mdi:'si12376c',
@@ -5003,8 +5003,8 @@ vb:[-1,-1,1,1]
 si12384:{
 name:'List_Group_12',
 type:1268,
-from:1711,
-to:1800,
+from:361,
+to:450,
 rp:0,
 rpa:0,
 mdi:'si12384c',
@@ -5171,8 +5171,8 @@ vb:[-1,-1,1,1]
 si12412:{
 name:'Text_313',
 type:1250,
-from:1711,
-to:1800,
+from:361,
+to:450,
 rp:0,
 rpa:0,
 mdi:'si12412c',
@@ -5324,8 +5324,8 @@ vb:[-1,-1,2,2]
 Slide11928:{
 lb:'L2-3 SPARQL',
 id:11928,
-from:1711,
-to:1800,
+from:361,
+to:450,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -5881,8 +5881,8 @@ vb:[-1,-1,2,2]
 si12767:{
 name:'Hotspot_Widget_1',
 type:1268,
-from:1801,
-to:1890,
+from:451,
+to:540,
 rp:0,
 rpa:0,
 mdi:'si12767c',
@@ -6064,8 +6064,8 @@ vb:[-1,-1,1,1]
 si12775:{
 name:'Text_317',
 type:1250,
-from:1801,
-to:1890,
+from:451,
+to:540,
 rp:0,
 rpa:0,
 mdi:'si12775c',
@@ -20539,8 +20539,8 @@ vb:[-2,-2,-1,-1]
 Slide11972:{
 lb:'L2-3 SPARQL Endpoint',
 id:11972,
-from:1801,
-to:1890,
+from:451,
+to:540,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -20595,11 +20595,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-13707:{
+13726:{
 ts:''
 }
 ,
-13726:{
+13707:{
 ts:''
 }
 
@@ -21264,8 +21264,8 @@ vb:[-1,-1,2,2]
 si15480:{
 name:'Image_Grid_1',
 type:1268,
-from:1891,
-to:1980,
+from:541,
+to:630,
 rp:0,
 rpa:0,
 mdi:'si15480c',
@@ -22266,8 +22266,8 @@ vb:[-1,-1,2,2]
 si15555:{
 name:'Image_Grid_Group_2',
 type:1268,
-from:1891,
-to:1980,
+from:541,
+to:630,
 rp:0,
 rpa:0,
 mdi:'si15555c',
@@ -22438,8 +22438,8 @@ vb:[-1,-1,1,1]
 si15566:{
 name:'Example-of-RDF-storeresearchgate-_Fabien_Lucien_Gandon',
 type:15,
-from:1891,
-to:1980,
+from:541,
+to:630,
 rp:0,
 rpa:0,
 mdi:'si15566c',
@@ -25713,8 +25713,8 @@ vb:[-2,-2,150,30]
 Slide11950:{
 lb:'L2-3 RDF vs SQL data storage',
 id:11950,
-from:1891,
-to:1980,
+from:541,
+to:630,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -26270,8 +26270,8 @@ vb:[-1,-1,2,2]
 si16599:{
 name:'Image_4',
 type:1268,
-from:1981,
-to:2070,
+from:631,
+to:720,
 rp:0,
 rpa:0,
 mdi:'si16599c',
@@ -26437,8 +26437,8 @@ vb:[-1,-1,1,1]
 si16607:{
 name:'Image_Group_4',
 type:1268,
-from:1981,
-to:2070,
+from:631,
+to:720,
 rp:0,
 rpa:0,
 mdi:'si16607c',
@@ -26609,8 +26609,8 @@ vb:[-1,-1,1,1]
 si16615:{
 name:'query_sections',
 type:15,
-from:1981,
-to:2070,
+from:631,
+to:720,
 rp:0,
 rpa:0,
 mdi:'si16615c',
@@ -27286,8 +27286,8 @@ vb:[-1,-1,2,2]
 Slide15895:{
 lb:'L2-3 SPARQL query structure 1',
 id:15895,
-from:1981,
-to:2070,
+from:631,
+to:720,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -30559,8 +30559,8 @@ vb:[-1,-1,2,2]
 si17567:{
 name:'Carousel_Widget_1',
 type:1268,
-from:2071,
-to:2160,
+from:811,
+to:900,
 rp:0,
 rpa:0,
 mdi:'si17567c',
@@ -44572,8 +44572,8 @@ vb:[-2,-2,-1,-1]
 Slide10696:{
 lb:'L2-3 Query 1',
 id:10696,
-from:2071,
-to:2160,
+from:811,
+to:900,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -59685,11 +59685,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-19546:{
+19527:{
 ts:''
 }
 ,
-19527:{
+19546:{
 ts:''
 }
 
@@ -78491,7 +78491,7 @@ reviewShowAnswers:true,
 it:false,
 firstSlideInQuiz:-1,
 lastSlideInQuiz:-1,
-quizScopeEndSlide:15,
+quizScopeEndSlide:-1,
 maxScore:0,
 minScore:0,
 maxPretestScore:0,
@@ -78957,7 +78957,7 @@ useWidgetVersion7:false,
 isPublishedFromLacuna:false,
 vestr:1,
 vim:0,
-slides:'Slide541,Slide1700,Slide6040,Slide15285,Slide11928,Slide11972,Slide11950,Slide15895,Slide17216,Slide10696,Slide17351,Slide14753,Slide19586,Slide20020,Slide2721,Slide14500',
+slides:'Slide541,Slide1700,Slide6040,Slide15285,Slide11928,Slide11972,Slide11950,Slide15895,Slide17216,Slide10696,Slide17351,Slide14753,Slide19586,Slide20020,Slide2721',
 questionSlides:'Slide14753,Slide19586',
 slideVideos:['si17244','si17284','si17324'],
 questions:'Slide14753q0,Slide19586q1',
@@ -78996,7 +78996,7 @@ noToolTips:false,
 locale:0
 },
 tocProperties:{
-tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":541,"isQuizSlide":false,"label":"L2-3 Title","slideVisited":false,"type":"slide","id":"Slide541"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1700,"isQuizSlide":false,"label":"L2-3 LOs","slideVisited":false,"type":"slide","id":"Slide1700"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":6040,"isQuizSlide":false,"label":"L2-3 RDF_ SPARQL","slideVisited":false,"type":"slide","id":"Slide6040"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15285,"isQuizSlide":false,"label":"L2-3 RDF","slideVisited":false,"type":"slide","id":"Slide15285"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11928,"isQuizSlide":false,"label":"L2-3 SPARQL","slideVisited":false,"type":"slide","id":"Slide11928"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11972,"isQuizSlide":false,"label":"L2-3 SPARQL Endpoint","slideVisited":false,"type":"slide","id":"Slide11972"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11950,"isQuizSlide":false,"label":"L2-3 RDF vs SQL data storage","slideVisited":false,"type":"slide","id":"Slide11950"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15895,"isQuizSlide":false,"label":"L2-3 SPARQL query structure 1","slideVisited":false,"type":"slide","id":"Slide15895"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17216,"isQuizSlide":false,"label":"L2-3 SPARQL query structure 2","slideVisited":false,"type":"slide","id":"Slide17216"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10696,"isQuizSlide":false,"label":"L2-3 Query 1","slideVisited":false,"type":"slide","id":"Slide10696"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17351,"isQuizSlide":false,"label":"L2-3 Query 2","slideVisited":false,"type":"slide","id":"Slide17351"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":14753,"isQuizSlide":true,"label":"L2-3 Quiz 1","slideVisited":false,"type":"slide","id":"Slide14753"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":19586,"isQuizSlide":true,"label":"L2-3 Quiz 2","slideVisited":false,"type":"slide","id":"Slide19586"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":20020,"isQuizSlide":false,"label":"L2-3 Quiz Discussion","slideVisited":false,"type":"slide","id":"Slide20020"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":2721,"isQuizSlide":false,"label":"L2-3 End","slideVisited":false,"type":"slide","id":"Slide2721"},{"parentId":null,"isVisible":false,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":14500,"isQuizSlide":true,"label":"Result 1","slideVisited":false,"type":"slide","id":"Slide14500"}],"tocGeneratedOnPreviewClick":false,"preserveSlidesOrder":true},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":false,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
+tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":541,"isQuizSlide":false,"label":"L2-3 Title","slideVisited":false,"type":"slide","id":"Slide541"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1700,"isQuizSlide":false,"label":"L2-3 LOs","slideVisited":false,"type":"slide","id":"Slide1700"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":6040,"isQuizSlide":false,"label":"L2-3 RDF_ SPARQL","slideVisited":false,"type":"slide","id":"Slide6040"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15285,"isQuizSlide":false,"label":"L2-3 RDF","slideVisited":false,"type":"slide","id":"Slide15285"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11928,"isQuizSlide":false,"label":"L2-3 SPARQL","slideVisited":false,"type":"slide","id":"Slide11928"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11972,"isQuizSlide":false,"label":"L2-3 SPARQL Endpoint","slideVisited":false,"type":"slide","id":"Slide11972"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11950,"isQuizSlide":false,"label":"L2-3 RDF vs SQL data storage","slideVisited":false,"type":"slide","id":"Slide11950"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15895,"isQuizSlide":false,"label":"L2-3 SPARQL query structure 1","slideVisited":false,"type":"slide","id":"Slide15895"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17216,"isQuizSlide":false,"label":"L2-3 SPARQL query structure 2","slideVisited":false,"type":"slide","id":"Slide17216"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10696,"isQuizSlide":false,"label":"L2-3 Query 1","slideVisited":false,"type":"slide","id":"Slide10696"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17351,"isQuizSlide":false,"label":"L2-3 Query 2","slideVisited":false,"type":"slide","id":"Slide17351"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":14753,"isQuizSlide":true,"label":"L2-3 Quiz 1","slideVisited":false,"type":"slide","id":"Slide14753"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":19586,"isQuizSlide":true,"label":"L2-3 Quiz 2","slideVisited":false,"type":"slide","id":"Slide19586"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":20020,"isQuizSlide":false,"label":"L2-3 Quiz Discussion","slideVisited":false,"type":"slide","id":"Slide20020"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":2721,"isQuizSlide":false,"label":"L2-3 End","slideVisited":false,"type":"slide","id":"Slide2721"}],"tocGeneratedOnPreviewClick":false,"preserveSlidesOrder":true},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":false,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
 },
 trecs:[{
 link:541,
@@ -79447,7 +79447,7 @@ resources:['dr/015289.png']
 ,{
 slideID:5,
 ResourceList:{
-resources:['dr/012765.png','dr/07908.png','dr/08032.png','dr/08156.png','dr/08280.png','dr/08404.png','dr/08528.png','dr/08644.svg']
+resources:['dr/012765.png','dr/07908.png','dr/08032.png','dr/08156.png','dr/08280.png','dr/08404.png','dr/08528.png']
 }
 
 }
@@ -79468,21 +79468,14 @@ resources:['dr/016703.png']
 ,{
 slideID:9,
 ResourceList:{
-resources:['dr/017629.svg','dr/017642.svg','dr/017919.png','dr/018043.png','dr/018167.png','dr/018291.png','dr/018407.svg','dr/018518.png','dr/018520.png']
+resources:['dr/017919.png','dr/018043.png','dr/018167.png','dr/018291.png','dr/018518.png','dr/018520.png']
 }
 
 }
 ,{
 slideID:10,
 ResourceList:{
-resources:['dr/017629.svg','dr/017642.svg','dr/017919.png','dr/018043.png','dr/018167.png','dr/018291.png','dr/018407.svg','dr/019547.png','dr/019549.png']
-}
-
-}
-,{
-slideID:16,
-ResourceList:{
-resources:['dr/015289.png']
+resources:['dr/017919.png','dr/018043.png','dr/018167.png','dr/018291.png','dr/019547.png','dr/019549.png']
 }
 
 }
