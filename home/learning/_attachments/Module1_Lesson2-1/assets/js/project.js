@@ -3,7 +3,7 @@ pref:{
 acc:1,
 rkt:1,
 hsr:0,
-atp:false
+atp:true
 },
 si519:{
 name:'Image_3',
@@ -925,8 +925,8 @@ visible:'1'
 si1722:{
 name:'Paragraph_1',
 type:1268,
-from:1801,
-to:1890,
+from:2431,
+to:2520,
 rp:0,
 rpa:0,
 mdi:'si1722c',
@@ -1092,8 +1092,8 @@ vb:[-1,-1,1,1]
 si1730:{
 name:'Paragraph_Group_1',
 type:1268,
-from:1801,
-to:1890,
+from:2431,
+to:2520,
 rp:0,
 rpa:0,
 mdi:'si1730c',
@@ -1276,8 +1276,8 @@ vb:[-1,-1,1,1]
 si1738:{
 name:'Text_115',
 type:1250,
-from:91,
-to:180,
+from:2431,
+to:2520,
 rp:0,
 rpa:0,
 mdi:'si1738c',
@@ -1307,7 +1307,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"7dkjv","text":"LOs","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":3,"style":"hlnkt:wp"},{"offset":0,"length":3,"style":"textOutlineEnable:false"},{"offset":0,"length":3,"style":"opacity:1"},{"offset":0,"length":3,"style":"hlnke:true"},{"offset":0,"length":3,"style":"backgroundColor:unset"},{"offset":0,"length":3,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":3,"style":"textHighlightEnable:false"},{"offset":0,"length":3,"style":"textShadowEnable:false"},{"offset":0,"length":3,"style":"overridden:false"},{"offset":0,"length":3,"style":"hlnk:"}],"entityRanges":[],"data":{"presetId":"text-heading-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"7dkjv","text":"Learning Outcomes","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":17,"style":"hlnk:"},{"offset":0,"length":17,"style":"hlnkt:wp"},{"offset":0,"length":17,"style":"textOutlineEnable:false"},{"offset":0,"length":17,"style":"opacity:1"},{"offset":0,"length":17,"style":"hlnke:true"},{"offset":0,"length":17,"style":"backgroundColor:unset"},{"offset":0,"length":17,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":17,"style":"textHighlightEnable:false"},{"offset":0,"length":17,"style":"textShadowEnable:false"},{"offset":0,"length":17,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-heading-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -2045,8 +2045,8 @@ vb:[-2,-2,-1,-1]
 Slide1700:{
 lb:'L2-1 LOs',
 id:1700,
-from:1801,
-to:1890,
+from:2431,
+to:2520,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -72204,7 +72204,7 @@ passFailPassingScoreTypeInPrecent:true,
 passFailPassingScoreValue:80,
 showRetake:false,
 showReviewButtons:true,
-oid:'$$OBJECTIVE_ID',
+oid:'Quiz_202462151043',
 quizVariableVsIdMap:{
 learnerId:'var346',
 learnerName:'var347',
