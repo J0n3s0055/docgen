@@ -8,8 +8,8 @@ atp:false
 si519:{
 name:'Image_3',
 type:1268,
-from:1,
-to:90,
+from:631,
+to:720,
 rp:0,
 rpa:0,
 mdi:'si519c',
@@ -175,8 +175,8 @@ vb:[-1,-1,1,1]
 si513:{
 name:'Image_Group_3',
 type:1268,
-from:1,
-to:90,
+from:631,
+to:720,
 rp:0,
 rpa:0,
 mdi:'si513c',
@@ -529,8 +529,8 @@ vb:[-1,-1,1281,871]
 si456:{
 name:'Image_Group_Text_9',
 type:1268,
-from:1,
-to:90,
+from:631,
+to:720,
 rp:0,
 rpa:0,
 mdi:'si456c',
@@ -696,8 +696,8 @@ vb:[-1,-1,1,1]
 si440:{
 name:'Text_110',
 type:1250,
-from:1,
-to:90,
+from:631,
+to:720,
 rp:0,
 rpa:0,
 mdi:'si440c',
@@ -727,7 +727,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"dgjjf","text":"Lesson 2.6 Future Developments for EU Procurement Data","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":54,"style":"textShadowY:4px"},{"offset":0,"length":54,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":54,"style":"desktop-fontSize:80"},{"offset":0,"length":54,"style":"textHighlightEnable:false"},{"offset":0,"length":54,"style":"textTransform:none"},{"offset":0,"length":54,"style":"color:#020C1C"},{"offset":0,"length":54,"style":"lineHeight:110%"},{"offset":0,"length":54,"style":"textShadowOpacity:none"},{"offset":0,"length":54,"style":"textDecoration:none"},{"offset":0,"length":54,"style":"borderBottomStyle:none"},{"offset":0,"length":54,"style":"mobile-fontSize:60"},{"offset":0,"length":54,"style":"textShadowEnable:false"},{"offset":0,"length":54,"style":"hlnk:"},{"offset":0,"length":54,"style":"fontWeight:normal"},{"offset":0,"length":54,"style":"textShadowBlur:8px"},{"offset":0,"length":54,"style":"fontFamily:Arial"},{"offset":0,"length":54,"style":"overridden:false"},{"offset":0,"length":54,"style":"tablet-fontSize:72"},{"offset":0,"length":54,"style":"backgroundColor:unset"},{"offset":0,"length":54,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":54,"style":"hlnkt:wp"},{"offset":0,"length":54,"style":"fontStyle:normal"},{"offset":0,"length":54,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":54,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":54,"style":"textOutlineEnable:false"},{"offset":0,"length":54,"style":"letterSpacing:-4%"},{"offset":0,"length":54,"style":"opacity:1"},{"offset":0,"length":54,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":54,"style":"hlnke:true"},{"offset":0,"length":54,"style":"defaultTextShadow:none"},{"offset":0,"length":54,"style":"textShadow:none"},{"offset":0,"length":54,"style":"textShadowX:0px"},{"offset":0,"length":54,"style":"fontStretch:normal"},{"offset":0,"length":54,"style":"fontType:regular"},{"offset":0,"length":54,"style":"defaultBackgroundColor:#E8D01B"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"false","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-2","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"dgjjf","text":"Lesson 2.6 Future Developments for EU Procurement Data","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":54,"style":"hlnkt:wp"},{"offset":0,"length":54,"style":"fontStyle:normal"},{"offset":0,"length":54,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":54,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":54,"style":"textOutlineEnable:false"},{"offset":0,"length":54,"style":"letterSpacing:-4%"},{"offset":0,"length":54,"style":"opacity:1"},{"offset":0,"length":54,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":54,"style":"hlnke:true"},{"offset":0,"length":54,"style":"defaultTextShadow:none"},{"offset":0,"length":54,"style":"textShadow:none"},{"offset":0,"length":54,"style":"textShadowX:0px"},{"offset":0,"length":54,"style":"fontStretch:normal"},{"offset":0,"length":54,"style":"fontType:regular"},{"offset":0,"length":54,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":54,"style":"textShadowY:4px"},{"offset":0,"length":54,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":54,"style":"desktop-fontSize:80"},{"offset":0,"length":54,"style":"textHighlightEnable:false"},{"offset":0,"length":54,"style":"textTransform:none"},{"offset":0,"length":54,"style":"color:#020C1C"},{"offset":0,"length":54,"style":"lineHeight:110%"},{"offset":0,"length":54,"style":"textShadowOpacity:none"},{"offset":0,"length":54,"style":"textDecoration:none"},{"offset":0,"length":54,"style":"borderBottomStyle:none"},{"offset":0,"length":54,"style":"mobile-fontSize:60"},{"offset":0,"length":54,"style":"textShadowEnable:false"},{"offset":0,"length":54,"style":"hlnk:"},{"offset":0,"length":54,"style":"fontWeight:normal"},{"offset":0,"length":54,"style":"textShadowBlur:8px"},{"offset":0,"length":54,"style":"fontFamily:Arial"},{"offset":0,"length":54,"style":"overridden:false"},{"offset":0,"length":54,"style":"tablet-fontSize:72"},{"offset":0,"length":54,"style":"backgroundColor:unset"},{"offset":0,"length":54,"style":"WebkitTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"false","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -849,8 +849,8 @@ vb:[-1,-1,2,2]
 Slide541:{
 lb:'L2-6 Title',
 id:541,
-from:1,
-to:90,
+from:631,
+to:720,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -10496,6 +10496,13 @@ ipiv:{
 ];
 cp.model.imageresources=[{
 slideID:0,
+ResourceList:{
+resources:['dr/011834.jpg']
+}
+
+}
+,{
+slideID:7,
 ResourceList:{
 resources:['dr/011834.jpg']
 }
