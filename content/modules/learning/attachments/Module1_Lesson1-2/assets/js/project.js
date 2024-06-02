@@ -16828,7 +16828,6 @@ sk:'Blank',
 slideTag:'',
 type:30,
 slideThemeCounter:0,
-audCC:'""',
 accProps:{
 a11yTabOrder:[],
 a11yReviewTabOrder:[]
@@ -16855,12 +16854,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-6982:{
-ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 6963:{
 ts:'{"effect":1,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+6982:{
+ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -16875,20 +16874,6 @@ sr:cp.fd,
 uid:1562,
 dn:'Slide1562',
 visible:'1'
-},
-StAd0:{
-from:6805,
-to:9962,
-src:'ar/9902.mp3',
-du:105267,
-saup:[{
-sn:1562,
-del:0,
-du:105.267,
-l:false
-}
-]
-
 },
 si7815:{
 name:'Hotspot_Widget_1',
@@ -17107,7 +17092,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"5u6m","text":"eProcurement communications","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":27,"style":"textOutlineEnable:false"},{"offset":0,"length":27,"style":"tablet-fontSize:32"},{"offset":0,"length":27,"style":"opacity:1"},{"offset":0,"length":27,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":27,"style":"hlnke:true"},{"offset":0,"length":27,"style":"defaultTextShadow:none"},{"offset":0,"length":27,"style":"mobile-fontSize:28"},{"offset":0,"length":27,"style":"textShadow:none"},{"offset":0,"length":27,"style":"textShadowX:0px"},{"offset":0,"length":27,"style":"fontStretch:normal"},{"offset":0,"length":27,"style":"fontType:regular"},{"offset":0,"length":27,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":27,"style":"textShadowY:4px"},{"offset":0,"length":27,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":27,"style":"letterSpacing:0%"},{"offset":0,"length":27,"style":"textHighlightEnable:false"},{"offset":0,"length":27,"style":"textTransform:none"},{"offset":0,"length":27,"style":"color:#020C1C"},{"offset":0,"length":27,"style":"desktop-fontSize:72"},{"offset":0,"length":27,"style":"textShadowOpacity:none"},{"offset":0,"length":27,"style":"lineHeight:120%"},{"offset":0,"length":27,"style":"textDecoration:none"},{"offset":0,"length":27,"style":"borderBottomStyle:none"},{"offset":0,"length":27,"style":"textShadowEnable:false"},{"offset":0,"length":27,"style":"hlnk:"},{"offset":0,"length":27,"style":"fontWeight:normal"},{"offset":0,"length":27,"style":"textShadowBlur:8px"},{"offset":0,"length":27,"style":"fontFamily:Arial"},{"offset":0,"length":27,"style":"overridden:false"},{"offset":0,"length":27,"style":"backgroundColor:unset"},{"offset":0,"length":27,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":27,"style":"hlnkt:wp"},{"offset":0,"length":27,"style":"fontStyle:normal"},{"offset":0,"length":27,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":27,"style":"defaultTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"false","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-2","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"5u6m","text":"eProcurement Communications","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":27,"style":"hlnkt:wp"},{"offset":0,"length":27,"style":"fontStyle:normal"},{"offset":0,"length":27,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":27,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":27,"style":"textOutlineEnable:false"},{"offset":0,"length":27,"style":"tablet-fontSize:32"},{"offset":0,"length":27,"style":"opacity:1"},{"offset":0,"length":27,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":27,"style":"hlnke:true"},{"offset":0,"length":27,"style":"defaultTextShadow:none"},{"offset":0,"length":27,"style":"mobile-fontSize:28"},{"offset":0,"length":27,"style":"textShadow:none"},{"offset":0,"length":27,"style":"textShadowX:0px"},{"offset":0,"length":27,"style":"fontStretch:normal"},{"offset":0,"length":27,"style":"fontType:regular"},{"offset":0,"length":27,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":27,"style":"textShadowY:4px"},{"offset":0,"length":27,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":27,"style":"letterSpacing:0%"},{"offset":0,"length":27,"style":"textHighlightEnable:false"},{"offset":0,"length":27,"style":"textTransform:none"},{"offset":0,"length":27,"style":"color:#020C1C"},{"offset":0,"length":27,"style":"desktop-fontSize:72"},{"offset":0,"length":27,"style":"textShadowOpacity:none"},{"offset":0,"length":27,"style":"lineHeight:120%"},{"offset":0,"length":27,"style":"textDecoration:none"},{"offset":0,"length":27,"style":"borderBottomStyle:none"},{"offset":0,"length":27,"style":"textShadowEnable:false"},{"offset":0,"length":27,"style":"hlnk:"},{"offset":0,"length":27,"style":"fontWeight:normal"},{"offset":0,"length":27,"style":"textShadowBlur:8px"},{"offset":0,"length":27,"style":"fontFamily:Arial"},{"offset":0,"length":27,"style":"overridden:false"},{"offset":0,"length":27,"style":"backgroundColor:unset"},{"offset":0,"length":27,"style":"WebkitTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"false","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -31661,12 +31646,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-8792:{
-ts:'{"effect":1,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 8773:{
 ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+8792:{
+ts:'{"effect":1,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -34403,20 +34388,20 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-8926:{
-ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
-8987:{
-ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+4111:{
+ts:''
 }
 ,
 4133:{
 ts:''
 }
 ,
-4111:{
-ts:''
+8926:{
+ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+8987:{
+ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -75813,7 +75798,6 @@ isResponsiveSim:0,
 currentFrame:1,
 useWidgetVersion7:false,
 isPublishedFromLacuna:false,
-slideAudios:'StAd0',
 vestr:1,
 vim:0,
 slides:'Slide541,Slide1700,Slide10096,Slide6040,Slide1562,Slide3814,Slide1910,Slide2026,Slide6039,Slide2837,Slide3160,Slide2721',
@@ -75875,7 +75859,7 @@ text:[]
 }
 ,{
 link:1562,
-text:['""']
+text:[]
 }
 ,{
 link:3814,
@@ -76295,14 +76279,7 @@ resources:['dr/04748.png','dr/04872.png','dr/08947.png','dr/08952.png','dr/08954
 
 }
 ];
-cp.model.audioresources=[{
-slideID:5,
-ResourceList:{
-resources:['ar/9902.mp3']
-}
-
-}
-];
+cp.model.audioresources=[];
 cp.model.videos=[
 ];
 cp.model.slideVideos=[
@@ -76312,7 +76289,6 @@ cp.model.slideVideos=[
 cp.model.tocVideos=[
 ];
 cp.model.audios=[
-'ar/9902.mp3'
 ];
 
 cp.initVariables = function(){
