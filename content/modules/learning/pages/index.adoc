@@ -1,7 +1,15 @@
 :doctitle: Learning Resource
 
-Module 1:
 
+
+Final Project All in One:
+
+xref:attachment$Final_Project/index.html[Final Project]
+
+Still some tidying up to do: some slide content to add, spelling, audio, accessibility, buttons, toc, etc to check.
+////
+
+Module 1:
 xref:attachment$Module1_Lesson1-1/index.html[Lesson1: Legislation]
 
 xref:attachment$Module1_Lesson1-2/index.html[Lesson2: The Public Procurement Process]
@@ -23,3 +31,4 @@ Lesson 4: WIP - Query Scenario 1 from Interviews
 Lesson 5: WIP - Query Scenario 2 from Interviews
 
 xref:attachment$Module1_Lesson2-6/index.html[Lesson6: Future Developments in eProcurement Data]
+////
