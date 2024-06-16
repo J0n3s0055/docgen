@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="added L1-4 learning">
+    <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="updated Module 2 lessons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,83 +108,13 @@
       <workItem from="1715369430904" duration="568000" />
       <workItem from="1716751041569" duration="43000" />
       <workItem from="1716751189329" duration="1726000" />
-    </task>
-    <task id="LOCAL-00116" summary="added Lesson1 files">
-      <created>1713255162822</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1713255162822</updated>
-    </task>
-    <task id="LOCAL-00117" summary="added ana temporarily">
-      <created>1713255381786</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1713255381786</updated>
-    </task>
-    <task id="LOCAL-00118" summary="added ana temporarily">
-      <created>1713255575262</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1713255575262</updated>
-    </task>
-    <task id="LOCAL-00119" summary="added podcast to art4">
-      <created>1713608164687</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1713608164688</updated>
-    </task>
-    <task id="LOCAL-00120" summary="added podcast to art4">
-      <created>1713609145170</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1713609145170</updated>
-    </task>
-    <task id="LOCAL-00121" summary="updated home page">
-      <created>1713609493759</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1713609493759</updated>
-    </task>
-    <task id="LOCAL-00122" summary="updated attachments">
-      <created>1713609799738</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1713609799738</updated>
-    </task>
-    <task id="LOCAL-00123" summary="updated pages">
-      <created>1713610701253</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1713610701253</updated>
-    </task>
-    <task id="LOCAL-00124" summary="updated pages">
-      <created>1713611311489</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1713611311489</updated>
-    </task>
-    <task id="LOCAL-00125" summary="updated pages">
-      <created>1713611379465</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1713611379465</updated>
-    </task>
-    <task id="LOCAL-00126" summary="updated pages">
-      <created>1713611626813</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1713611626813</updated>
+      <workItem from="1716838130807" duration="666000" />
+      <workItem from="1716909481908" duration="2267000" />
+      <workItem from="1717174375830" duration="18000" />
+      <workItem from="1717335008959" duration="3295000" />
+      <workItem from="1717603045605" duration="1519000" />
+      <workItem from="1718043057162" duration="1799000" />
+      <workItem from="1718210831730" duration="1691000" />
     </task>
     <task id="LOCAL-00127" summary="updated site name">
       <created>1713611934091</created>
@@ -452,7 +382,84 @@
       <option name="project" value="LOCAL" />
       <updated>1716752502487</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="added L1-4 learning">
+      <created>1716838193864</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1716838193866</updated>
+    </task>
+    <task id="LOCAL-00166" summary="added L1-4 learning">
+      <created>1716909775798</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1716909775799</updated>
+    </task>
+    <task id="LOCAL-00167" summary="added L1-4 learning">
+      <created>1716917595134</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1716917595134</updated>
+    </task>
+    <task id="LOCAL-00168" summary="added L1-4 learning">
+      <created>1716918089282</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1716918089282</updated>
+    </task>
+    <task id="LOCAL-00169" summary="added L1-2 video">
+      <created>1717335730910</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1717335730911</updated>
+    </task>
+    <task id="LOCAL-00170" summary="updated Module 2 lessons">
+      <created>1717336997674</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1717336997674</updated>
+    </task>
+    <task id="LOCAL-00171" summary="updated Module 2 lessons">
+      <created>1717337717428</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1717337717428</updated>
+    </task>
+    <task id="LOCAL-00172" summary="updated Module 2 lessons">
+      <created>1717338054129</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1717338054129</updated>
+    </task>
+    <task id="LOCAL-00173" summary="updated Module 2 lessons">
+      <created>1718043500227</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1718043500228</updated>
+    </task>
+    <task id="LOCAL-00174" summary="updated Module 2 lessons">
+      <created>1718044268874</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1718044268874</updated>
+    </task>
+    <task id="LOCAL-00175" summary="updated Module 2 lessons">
+      <created>1718216428605</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1718216428606</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,9 +477,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added robots.txt" />
-    <MESSAGE value="added robots.txt key" />
-    <MESSAGE value="updated nav" />
     <MESSAGE value="testing iframe" />
     <MESSAGE value="removed iframe" />
     <MESSAGE value="redesigned site" />
@@ -495,6 +499,9 @@
     <MESSAGE value="edited art1 page" />
     <MESSAGE value="corrected spelling" />
     <MESSAGE value="added L1-4 learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="added L1-4 learning" />
+    <MESSAGE value="added Module 2 learning" />
+    <MESSAGE value="added L1-2 video" />
+    <MESSAGE value="updated Module 2 lessons" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated Module 2 lessons" />
   </component>
 </project>
