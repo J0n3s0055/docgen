@@ -6,7 +6,6 @@ Final Project All in One:
 
 xref:attachment$Final_Project/index.html[Final Project]
 
-Still to do: Lesson intros and music
 ////
 
 Module 1:
