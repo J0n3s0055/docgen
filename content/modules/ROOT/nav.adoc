@@ -2,6 +2,9 @@
 
 * xref:home::index.adoc[Home]
 
+* [.separated]#**Final Project**#
+** xref:home:learning:attachment$Final_Project/index.html[Final Project]
+
 * [.separated]#**EL6052 Portfolio Assignment**#
 ** xref:portfolio:index.adoc[Introduction]
 ** xref:portfolio:art1_redesign_cup_instr.adoc[Instructions Redesign]
