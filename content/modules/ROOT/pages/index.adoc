@@ -7,7 +7,7 @@ Use the links in the left-hand menu or below to navigate to the MA Final Project
 
 The current page menu is located on the right-hand side of the page.
 
-==  xref:home:learning:attachments$Final_Project/index.html[Final Project]
+==  xref:home:learning:attachment$Final_Project/index.html[Final Project]
 The MA Final Project
 
 == xref:portfolio:index.adoc[Portfolio Assignment EL6052] +
