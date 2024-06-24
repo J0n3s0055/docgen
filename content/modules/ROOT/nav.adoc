@@ -3,7 +3,7 @@
 * xref:home::index.adoc[Home]
 
 * [.separated]#**Final Project**#
-** xref:home:learning:attachments$Final_Project/index.html[Final Project]
+** xref:learning:attachments$Final_Project/index.html[Final Project]
 
 * [.separated]#**EL6052 Portfolio Assignment**#
 ** xref:portfolio:index.adoc[Introduction]
