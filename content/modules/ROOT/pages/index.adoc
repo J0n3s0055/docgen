@@ -1,4 +1,4 @@
-:doctitle: Portfolio Site Student 22198644
+:doctitle: Project Site Student 22198644
 
 
 Welcome to the portfolio site of Nicole Paterson-Jones. I am a Technical Writer and eLearning Developer based in the Luxembourg and Northern France (Grande Est) area.
@@ -7,8 +7,8 @@ Use the links in the left-hand menu or below to navigate to the MA Final Project
 
 The current page menu is located on the right-hand side of the page.
 
-==  xref:home:learning:attachment$Final_Project/index.html[Final Project]
-The MA Final Project
+==  xref:home:learning:attachment$Final_Project/index.html[EL6013 MA Development Project]
+The EL6013 MA Development Project
 
 == xref:portfolio:index.adoc[Portfolio Assignment EL6052] +
 This page introduces 4 portfolio items completed during the MA in Technical Communication and eLearning at the University of Limerick, 2022 - 2024.
