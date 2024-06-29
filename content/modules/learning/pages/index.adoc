@@ -2,9 +2,9 @@
 
 
 
-Final Project All in One:
 
-xref:attachment$Final_Project/index.html[Final Project]
+
+xref:attachment$Final_Project/index.html[EL6013 MA Development Project]
 
 ////
 

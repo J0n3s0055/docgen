@@ -2,8 +2,8 @@
 
 * xref:home::index.adoc[Home]
 
-* [.separated]#**Final Project**#
-** xref:home:learning:attachment$Final_Project/index.html[Final Project]
+* [.separated]#**EL6013 MA Development Project**#
+** xref:home:learning:attachment$Final_Project/index.html[EL6013 MA Development Project]
 
 * [.separated]#**EL6052 Portfolio Assignment**#
 ** xref:portfolio:index.adoc[Introduction]
@@ -12,7 +12,7 @@
 ** xref:portfolio:art3_graphic_redesign.adoc[Graphic Redesign]
 ** xref:portfolio:art4_podcast.adoc[Podcast]
 
-* [.separated]#**Curriculum Vitae**#
+* [.separated]#**EL6052 Curriculum Vitae**#
 ** https://ulcampus.sharepoint.com/sites/ULStudentCV/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FULStudentCV%2FShared%20Documents%2FGeneral%2FNPJ%20skills%20based%20CV%20April%202024%2Epdf&parent=%2Fsites%2FULStudentCV%2FShared%20Documents%2FGeneral&p=true&ga=1[Curriculum Vitae: Nicole Paterson-Jones]
 
 ////
