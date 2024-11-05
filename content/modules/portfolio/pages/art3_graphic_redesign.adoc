@@ -59,7 +59,7 @@ The skills demonstrated were
 
 The graphic is from a popular but serious political magazine and could have shown the data more clearly and accurately without upsetting their readers.
 
-I extracted data from the original chart and recreated the chart using Excel. I  also created second chart which shows the comparison of fuel consumption per flight distance in a more clearly.
+I extracted data from the original chart and recreated the chart using Excel. I  also created second chart which shows the comparison of fuel consumption per flight distance more clearly.
 
 === What I learnt from analysing and improving the graphic
 
