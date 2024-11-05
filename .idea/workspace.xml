@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="updated Module 2 lessons">
+    <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="updated final project menus">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/modules/learning/attachments/Final_Project/assets/js/project.js" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/learning/attachments/Final_Project/assets/js/project.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +64,11 @@
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\attachments\Final_Project\assets\js" />
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\attachments\Final_Project\assets" />
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\attachments\Final_Project\ar" />
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\attachments\Final_Project" />
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\pages" />
-      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio\attachments" />
-      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio\images" />
-      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio\pages" />
-      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\blog\pages" />
     </key>
   </component>
   <component name="RunManager">
@@ -115,62 +116,11 @@
       <workItem from="1717603045605" duration="1519000" />
       <workItem from="1718043057162" duration="1799000" />
       <workItem from="1718210831730" duration="1691000" />
-    </task>
-    <task id="LOCAL-00127" summary="updated site name">
-      <created>1713611934091</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1713611934091</updated>
-    </task>
-    <task id="LOCAL-00128" summary="updated site name">
-      <created>1713612059533</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1713612059533</updated>
-    </task>
-    <task id="LOCAL-00129" summary="updated site name">
-      <created>1713617727584</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1713617727584</updated>
-    </task>
-    <task id="LOCAL-00130" summary="updated headings">
-      <created>1713622584184</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1713622584184</updated>
-    </task>
-    <task id="LOCAL-00131" summary="updated pages">
-      <created>1713623158820</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1713623158820</updated>
-    </task>
-    <task id="LOCAL-00132" summary="updated pages">
-      <created>1713627414104</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1713627414104</updated>
-    </task>
-    <task id="LOCAL-00133" summary="updated pages">
-      <created>1713627434711</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1713627434711</updated>
-    </task>
-    <task id="LOCAL-00134" summary="updated pages">
-      <created>1713627655990</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1713627655990</updated>
+      <workItem from="1719244338708" duration="1553000" />
+      <workItem from="1719309800658" duration="1238000" />
+      <workItem from="1719327911598" duration="656000" />
+      <workItem from="1719671240120" duration="2111000" />
+      <workItem from="1730819970665" duration="235000" />
     </task>
     <task id="LOCAL-00135" summary="updated pages">
       <created>1713627700426</created>
@@ -459,7 +409,63 @@
       <option name="project" value="LOCAL" />
       <updated>1718216428606</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="updated final project post slide backgrounds small corrections">
+      <created>1719159940794</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1719159940794</updated>
+    </task>
+    <task id="LOCAL-00177" summary="updated final project post slide backgrounds small corrections">
+      <created>1719244391022</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1719244391023</updated>
+    </task>
+    <task id="LOCAL-00178" summary="updated final project post slide backgrounds small corrections">
+      <created>1719258583054</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1719258583054</updated>
+    </task>
+    <task id="LOCAL-00179" summary="updated final project post slide backgrounds small corrections">
+      <created>1719309837901</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1719309837902</updated>
+    </task>
+    <task id="LOCAL-00180" summary="updated final project post slide backgrounds small corrections">
+      <created>1719327966373</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1719327966374</updated>
+    </task>
+    <task id="LOCAL-00181" summary="updated final project code">
+      <created>1719672631083</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1719672631084</updated>
+    </task>
+    <task id="LOCAL-00182" summary="updated final project code">
+      <created>1719673062978</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1719673062978</updated>
+    </task>
+    <task id="LOCAL-00183" summary="updated final project menus">
+      <created>1719673246258</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1719673246258</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,9 +483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="testing iframe" />
-    <MESSAGE value="removed iframe" />
-    <MESSAGE value="redesigned site" />
     <MESSAGE value="added artifacts" />
     <MESSAGE value="corrected link summary.adoc" />
     <MESSAGE value="updated cv index &amp; art4.adoc" />
@@ -502,6 +505,9 @@
     <MESSAGE value="added Module 2 learning" />
     <MESSAGE value="added L1-2 video" />
     <MESSAGE value="updated Module 2 lessons" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated Module 2 lessons" />
+    <MESSAGE value="updated final project post slide backgrounds small corrections" />
+    <MESSAGE value="updated final project code" />
+    <MESSAGE value="updated final project menus" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated final project menus" />
   </component>
 </project>
