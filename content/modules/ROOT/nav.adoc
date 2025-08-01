@@ -12,10 +12,11 @@
 ** xref:portfolio:art3_graphic_redesign.adoc[Graphic Redesign]
 ** xref:portfolio:art4_podcast.adoc[Podcast]
 
+
+////
 * [.separated]#**EL6052 Curriculum Vitae**#
 ** https://ulcampus.sharepoint.com/sites/ULStudentCV/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FULStudentCV%2FShared%20Documents%2FGeneral%2FNPJ%20skills%20based%20CV%20April%202024%2Epdf&parent=%2Fsites%2FULStudentCV%2FShared%20Documents%2FGeneral&p=true&ga=1[Curriculum Vitae: Nicole Paterson-Jones]
 
-////
 * [.separated]#**test_slide1**#
 ** xref:home:portfolio:attachment$Lesson1/index.html[Lesson1]
 
