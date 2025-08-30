@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ccbb527e-64f6-4678-99d5-77830ee614c0" name="Changes" comment="updated final project menus">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/modules/learning/attachments/Final_Project/assets/js/project.js" beforeDir="false" afterPath="$PROJECT_DIR$/content/modules/learning/attachments/Final_Project/assets/js/project.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2cVaDZVKTx4nyATUHDNDXj8Lgmj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,11 +66,11 @@
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\attachments\Final_Project\dr" />
+      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\attachments\Final_Project\dist" />
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\attachments\Final_Project\assets\js" />
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\attachments\Final_Project\assets" />
       <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\attachments\Final_Project\ar" />
-      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\attachments\Final_Project" />
-      <recent name="C:\Users\j0n3s\code\LuxTechWriting\docgen\content\modules\learning\pages" />
     </key>
   </component>
   <component name="RunManager">
@@ -121,20 +123,7 @@
       <workItem from="1719327911598" duration="656000" />
       <workItem from="1719671240120" duration="2111000" />
       <workItem from="1730819970665" duration="235000" />
-    </task>
-    <task id="LOCAL-00135" summary="updated pages">
-      <created>1713627700426</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1713627700426</updated>
-    </task>
-    <task id="LOCAL-00136" summary="updated pages">
-      <created>1713628247632</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1713628247633</updated>
+      <workItem from="1730820311672" duration="2490000" />
     </task>
     <task id="LOCAL-00137" summary="updated pages">
       <created>1713628596756</created>
@@ -465,7 +454,21 @@
       <option name="project" value="LOCAL" />
       <updated>1719673246258</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="updated final project menus">
+      <created>1730820637393</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1730820637394</updated>
+    </task>
+    <task id="LOCAL-00185" summary="updated final project menus">
+      <created>1730825173418</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1730825173418</updated>
+    </task>
+    <option name="localTasksCounter" value="186" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
